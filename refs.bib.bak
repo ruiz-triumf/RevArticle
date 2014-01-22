@@ -1,0 +1,1261 @@
+% This file was created with JabRef 2.7.2.
+% Encoding: UTF8
+
+@STRING{aa = {Astron. Astrophys}}
+
+@STRING{adndt = {Atomic Data and Nuclear Data Tables}}
+
+@STRING{apj = {Astrophys. J.}}
+
+@STRING{apjs = {Astrophys. J. Suppl.}}
+
+@STRING{epja = {Eur. Phys. J. A}}
+
+@STRING{epjc = {Eur. Phys. J. C}}
+
+@STRING{epjd = {Eur. Phys. J. D}}
+
+@STRING{jpb = {J. Phys. B: At. Mol. Opt. Phys}}
+
+@STRING{nim = {Nucl. Instr. Meth.}}
+
+@STRING{nima = {Nucl. Instr. Meth. A}}
+
+@STRING{nimb = {Nucl. Instr. Meth. B}}
+
+@STRING{npa = {Nucl. Phys. A}}
+
+@STRING{pl = {Phys. Lett.}}
+
+@STRING{pla = {Phys. Lett. A}}
+
+@STRING{plb = {Phys. Lett. B}}
+
+@STRING{prc = {Phys. Rev. C}}
+
+@STRING{prl = {Phys. Rev. Lett.}}
+
+@STRING{rmp = {Rev. Mod. Phys.}}
+
+@STRING{zpa = {Z. Phys. A}}
+
+@ARTICLE{angu99,
+  author = {C. Angulo and M. Arnould and M. Rayet and P. Descouvemont and D.
+	Baye and C. Leclercq-Willain and A. Coc and S. Barhoumi and P. Aguer
+	and C. Rolfs and R. Kunz and J.W. Hammer and A. Mayer and T. Paradellis
+	and S. Kossionides and C. Chronidou and K. Spyrou and S. Degl'Innocenti
+	and G. Fiorentini and B. Ricci and S. Zavatarelli and C. Providencia
+	and H. Wolters and J. Soares and C. Grama and J. Rahighi and A. Shotter
+	and M. Lamehi Rachti},
+  title = {A compilation of charged particle induced thermonuclear reaction
+	rates},
+  journal = npa,
+  year = {1999},
+  volume = {656},
+  pages = {3--181},
+  doi = {10.1016/S0375-9474(99)00030-5},
+  issn = {0375-9474}
+}
+
+@ARTICLE{angu01,
+  author = {C. Angulo and M. Couder and S. Cherubini and W. Galster and J.-S.
+	Graulich and P. Leleux and F. Vanderbist and A.C. Shotter},
+  title = {First results with the recoil separator {ARES}},
+  journal = npa,
+  year = {2001},
+  volume = {688},
+  pages = {462 - 464},
+  number = {1-2},
+  doi = {10.1016/S0375-9474(01)00756-4},
+  issn = {0375-9474},
+  url = {http://www.sciencedirect.com/science/article/pii/S0375947401007564}
+}
+
+@ARTICLE{ball11,
+  author = {G. C. Ball and L. Buchmann and B. Davids and R. Kanungo and C. Ruiz
+	and C. E. Svensson},
+  title = {Physics with reaccelerated radioactive beams at {TRIUMF-ISAC}},
+  journal = {J. Phys. B: Nucl. Part. Phys},
+  year = {2011},
+  volume = {38},
+  pages = {024003}
+}
+
+@ARTICLE{bard09,
+  author = {Bardayan, D. and Chipps, K. and Fitzgerald, R. and Blackmon, J. and
+	Chae, K. and Champagne, A. and Greife, U. and Hatarik, R. and Kozub,
+	R. and Matei, C. and Moazen, B. and Nesaraja, C. and Pain, S. and
+	Peters, W. and Pittman, S. and Shriner, J. and Smith, M.},
+  title = {{Direct measurements of ($p$,$\gamma$) cross-sections at astrophysical
+	energies using radioactive beams and the Daresbury Recoil Separator}},
+  journal = epja,
+  year = {2009},
+  volume = {42},
+  pages = {457-460},
+  note = {10.1140/epja/i2008-10737-8},
+  affiliation = {Oak Ridge National Laboratory Physics Division 37831 Oak Ridge TN
+	USA},
+  issn = {1434-6001},
+  issue = {3},
+  keyword = {Physics and Astronomy},
+  publisher = {Springer Berlin / Heidelberg},
+  url = {http://dx.doi.org/10.1140/epja/i2008-10737-8}
+}
+
+@ARTICLE{bat01,
+  author = {N. Bateman and others},
+  journal = prc,
+  year = {2001},
+  volume = {63},
+  pages = {035803},
+  owner = {chris},
+  timestamp = {2012.04.16}
+}
+
+@ARTICLE{cag02,
+  author = {J. A. Caggiano and others},
+  journal = prc,
+  year = {2002},
+  volume = {66},
+  pages = {15804},
+  owner = {chris},
+  timestamp = {2012.04.16}
+}
+
+@ARTICLE{card96,
+  author = {G. Cardella and F. Amorini and M. Cabibbo and A Di Pietro and G.
+	Fallica and G. Franz√≤ and P. Figuera and S. Li and A. Musumarra
+	and M. Papa and G. Pappalardo and G. Percolla and F. Priolo and V.
+	Privitera and F. Rizzo and S. Tudisco},
+  title = {A monolithic silicon detector telescope},
+  journal = nima,
+  year = {1996},
+  volume = {378},
+  pages = {262 - 266},
+  number = {1 -- 2},
+  doi = {10.1016/0168-9002(96)00164-7},
+  issn = {0168-9002},
+  url = {http://www.sciencedirect.com/science/article/pii/0168900296001647}
+}
+
+@ARTICLE{caug88,
+  author = {G. R. Caughlan and W. A. Fowler},
+  title = {THERMONUCLEAR REACTION RATES {V}},
+  journal = adndt,
+  year = {1988},
+  volume = {40},
+  pages = {283--334}
+}
+
+@ARTICLE{che01,
+  author = {A. A. Chen and others},
+  journal = prc,
+  year = {2001},
+  volume = {63},
+  pages = {065807},
+  owner = {chris},
+  timestamp = {2012.04.16}
+}
+
+@ARTICLE{chip09a,
+  author = {Chipps, K. A. and Bardayan, D. W. and Blackmon, J. C. and Chae, K.
+	Y. and Greife, U. and Hatarik, R. and Kozub, R. L. and Matei, C.
+	and Moazen, B. H. and Nesaraja, C. D. and Pain, S. D. and Peters,
+	W. A. and Pittman, S. T. and Shriner, J. F. and Smith, M. S.},
+  title = {{First Direct Measurement of the $^{17}\mathrm{F}$($p$,$\gamma$)$^{18}\mathrm{Ne}$
+	Cross Section}},
+  journal = prl,
+  year = {2009},
+  volume = {102},
+  pages = {152502},
+  month = {Apr},
+  doi = {10.1103/PhysRevLett.102.152502},
+  issue = {15},
+  numpages = {4},
+  publisher = {American Physical Society},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.102.152502}
+}
+
+@ARTICLE{chip09b,
+  author = {Chipps, K. A. and Bardayan, D. W. and Nesaraja, C. D. and Smith,
+	M. S. and Blackmon, J. C. and Chae, K. Y. and Moazen, B. H. and Pittman,
+	S. T. and Greife, U. and Hatarik, R. and Peters, W. A. and Kozub,
+	R. L. and Shriner, J. F. and Matei, C. and Pain, S. D.},
+  title = {The $^{17}\mathrm{F}$($p,\gamma${})$^{18}\mathrm{Ne}$ resonant cross
+	section},
+  journal = prc,
+  year = {2009},
+  volume = {80},
+  pages = {065810},
+  month = {Dec},
+  doi = {10.1103/PhysRevC.80.065810},
+  issue = {6},
+  numpages = {8},
+  publisher = {American Physical Society},
+  url = {http://link.aps.org/doi/10.1103/PhysRevC.80.065810}
+}
+
+@ARTICLE{coud05,
+  author = {M. Couder and C. Angulo and E. Casarejos and P. Demaret and P. Leleux
+	and F. Vanderbist},
+  title = {Study of the $^{19}${Ne}($p$,$\gamma$)$^{20}${Na} reaction and subsequent
+	improvements to {ARES}},
+  journal = npa,
+  year = {2005},
+  volume = {758},
+  pages = {741 - 744},
+  number = {0},
+  doi = {10.1016/j.nuclphysa.2005.05.191},
+  issn = {0375-9474},
+  url = {http://www.sciencedirect.com/science/article/pii/S0375947405008286}
+}
+
+@ARTICLE{coud03,
+  author = {M Couder and C Angulo and W Galster and J.-S Graulich and P Leleux
+	and P Lipnik and G Tabacaru and F Vanderbist},
+  title = {Performance of the {ARES} recoil separator for ($p$,$\gamma$) reaction
+	measurements},
+  journal = nima,
+  year = {2003},
+  volume = {506},
+  pages = {26 - 34},
+  number = {1-2},
+  doi = {10.1016/S0168-9002(03)01381-0},
+  issn = {0168-9002},
+  keywords = {Nuclear astrophysics},
+  url = {http://www.sciencedirect.com/science/article/pii/S0168900203013810}
+}
+
+@ARTICLE{cou08,
+  author = {M. Couder and others},
+  journal = nima,
+  year = {2008},
+  volume = {587},
+  pages = {34-45},
+  owner = {chris},
+  timestamp = {2012.04.27}
+}
+
+@ARTICLE{daur04,
+  author = {D'Auria, J. M. and Azuma, R. E. and Bishop, S. and Buchmann, L. and
+	Chatterjee, M. L. and Chen, A. A. and Engel, S. and Gigliotti, D.
+	and Greife, U. and Hunter, D. and Hussein, A. and Hutcheon, D. and
+	Jewett, C. C. and Jos\'e, J. and King, J. D. and Laird, A. M. and
+	Lamey, M. and Lewis, R. and Liu, W. and Olin, A. and Ottewell, D.
+	and Parker, P. and Rogers, J. and Ruiz, C. and Trinczek, M. and Wrede,
+	C.},
+  title = {{The $^{21}$Na($p$,$\gamma$ )$^{22}$Mg reaction from $E_{c.m.}$ =
+	200 to 1103 keV in novae and x-ray bursts}},
+  journal = prc,
+  year = {2004},
+  volume = {69},
+  pages = {065803},
+  doi = {10.1103/PhysRevC.69.065803},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{dau04,
+  author = {J. M. D'Auria and R. E. Azuma and S. Bishop and L. Buchmann and M.
+	L. Chatterjee and A. A. Chen and S. Engel and D. Gigliotti and U.
+	Greife and D. Hunter and A. Hussein and D. Hutcheon and C. C. Jewett
+	and J. Jos\'{e} and J. D. King and A. M. Laird and M. Lamey and R.
+	Lewis and W. Liu and A. Olin and D. Ottewell and P. Parker and J.
+	Rogers and C. Ruiz and M. Trinczek and C. Wrede},
+  title = {{The $^{21}$Na(p,$\gamma$)$^{22}$Mg reaction from E$_{c.m.}$=200
+	to 1103 keV in novae and x-ray bursts}},
+  journal = prc,
+  year = {2004},
+  volume = {69},
+  pages = {065803}
+}
+
+@MISC{dav12,
+  author = {B. Davids},
+  howpublished = {Private Communication},
+  month = {April},
+  year = {2012},
+  owner = {chris},
+  timestamp = {2012.04.26}
+}
+
+@ARTICLE{Da92,
+  author = {C. N. Davids and others},
+  journal = nimb,
+  year = {1992},
+  volume = {70},
+  pages = {358},
+  owner = {chris},
+  timestamp = {2012.03.27}
+}
+
+@ARTICLE{die95,
+  author = {R. Diehl and others},
+  journal = aa,
+  year = {1995},
+  volume = {298},
+  pages = {445},
+  owner = {chris},
+  timestamp = {2012.04.18}
+}
+
+@ARTICLE{dile08,
+  author = {A. DiLeva and M. De Cesare and D. Sch\"{u}rmann and N. De Cesare
+	and A. D‚ÄôOnofrio and L. Gialanella and R. Kunz and G. Imbriani
+	and A. Ordine and V. Roca and D. Rogalla and C. Rolfs and M. Romano
+	and E. Somorjai and F. Strieder and F. Terrasi},
+  title = {Recoil separator {ERNA}: Measurement of $^3${He}($\alpha$,$\gamma$)$^7${Be}},
+  journal = nima,
+  year = {2008},
+  volume = {595},
+  pages = {381--390},
+  number = {2},
+  doi = {10.1016/j.nima.2008.07.082},
+  issn = {0168-9002},
+  keywords = {Recoil separator},
+  url = {http://www.sciencedirect.com/science/article/pii/S0168900208009236}
+}
+
+@ARTICLE{dile09,
+  author = {DiLeva, A. and Gialanella, L. and Kunz, R. and Rogalla, D. and Sch\"urmann,
+	D. and Strieder, F. and De Cesare, M. and De Cesare, N. and D'Onofrio,
+	A. and F\"ul\"op, Z. and Gy\"urky, G. and Imbriani, G. and Mangano,
+	G. and Ordine, A. and Roca, V. and Rolfs, C. and Romano, M. and Somorjai,
+	E. and Terrasi, F.},
+  title = {Stellar and Primordial Nucleosynthesis of $^{7}\mathrm{Be}$: Measurement
+	of $^{3}\mathrm{He}$($\alpha$,$\gamma$)$^{7}\mathrm{Be}$},
+  journal = prl,
+  year = {2009},
+  volume = {102},
+  pages = {232502},
+  month = {Jun},
+  doi = {10.1103/PhysRevLett.102.232502},
+  issue = {23},
+  numpages = {4},
+  publisher = {American Physical Society},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.102.232502}
+}
+
+@ARTICLE{dom07,
+  author = {M. Dombsky and others},
+  title = {Development of a high intensity 26gAl beam from SiC targets for accelerated
+	beam experiments at ISAC},
+  journal = nimb,
+  year = {2007},
+  volume = {264},
+  pages = {117-124},
+  owner = {chris},
+  timestamp = {2012.08.01}
+}
+
+@ARTICLE{eng05,
+  author = {S. Engel and D. A. Hutcheon and S. Bishop and L. Buchmann and J.
+	Caggiano and M. L. Chatterjee and A. A. Chen and J. M. D'Auria and
+	D. Gigliotti and U. Greife and D. Hunter and A. Hussein and C. C.
+	Jewett and A. M. Laird and M. Lamey and W. Liu and A. Olin and D.
+	Ottewell and J. Pearson and C. Ruiz and G. Ruprecht and M. Trinczek
+	and C. Vockenhuber and C. Wrede},
+  title = {{Commissioning the DRAGON facility at ISAC}},
+  journal = nima,
+  year = {2005},
+  volume = {553},
+  pages = {491-500}
+}
+
+@ARTICLE{eri10,
+  author = {Erikson, L. and Ruiz, C. and Ames, F. and Bricault, P. and Buchmann,
+	L. and Chen, A. A. and Chen, J. and Dare, H. and Davids, B. and Davis,
+	C. and Deibel, C. M. and Dombsky, M. and Foubister, S. and Galinski,
+	N. and Greife, U. and Hager, U. and Hussein, A. and Hutcheon, D.
+	A. and Lassen, J. and Martin, L. and Ottewell, D. F. and Ouellet,
+	C. V. and Ruprecht, G. and Setoodehnia, K. and Shotter, A. C. and
+	Teigelhöfer, A. and Vockenhuber, C. and Wrede, C. and Wallner, A.},
+  title = {{First direct measurement of the $^{23}$Mg(p,$\gamma$)$^{24}$Al reaction}},
+  journal = prc,
+  year = {2010},
+  volume = {81},
+  pages = {045808},
+  owner = {chris},
+  timestamp = {2012.03.27}
+}
+
+@ARTICLE{gial02,
+  author = {L Gialanella and U Greife and N De Cesare and A D'Onofrio and M Romano
+	and L Campajola and A Formicola and Z Fulop and G Gyurky and G Imbriani
+	and C Lubritto and A Ordine and V Roca and D Rogalla and C Rolfs
+	and M Russo and C Sabbarese and E Somorjai and F Strieder and F Terrasi
+	and H.P Trautvetter},
+  title = {Off-line production of a $^7${Be} radioactive ion beam},
+  journal = nimb,
+  year = {2002},
+  volume = {197},
+  pages = {150 -- 154},
+  number = {1--2},
+  doi = {10.1016/S0168-583X(02)01386-1},
+  issn = {0168-583X},
+  url = {http://www.sciencedirect.com/science/article/pii/S0168583X02013861}
+}
+
+@ARTICLE{gial04,
+  author = {L Gialanella and D Sch\"{u}rmann and F Strieder and A Di Leva and
+	N De Cesare and A D‚ÄôOnofrio and G Imbriani and J Klug and C Lubritto
+	and A Ordine and V Roca and H R\"{o}cken and C Rolfs and D Rogalla
+	and M Romano and F Sch\"{u}mann and F Terrasi and H.P Trautvetter},
+  title = {Recoil separator {ERNA}: gas target and beam suppression},
+  journal = nima,
+  year = {2004},
+  volume = {522},
+  pages = {432 - 438},
+  number = {3},
+  doi = {10.1016/j.nima.2003.11.386},
+  issn = {0168-9002},
+  keywords = {Recoil separator},
+  url = {http://www.sciencedirect.com/science/article/pii/S0168900203031541}
+}
+
+@ARTICLE{gial96,
+  author = {L Gialanella and F Strieder and K Brand and L Campajola and A D'Onofrio
+	and U Greife and E Huttel and F Petrazzuolo and V Roca and C Rolfs
+	and M Romano and M Romoli and S Schmidt and W.H Schulte and F Terrasi
+	and H.P Trautvetter and D Zahnow},
+  title = {A recoil separator for the measurement of radiative capture reactions},
+  journal = nima,
+  year = {1996},
+  volume = {376},
+  pages = {174 - 184},
+  number = {2},
+  doi = {10.1016/0168-9002(96)00264-1},
+  issn = {0168-9002},
+  url = {http://www.sciencedirect.com/science/article/pii/0168900296002641}
+}
+
+@ARTICLE{gial00,
+  author = {Gialanella, L. and Strieder, F. and Campajola, L. and D'Onofrio,
+	A. and Greife, U. and Gyurky, G. and Imbriani, G. and Oliviero, G.
+	and Ordine, A. and Roca, V. and Rolfs, C. and Romano, M. and Rogalla,
+	D. and Sabbarese, C. and Somorjai, E. and Terrasi, F. and Trautvetter,
+	H.P.},
+  title = {Absolute cross section of $p$($^7${Be},$\gamma$)$^8${B} using a novel
+	approach},
+  journal = epja,
+  year = {2000},
+  volume = {7},
+  pages = {303--305},
+  note = {10.1007/PL00013599},
+  affiliation = {Dipartimento di Scienze Fisiche, Universit√† Federico II, Napoli and
+	INFN, Napoli, Italy IT},
+  issn = {1434-6001},
+  issue = {3},
+  keyword = {Physics and Astronomy},
+  publisher = {Springer Berlin / Heidelberg},
+  url = {http://dx.doi.org/10.1007/PL00013599}
+}
+
+@ARTICLE{gig03,
+  author = {Dario G. Gigliotti and Joel G. Rogers and Ahmed H. Hussein},
+  title = {{Calibration and simulation of a gamma array for DRAGON at ISAC}},
+  journal = nimb,
+  year = {2003},
+  volume = {204},
+  pages = {671--677},
+  owner = {chris},
+  timestamp = {2012.03.27}
+}
+
+@ARTICLE{gre91,
+  author = {M. Greenfield and others},
+  journal = npa,
+  year = {1991},
+  volume = {524},
+  pages = {228},
+  owner = {chris},
+  timestamp = {2012.04.19}
+}
+
+@ARTICLE{grei04,
+  author = {U Greife and S Bishop and L Buchmann and M.L Chatterjee and A.A Chen
+	and J.M D'Auria and S Engel and D Gigliotti and D Hunter and D.A
+	Hutcheon and A Hussein and C.C Jewett and A.M Laird and M Lamey and
+	W Liu and A Olin and D Ottewell and J Rogers and C Wrede},
+  title = {Energy loss around the stopping power maximum of {Ne, Mg and Na}
+	ions in hydrogen gas},
+  journal = nimb,
+  year = {2004},
+  volume = {217},
+  pages = {1 -- 6},
+  number = {1},
+  doi = {10.1016/j.nimb.2003.09.042},
+  issn = {0168-583X},
+  url = {http://www.sciencedirect.com/science/article/pii/S0168583X03020172}
+}
+
+@ARTICLE{hag12,
+  author = {Hager, U. and Buchmann, L. and Davids, B. and Fallis, J. and Fulton,
+	B. R. and Galinski, N. and Greife, U. and Hutcheon, D. A. and Ottewell,
+	D. and Rojas, A. and Ruiz, C. and Setoodehnia, K.},
+  title = {{Measurement of the $^{17}$O(p,$\gamma$)$^{18}$F reaction rate at
+	astrophysically relevant energies}},
+  journal = prc,
+  year = {2012},
+  volume = {85},
+  pages = {035803},
+  owner = {chris},
+  timestamp = {2012.03.30}
+}
+
+@ARTICLE{hahn87,
+  author = {Hahn, K. H. and Chang, K. H. and Donoghue, T. R. and Filippone, B.
+	W.},
+  title = {Search for nonresonant capture in the $^{16}${O}($\alpha$,$\gamma$)$^{20}${Ne}
+	reaction at low energies},
+  journal = prc,
+  year = {1987},
+  volume = {36},
+  pages = {892--898},
+  number = {3},
+  month = {Sep},
+  doi = {10.1103/PhysRevC.36.892},
+  numpages = {6},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{har03,
+  author = {J. Hardy and others},
+  journal = prl,
+  year = {2003},
+  volume = {91},
+  pages = {082501},
+  owner = {chris},
+  timestamp = {2012.04.18}
+}
+
+@ARTICLE{hut03,
+  author = {D. A. Hutcheon and S. Bishop and L. Buchmann and M. L. Chatterjee
+	and A. A. Chen and J. M. D'Auria and S. Engel and D. Gigliotti and
+	U. Greife and D. Hunter and A. Hussein and C. Jewett and N. Khan
+	and M. Lamey and A. M. Laird and W. Liu and A. Olin and D. Ottewell
+	and J. G. Rogers and G. Roy and H. Sprenger and C. Wrede},
+  title = {{The DRAGON facility for nuclear astrophysics at TRIUMF-ISAC}},
+  journal = npa,
+  year = {2003},
+  volume = {718},
+  pages = {515-517}
+}
+
+@ARTICLE{hut03a,
+  author = {D. A. Hutcheon and S. Bishop and L. Buchmann and M. L. Chatterjee
+	and A. A. Chen and J. M. D'Auria and S. Engel and D. Gigliotti and
+	U. Greife and D. Hunter and A. Hussein and C. C. Jewett and N. Khan
+	and M. Lamey and A. M. Laird and W. Liu and A. Olin and D. Ottewell
+	and J. G. Rogers and G. Roy and H. Sprenger and C. Wrede},
+  title = {{The DRAGON facility for nuclear astrophysics at TRIUMF-ISAC: design,
+	construction and operation}},
+  journal = nima,
+  year = {2003},
+  volume = {498},
+  pages = {190-210}
+}
+
+@ARTICLE{hutc03b,
+  author = {D. A. Hutcheon and S. Bishop and L. Buchmann and M. L. Chatterjee
+	and A. A. Chen and J. M. D'Auria and S. Engel and D. Gigliotti and
+	U. Greife and D. Hunter and A. Hussein and C. C. Jewett and N. Khan
+	and M. Lamey and A. M. Laird and W. Liu and A. Olin and D. Ottewell
+	and J. G. Rogers and G. Roy and H. Sprenger and C. Wrede},
+  title = {The {DRAGON} facility for nuclear astrophysics at {TRIUMF-ISAC}:
+	design, construction and operation},
+  journal = nima,
+  year = {2003},
+  volume = {498},
+  pages = {190--210}
+}
+
+@ARTICLE{hut12,
+  author = {D. A. Hutcheon and C. Ruiz and J. Fallis and J. M. D'Auria and B.
+	Davids and U. Hager and L. Martin and D. F. Ottewell and S. Reeve
+	and A. Rojas},
+  title = {Measurement of Radiative Capture Resonance Energies with an Extended
+	Gas Target},
+  journal = {submitted to } # nima,
+  year = {2012},
+  owner = {chris},
+  timestamp = {2012.03.27}
+}
+
+@ARTICLE{hutc08,
+  author = {D. Hutcheon and L. Buchmann and A.A. Chen and J.M. D'Auria and C.A.
+	Davis and U. Greife and A. Hussein and D.F. Ottewell and C.V. Ouellet
+	and A. Parikh and P. Parker and J. Pearson and C. Ruiz and G. Ruprecht
+	and M. Trinczek and C. Vockenhuber},
+  title = {Background suppression by the {DRAGON} radiative capture facility
+	at {TRIUMF/ISAC}},
+  journal = nimb,
+  year = {2008},
+  volume = {266},
+  pages = {4171--4175},
+  doi = {10.1016/j.nimb.2008.05.133},
+  issn = {0168-583X},
+  url = {http://www.sciencedirect.com/science/article/pii/S0168583X0800699X}
+}
+
+@ARTICLE{ilia02,
+  author = {C. Iliadis and Art Champagne and Jordi Jos\'{e} and Sumner Starrfield
+	and Paul Tupper},
+  title = {{The Effects of Thermonuclear Reaction-Rate Variations on Nova Nucleosynthesis:
+	A Sensitivity Study}},
+  journal = apjs,
+  year = {2002},
+  volume = {142},
+  pages = {105--137}
+}
+
+@ARTICLE{ilia01,
+  author = {Christian Iliadis and John M. D'Auria and Sumner Starrfield and William
+	J. Thompson and Michael Wiescher},
+  title = {Proton-induced Thermonuclear Reaction Rates for {A} = 20‚Äì40 Nuclei},
+  journal = apjs,
+  year = {2001},
+  volume = {134},
+  pages = {151--171},
+  owner = {chris},
+  timestamp = {2012.03.13}
+}
+
+@ARTICLE{Ili10b,
+  author = {Iliadis, C. and Longland, R. and Champagne, A. E. and Coc, A.},
+  title = {Charged-particle thermonuclear reaction rates: III. Nuclear physics
+	input},
+  journal = npa,
+  year = {2010},
+  volume = {841},
+  pages = {251--322},
+  owner = {chris},
+  timestamp = {2013.03.01}
+}
+
+@ARTICLE{Ili10c,
+  author = {Iliadis, C. and Longland, R. and Champagne, A. E. and Coc, A.},
+  title = {Charged-particle thermonuclear reaction rates: IV. Comparison to
+	previous work},
+  journal = npa,
+  year = {2010},
+  volume = {841},
+  pages = {323--388},
+  owner = {chris},
+  timestamp = {2013.03.01}
+}
+
+@ARTICLE{Ili10a,
+  author = {Iliadis, C. and Longland, R. and Champagne, A. E. and Coc, A. and
+	Fitzgerald, R.},
+  title = {Charged-particle thermonuclear reaction rates: II. Tables and graphs
+	of reaction rates and probability density functions},
+  journal = npa,
+  year = {2010},
+  volume = {841},
+  pages = {31--250},
+  owner = {chris},
+  timestamp = {2013.03.01}
+}
+
+@ARTICLE{ili02,
+  author = {C. Iliadis and others},
+  journal = apjs,
+  year = {2002},
+  volume = {142},
+  pages = {105},
+  owner = {chris},
+  timestamp = {2012.04.19}
+}
+
+@ARTICLE{Ja88,
+  author = {A. N. James and others},
+  journal = nima,
+  year = {1988},
+  volume = {267},
+  pages = {144},
+  owner = {chris},
+  timestamp = {2012.03.27}
+}
+
+@ARTICLE{jos99,
+  author = {J. Jos\'{e} and A. Coc and M. Hernanz},
+  journal = apj,
+  year = {1999},
+  volume = {520},
+  pages = {347},
+  owner = {chris},
+  timestamp = {2012.04.18}
+}
+
+@ARTICLE{kemm88,
+  author = {J. A. Kemmer},
+  title = {Silicon detectors for nuclear reactions},
+  journal = {Sensors and Actuators},
+  year = {1988},
+  volume = {15},
+  pages = {169--184}
+}
+
+@ARTICLE{kno04,
+  author = {J. Kn\"{o}dlseder},
+  journal = {New Astron. Rev.},
+  year = {2004},
+  volume = {48},
+  pages = {189},
+  owner = {chris},
+  timestamp = {2012.04.18}
+}
+
+@ARTICLE{krem88,
+  author = {Kremer, R. M. and Barnes, C. A. and Chang, K. H. and Evans, H. C.
+	and Filippone, B. W. and Hahn, K. H. and Mitchell, L. W.},
+  title = {Coincidence measurement of the $^{12}${C}($\alpha${},$\gamma${}${)}^{16}${O}
+	cross section at low energies},
+  journal = prl,
+  year = {1988},
+  volume = {60},
+  pages = {1475--1478},
+  month = {Apr},
+  doi = {10.1103/PhysRevLett.60.1475},
+  issue = {15},
+  publisher = {American Physical Society},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.60.1475}
+}
+
+@ARTICLE{kub95,
+  author = {S. K. S. Kubono and T. Kajino},
+  journal = npa,
+  year = {1995},
+  volume = {588},
+  pages = {521},
+  owner = {chris},
+  timestamp = {2012.04.19}
+}
+
+@ARTICLE{las09,
+  author = {J. Lassen and others},
+  journal = {AIP Conf. Proc.},
+  year = {2009},
+  volume = {1104},
+  pages = {9},
+  owner = {chris},
+  timestamp = {2012.04.19}
+}
+
+@ARTICLE{lax02,
+  author = {R. E. Laxdal and R. A. Baartman and P. Bricault and G. Dutto and
+	R. Poirier and P. Schmor and G. Stanford},
+  title = {{RNB post-accelerator for ISAC at TRIUMF- present and future}},
+  journal = npa,
+  year = {2002},
+  volume = {701},
+  pages = {647-650}
+}
+
+@ARTICLE{liu03,
+  author = {W Liu and G Imbriani and L Buchmann and A.A Chen and J.M D'Auria
+	and A D‚ÄôOnofrio and S Engel and L Gialanella and U Greife and D
+	Hunter and A Hussein and D.A Hutcheon and A Olin and D Ottewell and
+	D Rogalla and J Rogers and M Romano and G Roy and F Terrasi},
+  title = {Charge state studies of low energy heavy ions passing through hydrogen
+	and helium gas},
+  journal = {Nuclear Instruments and Methods in Physics Research Section A: Accelerators,
+	Spectrometers, Detectors and Associated Equipment},
+  year = {2003},
+  volume = {496},
+  pages = {198--214},
+  number = {1},
+  doi = {10.1016/S0168-9002(02)01629-7},
+  issn = {0168-9002},
+  keywords = {Charge state distributions},
+  url = {http://www.sciencedirect.com/science/article/pii/S0168900202016297}
+}
+
+@ARTICLE{Lon10,
+  author = {Longland, R. and Iliadis, C. and Champagne, A. E. and Newton, J.
+	R. and Ugalde, C. and Coc, A. and Fitzgerald, R.},
+  title = {Charged-particle thermonuclear reaction rates: I. Monte Carlo method
+	and statistical distributions},
+  journal = npa,
+  year = {2010},
+  volume = {841},
+  pages = {1--30},
+  owner = {chris},
+  timestamp = {2013.03.01}
+}
+
+@ARTICLE{lot08,
+  author = {G. Lotay and others},
+  journal = prc,
+  year = {2008},
+  volume = {77},
+  pages = {042802(R)},
+  owner = {chris},
+  timestamp = {2012.04.19}
+}
+
+@ARTICLE{mat06,
+  author = {Matei, C. and Buchmann, L. and Hannes, W. R. and Hutcheon, D. A.
+	and Ruiz, C. and Brune, C. R. and Caggiano, J. and Chen, A. A. and
+	D'Auria, J. and Laird, A. and Lamey, M. and Li, Zh. and Liu, Wp.
+	and Olin, A. and Ottewell, D. and Pearson, J. and Ruprecht, G. and
+	Trinczek, M. and Vockenhuber, C. and Wrede, C.},
+  title = {{Measurement of the Cascade Transition via the First Excited State
+	of $^{16}$O in the $^{12}$C($\alpha$,$\gamma$)$^{16}$O Reaction,
+	and Its S Factor in Stellar Helium Burning}},
+  journal = prl,
+  year = {2006},
+  volume = {97},
+  pages = {242503},
+  owner = {chris},
+  timestamp = {2012.03.27}
+}
+
+@ARTICLE{mic02,
+  author = {S. Michimasa and others},
+  journal = epja,
+  year = {2002},
+  volume = {14},
+  pages = {275},
+  owner = {chris},
+  timestamp = {2012.04.16}
+}
+
+@ARTICLE{rade84,
+  author = {V. Radeka},
+  title = {Semiconductor position-sensitive detectors},
+  journal = nim,
+  year = {1984},
+  volume = {226},
+  pages = {209--218},
+  number = {1},
+  doi = {10.1016/0168-9002(84)90193-1},
+  issn = {0168-9002},
+  url = {http://www.sciencedirect.com/science/article/pii/0168900284901931}
+}
+
+@ARTICLE{reh97,
+  author = {K. E. Rehm and others},
+  journal = prc,
+  year = {1997},
+  volume = {55},
+  pages = {R566-569},
+  owner = {chris},
+  timestamp = {2012.04.27}
+}
+
+@ARTICLE{Ro99,
+  author = {D. Rogalla and others},
+  journal = epja,
+  year = {1999},
+  volume = {6},
+  pages = {471},
+  owner = {chris},
+  timestamp = {2012.03.27}
+}
+
+@ARTICLE{roga03,
+  author = {D. Rogalla and D. Sch\"{u}rmann and F. Strieder and M. Aliotta and
+	N. DeCesare and A. DiLeva and C. Lubritto and A. D‚ÄôOnofrio and
+	L. Gialanella and G. Imbriani and J. Kluge and A. Ordine and V. Roca
+	and H. R\"{o}cken and C. Rolfs and M. Romano and F. Sch\"{u}mann
+	and F. Terrasi and H.P. Trautvetter},
+  title = {Recoil separator {ERNA}: acceptances in angle and energy},
+  journal = nima,
+  year = {2003},
+  volume = {513},
+  pages = {573 - 578},
+  number = {3},
+  doi = {10.1016/j.nima.2003.07.001},
+  issn = {0168-9002},
+  keywords = {Recoil separator},
+  url = {http://www.sciencedirect.com/science/article/pii/S016890020302120X}
+}
+
+@ARTICLE{roga99,
+  author = {D Rogalla and S Theis and L Campajola and A D'Onofrio and L Gialanella
+	and U Greife and G Imbriani and A Ordine and V Roca and C Rolfs and
+	M Romano and C Sabbarese and F Sch\"{u}mann and F Strieder and F
+	Terrasi and H.P Trautvetter},
+  title = {Recoil separator {ERNA}: ion beam purification},
+  journal = nima,
+  year = {1999},
+  volume = {437},
+  pages = {266 - 273},
+  number = {2-3},
+  doi = {10.1016/S0168-9002(99)00767-6},
+  issn = {0168-9002},
+  keywords = {ERNA},
+  url = {http://www.sciencedirect.com/science/article/pii/S0168900299007676}
+}
+
+@ARTICLE{rolfs74,
+  author = {C. Rolfs and R. E. Azuma},
+  title = {Interference effects in $^{12}\mathrm{C}$(p,$\gamma$)$^{13}\mathrm{N}$
+	and direct capture to bound states},
+  journal = npa,
+  year = {1974},
+  volume = {227},
+  pages = {291-308},
+  owner = {chris},
+  timestamp = {2012.03.13}
+}
+
+@ARTICLE{rol72,
+  author = {C. E. Rolfs and others},
+  journal = npa,
+  year = {1972},
+  volume = {191},
+  pages = {209},
+  owner = {chris},
+  timestamp = {2012.04.16}
+}
+
+@BOOK{rolf88,
+  title = {Cauldrons in the Cosmos},
+  publisher = {The University of Chicago Press},
+  year = {1988},
+  author = {C.~E.~Rolfs and W.~S.~Rodney}
+}
+
+@ARTICLE{rui05,
+  author = {C. Ruiz and others},
+  journal = prc,
+  year = {2005},
+  volume = {71},
+  pages = {025802},
+  owner = {chris},
+  timestamp = {2012.04.16}
+}
+
+@ARTICLE{rui06,
+  author = {Ruiz, C. and Parikh, A. and José, J. and Buchmann, L. and Caggiano,
+	J. A. and Chen, A. A. and Clark, J. A. and Crawford, H. and Davids,
+	B. and D'Auria, J. M. and Davis, C. and Deibel, C. and Erikson, L.
+	and Fogarty, L. and Frekers, D. and Greife, U. and Hussein, A. and
+	Hutcheon, D. A. and Huyse, M. and Jewett, C. and Laird, A. M. and
+	Lewis, R. and Mumby-Croft, P. and Olin, A. and Ottewell, D. F. and
+	Ouellet, C. V. and Parker, P. and Pearson, J. and Ruprecht, G. and
+	Trinczek, M. and Vockenhuber, C. and Wrede, C.},
+  title = {{Measurement of the E$_{c.m.}$=184keV Resonance Strength in the $^{26g}$Al(p,$\gamma$)$^{27}$Si
+	Reaction}},
+  journal = prl,
+  year = {2006},
+  volume = {96},
+  pages = {252501},
+  owner = {chris},
+  timestamp = {2012.03.27}
+}
+
+@ARTICLE{schu05,
+  author = {D. Sch\"{u}rmann and A. Di Leva and N. De Cesare and L. Gialanella
+	and G. Imbriani and C. Lubritto and A. Ordine and V. Roca and H.
+	R\"{o}cken and C. Rolfs and D. Rogalla and M. Romano and F. Sch\"{u}mann
+	and F. Strieder and F. Terrasi and H.-P. Trautvetter},
+  title = {Measurement of the cross section of $^{12}${C}($\alpha$,$\gamma$)$^{16}${O}
+	using the recoil mass separator {ERNA}},
+  journal = npa,
+  year = {2005},
+  volume = {758},
+  pages = {367 - 370},
+  number = {0},
+  doi = {10.1016/j.nuclphysa.2005.05.067},
+  issn = {0375-9474},
+  url = {http://www.sciencedirect.com/science/article/pii/S0375947405007165}
+}
+
+@ARTICLE{schu05b,
+  author = {D. Sch\"{u}rmann and A. Di Leva and L. Gialanella and D. Rogalla
+	and F. Strieder and N. De Cesare and A. D'Onofrio and G. Imbriani
+	and R. Kunz and C. Lubritto and A. Ordine and V. Roca and C. Rolfs
+	and M. Romano and F. Sch\"{u}mann and F. Terrasi and H.P. Trautvetter},
+  journal = epja,
+  year = {2005},
+  volume = {26},
+  pages = {301-305},
+  owner = {chris},
+  timestamp = {2012.04.26}
+}
+
+@ARTICLE{schu04,
+  author = {D. Sch\"{u}rmann and F. Strieder and A. Di Leva and L. Gialanella
+	and N. De Cesare and A. D'Onofrio and G. Imbriani and J. Klug and
+	C. Lubritto and A. Ordine and V. Roca and H. R√∂cken and C. Rolfs
+	and D. Rogalla and M. Romano and F. Sch\"{u}mann and F. Terrasi and
+	H.P. Trautvetter},
+  title = {Recoil separator {ERNA}: charge state distribution, target density,
+	beam heating, and longitudinal acceptance},
+  journal = nima,
+  year = {2004},
+  volume = {531},
+  pages = {428 - 434},
+  number = {3},
+  doi = {10.1016/j.nima.2004.05.131},
+  issn = {0168-9002},
+  keywords = {Recoil separator},
+  url = {http://www.sciencedirect.com/science/article/pii/S0168900204012896}
+}
+
+@ARTICLE{scha98,
+  author = {H. Schatz and A. Aprahamian and J. G√∂rres and M. Wiescher and T.
+	Rauscher and J.F. Rembges and F.-K. Thielemann and B. Pfeiffer and
+	P. M√∂ller and K.-L. Kratz and H. Herndl and B.A. Brown and H. Rebel},
+  title = {rp-process nucleosynthesis at extreme temperature and density conditions},
+  journal = {Physics Reports},
+  year = {1998},
+  volume = {294},
+  pages = {167 - 263},
+  number = {4},
+  doi = {10.1016/S0370-1573(97)00048-3},
+  issn = {0370-1573},
+  keywords = {Thermonuclear reaction rates},
+  url = {http://www.sciencedirect.com/science/article/pii/S0370157397000483}
+}
+
+@ARTICLE{sew05,
+  author = {D. Seweryniak and others},
+  journal = prl,
+  year = {2005},
+  volume = {94},
+  pages = {032501},
+  owner = {chris},
+  timestamp = {2012.04.16}
+}
+
+@ARTICLE{sin12,
+  author = {B. S. Nara Singh and S. K. L. Sjue and B. Davids and M. Hass and
+	P. Adsley and L. Buchmann and M. Carmona-Gallardo and J. Fallis and
+	S. P. Fox and B. Fulton and N. Galinski and U. Hager and D. A. Hutcheon
+	and A. M. Laird and L. Martin and D. Ottewell and S. Reeve and C.
+	Ruiz and G. Ruprecht and A. Shotter and O. Tengblad},
+  title = {{Cross section measurements of the $^{3}$He($\alpha$,$\gamma$)$^{7}$Be
+	reaction using DRAGON at TRIUMF}},
+  journal = {J. Physics: Conference Series},
+  year = {2012},
+  volume = {337},
+  pages = {012057},
+  owner = {chris},
+  timestamp = {2012.03.30}
+}
+
+@ARTICLE{sju12,
+  author = {S. K. L. Sjue and B. S. Nara Singh and P. Adsley and L. Buchmann
+	and M.
+	
+	Carmona-Gallardo and B. Davids and J. Fallis and B. R. Fulton and
+	N. Galinski and U.
+	
+	Hager and M. Hass and D. Howell and D. A. Hutcheon and A. M. Laird
+	and L. Martin and
+	
+	D. Ottewell and S. Reeve and C. Ruiz and G. Ruprecht and S. Triambak},
+  title = {Beam suppression of the {DRAGON} recoil separator for {$^{3}$He($\alpha$,$\gamma$)$^{7}$Be}},
+  journal = {submitted for publication in } # nima,
+  year = {2012},
+  owner = {chris},
+  timestamp = {2012.03.23}
+}
+
+@ARTICLE{smi03,
+  author = {D. M. Smith},
+  journal = {Astrophys. J. Lett.},
+  year = {2003},
+  volume = {589},
+  pages = {L55},
+  owner = {chris},
+  timestamp = {2012.04.18}
+}
+
+@ARTICLE{smit98,
+  author = {M.S. Smith and J.C. Blackmon and P.E. Koehler and T.A. Lewis and
+	J.W. McConnell and W.T. Milner and D.E. Pierce and D. Shapira and
+	D.W. Bardayan and A.A. Chen and P.D. Parker and K.B. Swartz and D.W.
+	Visser and R.L. Kozub and B.A. Johnson and M.E. Roettger and A.E.
+	Champagne and Z. Ma and U. Greife and F. Strieder and A.N. James
+	and M.A. Hofstee and M. Allen},
+  journal = {Proc. Of the 2nd Oak Ridge Symp. on Atomic and Nuclear Astrophysics,
+	ed. A. Mezzacappa},
+  year = {1998},
+  pages = {511--18},
+  publisher = {IOP Publ.}
+}
+
+@ARTICLE{smit91,
+  author = {M.S. Smith and C. Rolfs and C.A. Barnes},
+  title = {A recoil separator for use in radioactive ion beam experiments},
+  journal = nima,
+  year = {1991},
+  volume = {306},
+  pages = {233--239},
+  number = {1--2},
+  doi = {10.1016/0168-9002(91)90327-M},
+  issn = {0168-9002},
+  url = {http://www.sciencedirect.com/science/article/pii/016890029190327M}
+}
+
+@ARTICLE{star82,
+  author = {W. Starzecki and A.M. Stefanini and S. Lunardi and C. Signorini},
+  title = {A compact time-zero detector for mass identification of heavy ions},
+  journal = nim,
+  year = {1982},
+  volume = {193},
+  pages = {499 - 505},
+  number = {3},
+  doi = {10.1016/0029-554X(82)90242-7},
+  issn = {0167-5087},
+  url = {http://www.sciencedirect.com/science/article/pii/0029554X82902427}
+}
+
+@ARTICLE{terr01,
+  author = {F. Terrasi and L. Gialanella and G. Imbriani and F. Strieder and
+	L. Campajola and A. D'Onofrio and U. Greife and G. Gyurky and C.
+	Lubritto and A. Ordine and V. Roca and C. Rolfs and M. Romano and
+	D. Rogalla and C. Sabbarese and E. Somorjai and H.P. Trautvetter},
+  title = {Direct measurement of the absolute cross section of $p$($^7${Be},$\gamma$)$^8${B}},
+  journal = npa,
+  year = {2001},
+  volume = {688},
+  pages = {539 -- 542},
+  number = {1--2},
+  note = {<ce:title>Nuclei in the Cosmos</ce:title>},
+  doi = {10.1016/S0375-9474(01)00781-3},
+  issn = {0375-9474},
+  url = {http://www.sciencedirect.com/science/article/pii/S0375947401007813}
+}
+
+@ARTICLE{tudi99,
+  author = {S Tudisco and F Amorini and M Cabibbo and G Cardella and G De Geronimo
+	and A Di Pietro and G Fallica and P Figuera and A Musumarra and M
+	Papa and G Pappalardo and F Rizzo and G Valvo},
+  title = {A new large area monolithic silicon telescope},
+  journal = nima,
+  year = {1999},
+  volume = {426},
+  pages = {436 -- 445},
+  number = {2-3},
+  doi = {10.1016/S0168-9002(98)01235-2},
+  issn = {0168-9002},
+  keywords = {Implanted silicon telescope},
+  url = {http://www.sciencedirect.com/science/article/pii/S0168900298012352}
+}
+
+@ARTICLE{vis07,
+  author = {D. Visser and others},
+  journal = prc,
+  year = {2007},
+  volume = {76},
+  pages = {065803},
+  owner = {chris},
+  timestamp = {2012.04.19}
+}
+
+@ARTICLE{vock08,
+  author = {C. Vockenhuber and L. Buchmann and J. Caggiano and A.A. Chen and
+	J.M. D'Auria and C.A. Davis and U. Greife and A. Hussein and D.A.
+	Hutcheon and D. Ottewell and C.O. Ouellet and A. Parikh and J. Pearson
+	and C. Ruiz and G. Ruprecht and M. Trinczek and J. Zylberberg},
+  title = {Improvements of the {DRAGON} recoil separator at {ISAC}},
+  journal = nimb,
+  year = {2008},
+  volume = {266},
+  pages = {4167--4170}
+}
+
+@ARTICLE{vock09,
+  author = {C. Vockenhuber and L.E. Erikson and L. Buchmann and U. Greife and
+	U. Hager and D.A. Hutcheon and M. Lamey and P. Machule and D. Ottewell
+	and C. Ruiz and G. Ruprecht},
+  title = {A transmission time-of-flight system for particle identification
+	at a recoil mass separator at low energies},
+  journal = nima,
+  year = {2009},
+  volume = {603},
+  pages = {372--378},
+  doi = {DOI: 10.1016/j.nima.2009.02.016}
+}
+
+@ARTICLE{voc07,
+  author = {Vockenhuber, C. and Ouellet, C. O. and The, L.-S. and Buchmann, L.
+	and Caggiano, J. and Chen, A. A. and Crawford, H. and D'Auria, J.
+	M. and Davids, B. and Fogarty, L. and Frekers, D. and Hussein, A.
+	and Hutcheon, D. A. and Kutschera, W. and Laird, A. M. and Lewis,
+	R. and O'Connor, E. and Ottewell, D. and Paul, M. and Pavan, M. M.
+	and Pearson, J. and Ruiz, C. and Ruprecht, G. and Trinczek, M. and
+	Wales, B. and Wallner, A.},
+  title = {{Measurement of the $^{40}$Ca($\alpha$,$\gamma$)$^{44}$Ti reaction
+	relevant for supernova nucleosynthesis}},
+  journal = prc,
+  year = {2007},
+  volume = {76},
+  pages = {035801},
+  owner = {chris},
+  timestamp = {2012.03.28}
+}
+
+@ARTICLE{voc08,
+  author = {Vockenhuber, C. and Ouellet, C. O. and The, L.-S. and Buchmann, L.
+	and Caggiano, J. and Chen, A. A. and D'Auria, J. M. and Davids, B.
+	and Fogarty, L. and Frekers, D. and Hussein, A. and Hutcheon, D.
+	A. and Kutschera, W. and Ottewell, D. and Paul, M. and Pavan, M.
+	M. and Pearson, J. and Ruiz, C. and Ruprecht, G. and Trinczek, M.
+	and Wallner, A.},
+  title = {{$^{40}$Ca($\alpha$,$\gamma$)$^{44}$Ti and the production of $^{44}$Ti
+	in supernovae}},
+  journal = {J. Phys. G},
+  year = {2008},
+  volume = {35},
+  pages = {014034},
+  owner = {chris},
+  timestamp = {2012.03.28}
+}
+
+@ARTICLE{Wo71,
+  author = {H. Wollnik},
+  journal = nim,
+  year = {1971},
+  volume = {95},
+  pages = {453},
+  owner = {chris},
+  timestamp = {2012.03.27}
+}
+
+@ARTICLE{wre10,
+  author = {C. Wrede and others},
+  journal = prc,
+  year = {2010},
+  volume = {82},
+  pages = {035805},
+  owner = {chris},
+  timestamp = {2012.04.19}
+}
+
+@ARTICLE{zeg08,
+  author = {R. Zegers and others},
+  journal = prc,
+  year = {2008},
+  volume = {78},
+  pages = {014314},
+  owner = {chris},
+  timestamp = {2012.04.19}
+}
+
+@MISC{zieg,
+  author = {J. Ziegler},
+  howpublished = {\url{http://www.srim.org}}
+}
+
+@OTHER{,
+  owner = {chris},
+  timestamp = {2012.04.26}
+}
+
+@ARTICLE{,
+  owner = {chris},
+  timestamp = {2012.04.16}
+}
+
+@PROCEEDINGS{,
+  owner = {chris},
+  timestamp = {2012.04.19}
+}
+

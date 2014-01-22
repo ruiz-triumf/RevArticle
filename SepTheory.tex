@@ -1,0 +1,122 @@
+\section{Experimental requirements, theory of separators, figures of merit}
+\label{emsep}
+
+In this section we will present the equations for the motion of charged particles in magnetic and electric fields before discussing the types and design of ion-optical elements required in different designs of recoil separators, as well as exploring some of the rigidity and performance regimes for astrophysically important radiative capture reactions. 
+
+For a recoil separator to function, it in principle has to induce a spacial separation between unreacted beam and recoil particles of different mass but similar momentum. In addition, it has to accept recoils with divergent angles with respect to the beam axis. In almost all cases discussed in this paper polarized beams are not used, therefore recoils are uniformly distributed in azimuthal angle, $\phi$. 
+Thus in order for recoils to be separated, they must be brought to a focus in a mass-dispersed plane at some point. Due to the typical rigidities experienced in inverse kinematics at astrophysically-relevant energies, magnetic elements are required to provide the focusing. Electrostatic elements or combined electrostatic and magnetic elements can be used in addition to these to provide mass dispersion or beam rejection.  
+
+The motion of a charged particle (with charge $q$) in external electromagnetic fields $\vec{E}$ and $\vec{B}$  is governed (non-relativistically) by the Lorentz force equation:
+
+\begin{equation}
+\vec{F}=q(\vec{E}+\vec{v}\times\vec{B})
+\end{equation}   
+
+where $\vec{v}$ is the instantaneous particle velocity. 
+
+\subsection{Magnetic elements -- focussing and momentum/charge dispersion}\label{magel}
+
+\small
+\begin{itemize}
+\item What are the necessary equations to present?
+\item path of a charged particle in a magnetic field
+\item image/object relationship
+\item typical field strengths
+\item double focussing, sextupole correction
+\item its function as a momentum filter in our application means that we use it as a charge state filter because beam and reaction recoil have very similar central momentum
+\item give equation for position of charge states blocked by slits
+\end{itemize}
+\normalsize
+
+Magnetic quadrupoles are required in order to produce foci for the transported ions in the separator. This is usually achieved via doublets or triplets, providing net focussing in both the horizontal and vertical planes. While doublets are suitable for the bulk of the focussing, triplets may be required prior to a focus with more stringent requirements, such as an achromatic focus. This is due to the fact that in doublets changes in field strength in one axis might introduce undesirable changes in the other axis. Quadrupoles have focal lengths that are energy dependent in genera. l  
+
+In addition, beam-target and recoil-target interactions will result in a distribution of charge-states being propagated through the separator. In order to bring the recoils to a unique mass-dfocus   
+
+An ion moving in a uniform magnetic field follows a circular path, the radius of which is proportional to its  momentum.  The magnetic rigidity, the momentum $p$ divided by the ion charge $q$, is proportional to the product of $\rho$ the radius of curvature and $B$ the magnetic field, so ions of differing magnetic rigidity will be deflected through differing bend angles  when passing through a dipole magnet.  The reaction products and beam ions having overlapping values of momentum, a magnetic dipole by itself is ineffective as a mass separator.  However, it can be used to separate ions in a low-energy tail of the beam, which might be transmitted by electric field devices.
+
+\subsection{Electrostatic elements}
+
+\small
+\begin{itemize}
+\item path of a charged particle in an electrostatic field
+\item typical necessary field strength/curvature for our application
+\item focussing issues
+\item acts as an energy filter
+\item where does the not transmitted beam/charge states end up (split electrode approach, gridded possibility?)
+\end{itemize}
+\normalsize
+
+A cathode and anode in the form of segments of concentric cylinders can produce a radial electric field which has constant magnitude $\mathcal{E}$  at a constant distance from the axis of the cylinders.   Ions having a suitable electric rigidity, the product of momentum $p$ and velocity $v$ divided by the charge $q$, can travel at a constant radius through the device.   Such an electrostatic dipole will deflect reaction products and beam ions through different angles due to their different velocities.  However, a low-energy tail of the beam, in a lower charge state and having the same electric rigidity as the reaction product, will not be separated.   This short-coming can be remedied by combining a magnetic dipole and electrostatic dipole in such a way that a subsequent angular focus is also a focus in ion energy but is dispersed according to ion mass.  
+
+The required electrostatic fields are of order megavolts per metre.   Extensive measures, such as polishing the electrodes to a mirror finish, are required to prevent voltage breakdowns.   Because an electrostatic dipole must deflect desired particles through a permanently-fixed angle,  an experiment  cannot be performed unless the requisite   electrode voltages can be achieved.
+
+notes about conditioning....
+
+\subsection{Combined crossed field (Wien) filter elements}
+
+\small
+\begin{itemize}
+\item what conditions have to be met to transmit the recoils (E,B field selection, condition)
+\item what is the equation which tells us where the not transmitted beam and other charge states end up
+\item typical fields and dimensions for our application
+\end{itemize}
+\normalsize
+
+In a Wien filter parallel flat electrodes between the poles of a magnet provide crossed electric and magnetic fields, $\mathcal{E}$ and $B$.      There is a certain ratio $\mathcal{E}/B$ which results in ions of velocity $v$  undergoing no deflection as they pass through the Wien filter, regardless of their momentum $p$ or charge $q$.    Accordingly, a Wien filter can be tuned to pass the desired reaction product straight through while deflecting beam ions.  Like the electrostatic dipole, it may pass beam particles in  a low-energy tail; unlike the electrostatic dipole, it  also allows   neutral particles to pass through.
+
+Because it is  the ratio $\mathcal{E}/B$ which selects the velocity, a Wien filter may operate with reduced\ field strengths (and reduced mass resolving power)  in order to accommodate reaction products of high rigidity, or if there is a problem reaching the designed maximum electric field.    On the other hand, a Wien filter poses greater design problems, requiring careful shaping of both the electrodes and the magnet poles in order to achieve the desired field uniformities and to match fringe fields.
+
+\subsection{Beam suppression }
+Reaction yield and detector performance together define the requirements for beam suppression by the separator.    The most challenging reactions  may well call for suppression by 10 to 12 orders of magnitude.    Separator designs for fusion-evaporation reactions, with higher yields and larger beam-product mass differences, may not be the best models  for radiative capture experiments.   
+    
+ One class of potential background is the tail of a  distribution generated by many small interactions, such as multiple scattering or energy straggling in the target.    Typically, these distributions have a Gaussian shape near their maximum but after only a few  ``standard deviations" the distributions become dominated by single large-deviation interactions, such as nuclear scattering in the target.    More complicated to assess are single scatterings from residual gas somewhere within the separator.   Nevertheless, it may be possible to investigate by computer simulation whether  a proposed separator design is able to suppress such events.
+ 
+  ``Black Swan" events pose the most difficult problem for the separator designer.   By definition extremely rare and hard to foresee,  they are not  amenable to realistic simulation by computer.   Typically, they may involve sequential scatterings from  solid surfaces inside the separator.   The ranges of beam ions in solids being on order 1--10~$\mu$m, the surface material and roughness at the micrometer scale play a big role: oblique incidence on a smooth surface should be avoided and if possible such surfaces should be masked.   The separator designer must look to defense in depth, with more beam suppression features than the minimum required for events of the first  class.
+
+  \subsection{Figure of merit}
+  Some specifications, taken in combination, impose minimum requirements on the strength and extent of electric and magnetic fields.   These are the mass resolving power ($P_\mathrm{m}$), the angular acceptance ($\Delta a$) and the maximum particle rigidity 
+  ($\mathcal{R}_\mathrm{M}=p/q$ or $\mathcal{R}_\mathrm{E}=pv/q$).    
+  Consider a source of ions (reactions in the target), a dispersive device  (radius of curvature $\rho$) and an image (focus) point.   The  trajectories of the ions having the extremes in initial angles will delimit an area ($A$)  in the bend-plane of the dispersive device.     To first order the resolving power is given by the linear magnification ($M$) of the image, the mass dispersion ($D$) and the transverse source size ($\Delta x$): 
+  $P_\mathrm{m} = D/(M \cdot \Delta x) $. 
+  It has long been known (see, for example, \cite{Wo71}) that source emittance and the resolving power can be related to properties of the dispersive device by
+  \[ P_\mathrm{m}\  \Delta a\  \Delta x = A/\rho \]
+  Recalling that 
+  $\mathcal{R}_\mathrm{M}=\rho \ B$ and $\mathcal{R}_\mathrm{E}=\rho \ \mathcal{E}$,  we obtain  figures of merit 
+  \[ P_\mathrm{m}\  \Delta a\  \Delta x \ \mathcal{R}_\mathrm{M} = A \cdot B \]
+   \[P_\mathrm{m}\  \Delta a\  \Delta x \ \mathcal{R}_\mathrm{E} = A \cdot \mathcal{E} \]
+   That is, to achieve a certain figure of merit it is necessary to have a certain minimum product of field strength and area.  For an electrostatic device it may be convenient to use the length of electrodes and the gap between them as a proxy for the area $A$.  Then, the figure of merit becomes $L\cdot\Delta V$, where $L$ is the length of the electrodes and $\Delta V$ is the voltage difference between them.
+
+\subsection{Additional factors} 
+  Windowless targets either extended gas cell or gas jet, can impose major constraints on separator design.  Tubes between differential pumping stages may limit the convergence of incoming beam and consequently limit how small the beamspot  can be made at the target.  Pumping stages may set a minimum distance from target to the first focusing element.
+
+Detectors of the heavy reaction product may have a maximum counting rate for optimum resolution, requiring a matching minimum beam suppression factor for the separator.   The detector may be limited in size, requiring a correspondingly small envelope of trajectories.    Good energy resolution or particle identification in a detector may permit a higher rate of beam leakage through the separator.
+
+ The space   for the separator may be limited or the wrong shape if the experimental area was designed for the needs of earlier experiments.   Dipoles, quadrupoles  or Wien filters from elsewhere  may be available for use.  Finally,  funds for the project may be limited.   
+
+%\subsection{Some existing separators for radiative capture}
+%\subsubsection{ERNA}
+%The European Recoil separator for Nuclear Astrophysics, at Bochum, was designed with a view to measurement of the $^{12}$C($\alpha$,$\gamma$)$^{16}$O reaction in inverse 
+%kinematics~\cite{Ro99}.  The dispersive elements consist of a Wien filter, a 60-degree magnetic dipole and a second Wien filter.    With electrode voltages up to $\pm$50~kV and lengths of 0.50 and 0.578~m, the Wien filters have a proxy figure of merit 108~kV$\cdot$m.   The design envisaged an energy range 0.7 to 5~MeV and an angular acceptance 2$\times$31~mrad.
+
+%\subsubsection{DRS}
+%The Daresbury Recoil Separator~\cite{Ja88}  was built and used at the Daresbury Laboratory, before being moved to Oak Ridge National Laboratory.  Dispersive elements are a pair of Wien filters followed by a 50-degree magnetic dipole.   With maximum design voltage $\Delta$V=600~kV and each of length 1.28~m, the two Wien filters have a proxy figure of merit 1536~kV$\cdot$m.
+%Design acceptances were 2$\times$45~mrad in horizontal and vertical angles, $\pm$2\% in velocity and  $\pm$1.2\% in M/q, with resolving power 300 in M/q.
+ 
+%\subsubsection{DRAGON}
+%The Detector of Recoils And Gammas of Nuclear reactions at TRIUMF/ISAC was designed for proton and alpha capture by radioactive beams~\cite{hut03a}.  It consists of two stages, each containing a magnetic dipole and electrostatic dipole.   The electrostatic dipoles, with respective lengths 0.7 and 1.57~m and voltages $\pm$200 and $\pm$160~kV, give a proxy figure of merit 780~kV$\cdot$m.  Design angular acceptance was 2$\times$21~mrad with beam energies in the range 0.15 to 1.5~MeV per nucleon.
+
+%\subsubsection{FMA}
+%The Fragment Mass Analyzer at Argonne National Laboratory~\cite{Da92} was designed for study of high-spin states following heavy-ion fusion.  Like mass separators at Rochester and Legnaro, the FMA has a series of electric, magnetic and electric dipoles.   At $\Delta$V=425~kV and each of length 1.4~m, the two electrostatic dipoles have proxy figure of merit 1260~kV$\cdot$m.  Design acceptances were $\pm$15\% in energy and 8~mster solid angle, with M/q resolving power of 340.
+
+%\subsection{Time of flight instrumentation}
+
+%\small
+%\begin{itemize}
+%\item is an additional mean to measure velocity of a given ionization
+%\item should not interfere /alter velocity through measurement
+%\item can use beam time structure if available or laser ionization source time structure
+%\item in order to avoid interference and use full flight path usually measured with STOP from focal plane detectors
+%\item show equation for ToF difference between beam and recoil for radiative capture
+%\item show order of magnitude (10-20m) of ToF difference to set resolution requirements for detectors or signal from accelerator/ion source.
+%\end{itemize}
+%\normalsize

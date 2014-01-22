@@ -1,0 +1,94 @@
+\begin{filecontents}{leer.eps}
+%!PS-Adobe-2.0 EPSF-2.0
+%%CreationDate: Mon Jul 13 16:51:17 1992
+%%DocumentFonts: (atend)
+%%Pages: 0 1
+%%BoundingBox: 72 31 601 342
+%%EndComments
+
+gsave
+72 31 moveto
+72 342 lineto
+601 342 lineto
+601 31 lineto
+72 31 lineto
+showpage
+grestore
+%%Trailer
+%%DocumentFonts: Helvetica
+\end{filecontents}
+%
+\documentclass[epj]{svjour}
+% Remove option referee for final version
+%
+%\usepackage{latexsym}
+\usepackage{graphics}
+\usepackage{url}
+
+\newcommand{\unit}[1]{\ensuremath{\, \mathrm{#1}}}
+\newcommand{\nuc}[2]{$^{#1}$#2}
+\newcommand{\reac}[2]{($#1$,$#2$)}
+\newcommand{\dr}{DRAGON}
+\newcommand{\EcmM}[1]{$E_\mathrm{c.m.} = #1 \unit{MeV}$}
+\newcommand{\Ecmk}[1]{$E_\mathrm{c.m.} = #1 \unit{keV}$}
+\setcounter{tocdepth}{2}
+\newcommand{\pgamma}[4]{$^{#1}$#2($p,\gamma$)$^{#3}$#4}
+\newcommand{\agamma}[4]{$^{#1}$#2($\alpha,\gamma$)$^{#3}$#4}
+
+
+\begin{document}
+%
+%\title{Radiative capture reactions in inverse kinematics for nuclear astrophysics}
+\title{Recoil separators for radiative capture}
+\subtitle{Recent advances and detection techniques}
+\author{Uwe Greife\inst{2} \and Ulrike Hager\inst{2} \and Chris Ruiz\inst{1} \thanks{\emph{Corresponding author:}email address \texttt{ruiz@triumf.ca}} }%                     % Do not remove
+%
+%
+\institute{TRIUMF, 4004 Wesbrook Mall, Vancouver, BC, Canada V6T 2A3 \and Colorado School of Mines, Golden, CO, USA}
+%
+\date{Received: date / Revised version: date}
+% The correct dates will be entered by Springer
+%
+\abstract{
+Radiative capture reactions involving the fusion of hydrogen or helium are ubiquitous in the stellar history of the universe and are some of the most important reactions in the processes that govern nucleosynthesis and energy generation in both static and explosive scenarios. However radiative capture reactions pose some of the most difficult measurements for experiments due to the sometime vanishingly small nature of their cross sections. With the advent of recoil separators and techniques in inverse kinematics, it is now possible to measure radiative capture reactions on very short-lived radioactive nuclei, or in the presence of high experimental backgrounds. In this paper we review the experimental needs for making measurements of astrophysical importance on radiative capture reactions. We also review some of the important historical advances in the field of recoil separators as well as describe current techniques and performance milestones, including descriptions of some of the present day separators working at radioactive ion beam facilities, such as DRAGON at TRIUMF and the DRS at the Holifield Radioactive Ion Beam Facility. We will also summarize some of the scientific highlight measurements at the RIB facilities.   
+%
+%\PACS{
+    %  {PACS-key}{discribing text of that key}   \and
+     % {PACS-key}{discribing text of that key}
+    % }% 
+}% 
+
+
+\maketitle
+
+\tableofcontents
+
+\input{Introduction}      % Introduction
+
+\input{SepTheory}         % Theory of electromagnetic separators 
+
+\input{GasTargets}        % Gas Targets 
+
+\input{AncDetectors}       % Ancillary detectors and methods 
+
+\input{EarlyStableBeam}    % Early work at stable beam facilities
+
+\input{RIBF}               % Recoil separators at radioactive ion beam facilities
+
+%\input{TechHighlights}     % Highlights of technical performance
+
+\input{SciHighlights}      % Scientific highlights
+
+\input{Outlook}           % Outlook and guidance for future separators
+
+
+
+%\bibliographystyle{aaalike}
+\bibliographystyle{unsrt}
+ \bibliography{refs}
+
+
+
+\end{document}
+
+

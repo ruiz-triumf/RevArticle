@@ -1,0 +1,581 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  13 JAN 2014 16:03
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**RevArticle.tex
+(./RevArticle.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, german-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, ar
+abic, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutc
+h, esperanto, estonian, farsi, finnish, french, galician, german, ngerman, mono
+greek, greek, hungarian, icelandic, indonesian, interlingua, irish, italian, ku
+rmanji, latin, latvian, lithuanian, mongolian, mongolian2a, bokmal, nynorsk, po
+lish, portuguese, romanian, russian, sanskrit, serbian, slovak, slovenian, span
+ish, swedish, turkish, ukenglish, ukrainian, uppersorbian, welsh, loaded.
+
+LaTeX Warning: File `leer.eps' already exists on the system.
+               Not generating it from this source.
+
+(./svjour.cls
+Document Class: svjour 2003/04/15 
+LaTeX document class for Springer journals - version 1.11
+(./svepj.clo
+File: svepj.clo 2002/03/11 v1.2 style option for The European Physical Journal
+
+SVJour Class option: svepj.clo for The European Physical Journal
+)
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 100.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 102.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 104.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 105.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 107.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 109.
+\logodepth=\dimen102
+\headerboxheight=\dimen103
+\betweenumberspace=\dimen104
+\aftertext=\dimen105
+\headlineindent=\dimen106
+\c@inst=\count79
+\c@auth=\count80
+\instindent=\dimen107
+\authrun=\box26
+\authorrunning=\toks14
+\titrun=\box27
+\titlerunning=\toks15
+\combirun=\box28
+\c@lastpage=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\spthmsep=\dimen108
+\c@theorem=\count87
+\c@case=\count88
+\c@conjecture=\count89
+\c@corollary=\count90
+\c@definition=\count91
+\c@example=\count92
+\c@exercise=\count93
+\c@lemma=\count94
+\c@note=\count95
+\c@problem=\count96
+\c@property=\count97
+\c@proposition=\count98
+\c@question=\count99
+\c@solution=\count100
+\c@remark=\count101
+\c@figure=\count102
+\c@table=\count103
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\figcapgap=\dimen109
+\tabcapgap=\dimen110
+\figgap=\dimen111
+\bibindent=\dimen112
+\@tempcntc=\count104
+) (/usr/local/texlive/2009/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2009/08/25 v0.04m Graphics/color for pdfTeX
+\Gread@gobject=\count105
+))
+(/usr/local/texlive/2009/texmf-dist/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(./RevArticle.aux)
+\openout1 = `RevArticle.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+
+(/usr/local/texlive/2009/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen113
+\scratchbox=\box29
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen114
+\MPnumerator=\count110
+\everyMPtoPDFconversion=\toks17
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 62.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 62.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 62.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 62.
+
+SVJour warning: Missing \PACS
+(./RevArticle.toc
+Overfull \hbox (22.91235pt too wide) in paragraph at lines 10--10
+ [][] []\OT1/cmr/m/n/9 Magnetic el-e-ments -- fo-cussing and mo-men-tum/charge 
+
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `RevArticle.toc'.
+
+ (./Introduction.tex [1{/usr/local/texlive/2009/texmf-var/fonts/map/pdftex/updm
+ap/pdftex.map}
+
+
+]
+Overfull \hbox (2.2465pt too wide) in paragraph at lines 8--12
+\OT1/cmr/m/n/10 vant re-ac-tions were last com-piled by the Eu-ro-pean NACRE
+ []
+
+
+Overfull \hbox (5.56068pt too wide) in paragraph at lines 26--28
+\OT1/cmr/m/n/10 physics no-ta-tion for such a re-ac-tion would be $[]\OML/cmm/m
+/it/10 T$\OT1/cmr/m/n/10 (p,$\OML/cmm/m/it/10 ^^M$\OT1/cmr/m/n/10 )$[]\OML/cmm/
+m/it/10 C$\OT1/cmr/m/n/10 ,
+ []
+
+[2]
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./HotCNO_general.pdf): PDF inclusion
+: found PDF version <1.5>, but at most version <1.4> allowed
+<HotCNO_general.pdf, id=25, 558.06398pt x 541.49532pt>
+File: HotCNO_general.pdf Graphic file (type pdf)
+
+<use HotCNO_general.pdf>
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./NeNa-cycle_legend.pdf): PDF inclus
+ion: found PDF version <1.5>, but at most version <1.4> allowed
+<NeNa-cycle_legend.pdf, id=27, 306.55637pt x 345.65pt>
+File: NeNa-cycle_legend.pdf Graphic file (type pdf)
+
+<use NeNa-cycle_legend.pdf> [3 <./HotCNO_general.pdf> <./NeNa-cycle_legend.pdf>
+] <radcap.pdf, id=78, 326.21875pt x 244.915pt>
+File: radcap.pdf Graphic file (type pdf)
+ <use radcap.pdf> [4 <./radcap.pdf>]
+Overfull \hbox (4.0521pt too wide) in paragraph at lines 123--124
+\OT1/cmr/m/n/10 and for-wards C.M. hemi-spheres for-wards when trans-formed
+ []
+
+<kinematics.pdf, id=91, 587.19376pt x 505.89pt>
+File: kinematics.pdf Graphic file (type pdf)
+ <use kinematics.pdf> [5 <./kinematics.pdf>] <coneangles.pdf, id=116, 569.12625
+pt x 439.6425pt>
+File: coneangles.pdf Graphic file (type pdf)
+
+<use coneangles.pdf> <26altheta.pdf, id=117, 544.0325pt x 376.40625pt>
+File: 26altheta.pdf Graphic file (type pdf)
+
+<use 26altheta.pdf>
+Overfull \hbox (1.6076pt too wide) in paragraph at lines 196--197
+[]\OT1/cmr/m/n/10 In the case of p-wave pro-ton cap-ture, a small anisotropy
+ []
+
+[6 <./coneangles.pdf, page is rotated 90 degrees> <./26altheta.pdf, page is rot
+ated 90 degrees>]) (./SepTheory.tex [7]) (./GasTargets.tex [8]
+<Hutcheon03_Fig5_DRAGON-gastargetpumps.pdf, id=213, 822.07124pt x 794.97pt>
+File: Hutcheon03_Fig5_DRAGON-gastargetpumps.pdf Graphic file (type pdf)
+
+<use Hutcheon03_Fig5_DRAGON-gastargetpumps.pdf>
+Underfull \hbox (badness 10000) in paragraph at lines 11--25
+
+ []
+
+[9 <./Hutcheon03_Fig5_DRAGON-gastargetpumps.pdf>]) (./AncDetectors.tex
+<Vockenhuber08_Fig3_XSLITM-chamber.pdf, id=220, 649.33589pt x 712.56313pt>
+File: Vockenhuber08_Fig3_XSLITM-chamber.pdf Graphic file (type pdf)
+
+<use Vockenhuber08_Fig3_XSLITM-chamber.pdf>
+
+LaTeX Warning: Citation `wiss84' on page 10 undefined on input line 25.
+
+
+Overfull \hbox (3.75714pt too wide) in paragraph at lines 20--26
+\OT1/cmr/m/n/10 of de-ter-min-ing re-ac-tion rates. $\OML/cmm/m/it/10 ^^M$ \OT1
+/cmr/m/n/10 de-tec-tors are placed around
+ []
+
+[10 <./Vockenhuber08_Fig3_XSLITM-chamber.pdf>]
+
+LaTeX Warning: Reference `fig:microstrip' on page 11 undefined on input line 47
+.
+
+
+<Radeka84_Fig2_MicrostripDetector_PositionInterpolation.pdf, id=228, 557.00394p
+t x 502.80849pt>
+File: Radeka84_Fig2_MicrostripDetector_PositionInterpolation.pdf Graphic file (
+type pdf)
+
+<use Radeka84_Fig2_MicrostripDetector_PositionInterpolation.pdf>
+<Tudisco99_Fig1_monolith_sideview.pdf, id=229, 216.81pt x 141.52875pt>
+File: Tudisco99_Fig1_monolith_sideview.pdf Graphic file (type pdf)
+
+<use Tudisco99_Fig1_monolith_sideview.pdf>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11 <./Radeka84_Fig2_MicrostripDetector_PositionInterpolation.pdf>]
+<Couder03_Fig5_ARES-IC.pdf, id=237, 953.5625pt x 478.78876pt>
+File: Couder03_Fig5_ARES-IC.pdf Graphic file (type pdf)
+
+<use Couder03_Fig5_ARES-IC.pdf>
+<Vockenhuber08_Fig4_DRAGON-IC.pdf, id=238, 1097.09875pt x 488.82625pt>
+File: Vockenhuber08_Fig4_DRAGON-IC.pdf Graphic file (type pdf)
+
+<use Vockenhuber08_Fig4_DRAGON-IC.pdf>
+<Starzecki82_Fig1_TimeZeroDetector.pdf, id=239, 1036.73322pt x 529.90672pt>
+File: Starzecki82_Fig1_TimeZeroDetector.pdf Graphic file (type pdf)
+
+<use Starzecki82_Fig1_TimeZeroDetector.pdf> [12 <./Tudisco99_Fig1_monolith_side
+view.pdf> <./Couder03_Fig5_ARES-IC.pdf> <./Vockenhuber08_Fig4_DRAGON-IC.pdf>])
+(./EarlyStableBeam.tex
+<Hahn87_Fig2_CaltechSeparator.pdf, id=255, 519.9425pt x 952.55875pt>
+File: Hahn87_Fig2_CaltechSeparator.pdf Graphic file (type pdf)
+
+<use Hahn87_Fig2_CaltechSeparator.pdf>
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+Overfull \hbox (4.38538pt too wide) in paragraph at lines 5--18
+\OT1/cmr/m/n/10 grounds. How-ever, as nu-clear as-tro-physics ex-per-i-ments us
+u-
+ []
+
+
+Underfull \vbox (badness 3240) has occurred while \output is active []
+
+ [13 <./Starzecki82_Fig1_TimeZeroDetector.pdf> <./Hahn87_Fig2_CaltechSeparator.
+pdf>]
+<Gialanella96_Fig1_NABONA.pdf, id=267, 676.5275pt x 388.45125pt>
+File: Gialanella96_Fig1_NABONA.pdf Graphic file (type pdf)
+
+<use Gialanella96_Fig1_NABONA.pdf>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14 <./Gialanella96_Fig1_NABONA.pdf>]
+<DiLeva08_Fig2_ERNAschematic.pdf, id=274, 1431.3475pt x 693.59125pt>
+File: DiLeva08_Fig2_ERNAschematic.pdf Graphic file (type pdf)
+
+<use DiLeva08_Fig2_ERNAschematic.pdf>)
+Overfull \hbox (1.07991pt too wide) in paragraph at lines 34--75
+\OT1/cmr/m/n/10 mented with ad-di-tional large bore quadrupoles and crossed
+ []
+
+(./RIBF.tex
+Overfull \hbox (0.10764pt too wide) in paragraph at lines 4--5
+\OT1/cmr/m/n/10 low-ing heavy-ion fu-sion. Like mass sep-a-ra-tors at Rochester
+
+ []
+
+<Couder03_Fig1_ARES.pdf, id=275, 1004.75375pt x 566.115pt>
+File: Couder03_Fig1_ARES.pdf Graphic file (type pdf)
+
+<use Couder03_Fig1_ARES.pdf>
+Overfull \hbox (12.24663pt too wide) in paragraph at lines 11--21
+\OT1/cmr/m/n/10 sig-nif-i-cantly ex-per-i-ments with re-coil sep-a-ra-tors. Add
+itionally,
+ []
+
+[15 <./DiLeva08_Fig2_ERNAschematic.pdf>]
+<Bardayan09_Fig1_DRS.pdf, id=282, 1200.31432pt x 394.41855pt>
+File: Bardayan09_Fig1_DRS.pdf Graphic file (type pdf)
+
+<use Bardayan09_Fig1_DRS.pdf> [16 <./Couder03_Fig1_ARES.pdf> <./Bardayan09_Fig1
+_DRS.pdf>] <dra_gas_target.pdf, id=293, 650.43pt x 487.8225pt>
+File: dra_gas_target.pdf Graphic file (type pdf)
+
+<use dra_gas_target.pdf>
+Overfull \hbox (25.02844pt too wide) in paragraph at lines 43--47
+[][] 
+ []
+
+
+Overfull \hbox (1.78682pt too wide) in paragraph at lines 51--52
+[]\OT1/cmr/m/n/10 The ion op-ti-cal con-fig-u-ra-tion of DRAGON is a \OT1/cmr/b
+x/n/10 MEME
+ []
+
+
+Overfull \hbox (8.5799pt too wide) in paragraph at lines 51--52
+\OT1/cmr/m/n/10 (fig-ure 19[]). The par-tic-u-lar con-fig-u-ra-tion was de-sign
+ed specif-
+ []
+
+<dra_optics.pdf, id=294, 496.85625pt x 614.295pt>
+File: dra_optics.pdf Graphic file (type pdf)
+ <use dra_optics.pdf> [17 <./dra_gas_target.pdf> <./dra_optics.pdf>]
+Underfull \vbox (badness 1454) has occurred while \output is active []
+
+
+<rigidity.pdf, id=319, 569.12625pt x 410.53375pt>
+File: rigidity.pdf Graphic file (type pdf)
+ <use rigidity.pdf> [18 <./rigidity.pdf, page is rotated 90 degrees>]
+Overfull \hbox (27.9135pt too wide) in paragraph at lines 86--87
+\OT1/cmr/m/n/10 the time of writ-ing of this ar-ti-cle a mea-sure-ment of $[]$S
+e($\OML/cmm/m/it/10 $\OT1/cmr/m/n/10 ,$\OML/cmm/m/it/10 ^^M$\OT1/cmr/m/n/10 )$
+[]$Kr
+ []
+
+) (./SciHighlights.tex
+<Gialanella00_Fig2_DeltaE-E.pdf, id=365, 603.17043pt x 584.1012pt>
+File: Gialanella00_Fig2_DeltaE-E.pdf Graphic file (type pdf)
+
+<use Gialanella00_Fig2_DeltaE-E.pdf>
+Missing character: There is no Ô in font cmr9!
+Missing character: There is no ¨ in font cmr9!
+Missing character: There is no Å in font cmr9!
+Missing character: There is no Ô in font cmr9!
+Missing character: There is no ¨ in font cmr9!
+Missing character: There is no Å in font cmr9!
+
+<Bardayan09_Fig4_Be7pg_DeltaE-E.pdf, id=366, 710.55661pt x 488.758pt>
+File: Bardayan09_Fig4_Be7pg_DeltaE-E.pdf Graphic file (type pdf)
+
+<use Bardayan09_Fig4_Be7pg_DeltaE-E.pdf> [19 <./Gialanella00_Fig2_DeltaE-E.pdf>
+ <./Bardayan09_Fig4_Be7pg_DeltaE-E.pdf>]
+Overfull \hbox (44.56642pt too wide) in paragraph at lines 29--31
+[]$\OT1/cmr/m/n/10 Mg(p,t)$[]$Mg [63, 64], $[]$Mg($[]$He,$[]$He)$[]$Mg [65], $[
+]$C($[]$O,$[]$He)$[]$Mg
+ []
+
+
+Overfull \hbox (14.37181pt too wide) in paragraph at lines 29--31
+\OT1/cmr/m/n/10 con-tribute to $[]$Na($\OML/cmm/m/it/10 p$\OT1/cmr/m/n/10 ,$\OM
+L/cmm/m/it/10 ^^M$\OT1/cmr/m/n/10 )$[]$Mg, and thus all res-o-nance strengths
+ []
+
+<Chipps09a_Fig3_F17pg_ICspectrum.pdf, id=379, 977.51698pt x 505.81973pt>
+File: Chipps09a_Fig3_F17pg_ICspectrum.pdf Graphic file (type pdf)
+
+<use Chipps09a_Fig3_F17pg_ICspectrum.pdf>
+Underfull \vbox (badness 7722) has occurred while \output is active []
+
+ [20]
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./Mg23_tof_IC.pdf): PDF inclusion: f
+ound PDF version <1.6>, but at most version <1.4> allowed
+<Mg23_tof_IC.pdf, id=383, 248.42813pt x 144.54pt>
+File: Mg23_tof_IC.pdf Graphic file (type pdf)
+ <use Mg23_tof_IC.pdf>
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./Mg23_dE_E.pdf): PDF inclusion: fou
+nd PDF version <1.6>, but at most version <1.4> allowed
+<Mg23_dE_E.pdf, id=384, 239.39438pt x 144.54pt>
+File: Mg23_dE_E.pdf Graphic file (type pdf)
+ <use Mg23_dE_E.pdf>)
+(./Outlook.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21 <./Chipps09a_Fig3_F17pg_ICspectrum.pdf>]
+<stgeorge.pdf, id=392, 343.2825pt x 173.59254pt>
+File: stgeorge.pdf Graphic file (type pdf)
+ <use stgeorge.pdf>)
+(./RevArticle.bbl
+Underfull \hbox (badness 1137) in paragraph at lines 4--12
+\OT1/cmr/m/n/9 D. Baye, C. Leclercq-Willain, A. Coc, S. Barhoumi,
+ []
+
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no à in font cmr9!
+Missing character: There is no ö in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no à in font cmr9!
+Missing character: There is no Ç in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no à in font cmr9!
+Missing character: There is no ö in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no à in font cmr9!
+Missing character: There is no Ç in font cmr9!
+
+Underfull \hbox (badness 1902) in paragraph at lines 14--20
+[]\OT1/cmr/m/n/9 H. Schatz, A. Apra-hamian, J. Gr-res, M. Wi-escher,
+ []
+
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ö in font cmr9!
+Missing character: There is no √ in font cmr9!
+Missing character: There is no Ñ in font cmr9!
+Missing character: There is no √ in font cmr9!
+Missing character: There is no ¨ in font cmr9!
+[22 <./Mg23_tof_IC.pdf> <./Mg23_dE_E.pdf> <./stgeorge.pdf>]
+Underfull \hbox (badness 1033) in paragraph at lines 69--74
+[]\OT1/cmr/m/n/9 C. Rolfs and R. E. Azuma.  In-ter-fer-ence ef-fects in
+ []
+
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ö in font cmr9!
+Missing character: There is no √ in font cmr9!
+Missing character: There is no Ñ in font cmr9!
+Missing character: There is no √ in font cmr9!
+Missing character: There is no ¥ in font cmr9!
+
+Underfull \hbox (badness 1237) in paragraph at lines 143--149
+\OT1/cmr/m/n/9 Ouel-let, A. Parikh, P. Parker, J. Pear-son, C. Ruiz,
+ []
+
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no à in font cmr9!
+Missing character: There is no ö in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no â in font cmr9!
+Missing character: There is no § in font cmr9!
+
+Underfull \hbox (badness 6016) in paragraph at lines 168--173
+[]\OT1/cmr/m/n/9 S Tud-isco, F Amor-ini, M Cabibbo, G Cardella,
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 194--198
+[]\OT1/cmr/m/n/9 K. H. Hahn, K. H. Chang, T. R. Donoghue, and
+ []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 212--218
+[]\OT1/cmr/m/n/9 L Gi-alanella, F Strieder, K Brand, L Cam-pa-jola,
+ []
+
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ö in font cmr9!
+Missing character: There is no √ in font cmr9!
+Missing character: There is no Ñ in font cmr9!
+Missing character: There is no √ in font cmr9!
+Missing character: There is no ¥ in font cmr9!
+[23]
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ö in font cmr9!
+Missing character: There is no √ in font cmr9!
+Missing character: There is no Ñ in font cmr9!
+Missing character: There is no √ in font cmr9!
+Missing character: There is no ¥ in font cmr9!
+
+Underfull \hbox (badness 1448) in paragraph at lines 235--241
+[]\OT1/cmr/m/n/9 D. Ro-galla, D. Sch^^?urmann, F. Strieder, M. Aliotta,
+ []
+
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ö in font cmr9!
+Missing character: There is no √ in font cmr9!
+Missing character: There is no Ñ in font cmr9!
+Missing character: There is no √ in font cmr9!
+Missing character: There is no ¥ in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no à in font cmr9!
+Missing character: There is no ö in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no à in font cmr9!
+Missing character: There is no Ç in font cmr9!
+
+Underfull \hbox (badness 1466) in paragraph at lines 251--258
+\OT1/cmr/m/n/9 N. De Ce-sare, A. D'Onofrio, G. Im-bri-ani, J. Klug,
+ []
+
+
+Underfull \hbox (badness 3942) in paragraph at lines 260--267
+\OT1/cmr/m/n/9 C. Rolfs, D. Ro-galla, M. Ro-mano, F. Sch^^?umann,
+ []
+
+
+Underfull \hbox (badness 6559) in paragraph at lines 275--282
+[]\OT1/cmr/m/n/9 A. DiL-eva, L. Gi-alanella, R. Kunz, D. Ro-galla,
+ []
+
+
+Underfull \hbox (badness 2790) in paragraph at lines 302--306
+[]\OT1/cmr/m/n/9 M. Couder, C. An-gulo, E. Casare-jos, P. De-maret,
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 377--382
+[]\OT1/cmr/m/n/9 D. A. Hutcheon, C. Ruiz, J. Fal-lis, J. M. D'Auria,
+ []
+
+Missing character: There is no √ in font cmr9!
+Missing character: There is no © in font cmr9!
+
+Underfull \hbox (badness 1107) in paragraph at lines 384--393
+\OT1/cmr/m/n/9 D. Frek-ers, U. Greife, A. Hus-sein, D. A. Hutcheon,
+ []
+
+Missing character: There is no √ in font cmr9!
+Missing character: There is no ∂ in font cmr9!
+[24]) [25] (./RevArticle.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1477 strings out of 493848
+ 19217 string characters out of 3149207
+ 81707 words of memory out of 3000000
+ 4730 multiletter control sequences out of 15000+200000
+ 12383 words of font info for 43 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 27i,9n,28p,3337b,276s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><
+/usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
+usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr
+/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
+ocal/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/loc
+al/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local
+/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local
+/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/t
+exlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texl
+ive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive
+/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/20
+09/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2009/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2009/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2009/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2009/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2009/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2009/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2009/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2009/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2009/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2009/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on RevArticle.pdf (25 pages, 2016129 bytes).
+PDF statistics:
+ 566 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
+

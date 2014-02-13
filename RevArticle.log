@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  12 FEB 2014 16:17
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  13 FEB 2014 12:20
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -102,18 +102,18 @@ Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 (./RevArticle.aux)
 \openout1 = `RevArticle.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 
 (/usr/local/texlive/2009/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -129,27 +129,34 @@ LaTeX Font Info:    ... okay on input line 39.
 \everyMPtoPDFconversion=\toks17
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 62.
+(Font)              <7> on input line 63.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 62.
+(Font)              <5> on input line 63.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 62.
+(Font)              <9> on input line 63.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 62.
+(Font)              <6> on input line 63.
 
 SVJour warning: Missing \PACS
-(./RevArticle.toc)
-\tf@toc=\write3
-\openout3 = `RevArticle.toc'.
+(./Introduction.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- (./Introduction.tex [1{/usr/local/texlive/2009/texmf-var/fonts/map/pdftex/updm
-ap/pdftex.map}
+ [1{/usr/local/texlive/2009/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
+Underfull \vbox (badness 3078) has occurred while \output is active []
+
+
 Overfull \hbox (2.2465pt too wide) in paragraph at lines 8--12
 \OT1/cmr/m/n/10 vant re-ac-tions were last com-piled by the Eu-ro-pean NACRE
  []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \hbox (5.56068pt too wide) in paragraph at lines 26--28
@@ -158,69 +165,105 @@ Overfull \hbox (5.56068pt too wide) in paragraph at lines 26--28
 m/it/10 C$\OT1/cmr/m/n/10 ,
  []
 
-[2]
+[3]
+Underfull \vbox (badness 1983) has occurred while \output is active []
+
+
 
 pdfTeX warning: /usr/texbin/pdflatex (file ./HotCNO_general.pdf): PDF inclusion
 : found PDF version <1.5>, but at most version <1.4> allowed
-<HotCNO_general.pdf, id=25, 558.06398pt x 541.49532pt>
+<HotCNO_general.pdf, id=26, 558.06398pt x 541.49532pt>
 File: HotCNO_general.pdf Graphic file (type pdf)
 
 <use HotCNO_general.pdf>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
 
 pdfTeX warning: /usr/texbin/pdflatex (file ./NeNa-cycle_legend.pdf): PDF inclus
 ion: found PDF version <1.5>, but at most version <1.4> allowed
-<NeNa-cycle_legend.pdf, id=27, 306.55637pt x 345.65pt>
+<NeNa-cycle_legend.pdf, id=36, 306.55637pt x 345.65pt>
 File: NeNa-cycle_legend.pdf Graphic file (type pdf)
 
-<use NeNa-cycle_legend.pdf> [3 <./HotCNO_general.pdf> <./NeNa-cycle_legend.pdf>
-] <radcap.pdf, id=81, 326.21875pt x 244.915pt>
+<use NeNa-cycle_legend.pdf> [5 <./HotCNO_general.pdf> <./NeNa-cycle_legend.pdf>
+] <radcap.pdf, id=87, 326.21875pt x 244.915pt>
 File: radcap.pdf Graphic file (type pdf)
- <use radcap.pdf> [4 <./radcap.pdf>]
+ <use radcap.pdf> [6 <./radcap.pdf>]
 Overfull \hbox (4.0521pt too wide) in paragraph at lines 123--124
 \OT1/cmr/m/n/10 and for-wards C.M. hemi-spheres for-wards when trans-formed
  []
 
-<kinematics.pdf, id=94, 587.19376pt x 505.89pt>
+<kinematics.pdf, id=100, 587.19376pt x 505.89pt>
 File: kinematics.pdf Graphic file (type pdf)
- <use kinematics.pdf> [5 <./kinematics.pdf>] <coneangles.pdf, id=116, 569.12625
-pt x 439.6425pt>
-File: coneangles.pdf Graphic file (type pdf)
+ <use kinematics.pdf>
+Underfull \vbox (badness 6268) has occurred while \output is active []
 
-<use coneangles.pdf> <26altheta.pdf, id=117, 544.0325pt x 376.40625pt>
-File: 26altheta.pdf Graphic file (type pdf)
-
-<use 26altheta.pdf>
+ [7 <./kinematics.pdf>] [8]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6 <./coneangles.pdf, page is rotated 90 degrees> <./26altheta.pdf, page is ro
-tated 90 degrees>]) (./DesignPrinciples.tex [7] [8]
+
+<coneangles.pdf, id=126, 569.12625pt x 439.6425pt>
+File: coneangles.pdf Graphic file (type pdf)
+ <use coneangles.pdf>
+<26altheta.pdf, id=127, 544.0325pt x 376.40625pt>
+File: 26altheta.pdf Graphic file (type pdf)
+ <use 26altheta.pdf> [9 <./coneangles.pdf, page is rotated 90 degrees>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10 <./26altheta.pdf, page is rotated 90 degrees>]) (./DesignPrinciples.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+[14]
 Overfull \hbox (12.38539pt too wide) in paragraph at lines 116--117
 []\OT1/cmr/m/n/10 As an ex-am-ple of the mag-ni-tude of such ef-fects, Schlacht
 er
  []
 
-[9]
+[15]
 Overfull \hbox (1.81606pt too wide) in paragraph at lines 135--137
 \OT1/cmr/m/n/10 tar-get num-ber den-sity of ap-prox-i-mately $5 \OMS/cmsy/m/n/1
 0 ^^A \OT1/cmr/m/n/10 10[] []$
  []
 
-<Hutcheon03_Fig5_DRAGON-gastargetpumps.pdf, id=216, 822.07124pt x 794.97pt>
+[16]
+<Hutcheon03_Fig5_DRAGON-gastargetpumps.pdf, id=238, 822.07124pt x 794.97pt>
 File: Hutcheon03_Fig5_DRAGON-gastargetpumps.pdf Graphic file (type pdf)
 
-<use Hutcheon03_Fig5_DRAGON-gastargetpumps.pdf> [10 <./Hutcheon03_Fig5_DRAGON-g
-astargetpumps.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 162--163
+<use Hutcheon03_Fig5_DRAGON-gastargetpumps.pdf>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17 <./Hutcheon03_Fig5_DRAGON-gastargetpumps.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+LaTeX Warning: Citation `chi13' on page 18 undefined on input line 162.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
 
  []
 
 ) (./AncDetectors.tex
-<Vockenhuber08_Fig3_XSLITM-chamber.pdf, id=223, 649.33589pt x 712.56313pt>
+<Vockenhuber08_Fig3_XSLITM-chamber.pdf, id=245, 649.33589pt x 712.56313pt>
 File: Vockenhuber08_Fig3_XSLITM-chamber.pdf Graphic file (type pdf)
 
-<use Vockenhuber08_Fig3_XSLITM-chamber.pdf>
+<use Vockenhuber08_Fig3_XSLITM-chamber.pdf> [18]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Citation `wiss84' on page 11 undefined on input line 25.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19 <./Vockenhuber08_Fig3_XSLITM-chamber.pdf>]
+
+LaTeX Warning: Citation `wiss84' on page 20 undefined on input line 25.
 
 
 Overfull \hbox (3.75714pt too wide) in paragraph at lines 20--26
@@ -228,41 +271,48 @@ Overfull \hbox (3.75714pt too wide) in paragraph at lines 20--26
 /cmr/m/n/10 de-tec-tors are placed around
  []
 
-[11 <./Vockenhuber08_Fig3_XSLITM-chamber.pdf>]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [20]
 
-
-LaTeX Warning: Reference `fig:microstrip' on page 12 undefined on input line 47
+LaTeX Warning: Reference `fig:microstrip' on page 21 undefined on input line 47
 .
 
 
-<Radeka84_Fig2_MicrostripDetector_PositionInterpolation.pdf, id=231, 557.00394p
+<Radeka84_Fig2_MicrostripDetector_PositionInterpolation.pdf, id=260, 557.00394p
 t x 502.80849pt>
 File: Radeka84_Fig2_MicrostripDetector_PositionInterpolation.pdf Graphic file (
 type pdf)
 
 <use Radeka84_Fig2_MicrostripDetector_PositionInterpolation.pdf>
-<Tudisco99_Fig1_monolith_sideview.pdf, id=232, 216.81pt x 141.52875pt>
+<Tudisco99_Fig1_monolith_sideview.pdf, id=261, 216.81pt x 141.52875pt>
 File: Tudisco99_Fig1_monolith_sideview.pdf Graphic file (type pdf)
 
-<use Tudisco99_Fig1_monolith_sideview.pdf> [12 <./Radeka84_Fig2_MicrostripDetec
-tor_PositionInterpolation.pdf>]
-<Couder03_Fig5_ARES-IC.pdf, id=240, 953.5625pt x 478.78876pt>
+<use Tudisco99_Fig1_monolith_sideview.pdf>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21 <./Radeka84_Fig2_MicrostripDetector_PositionInterpolation.pdf>]
+<Couder03_Fig5_ARES-IC.pdf, id=269, 953.5625pt x 478.78876pt>
 File: Couder03_Fig5_ARES-IC.pdf Graphic file (type pdf)
 
 <use Couder03_Fig5_ARES-IC.pdf>
-<Vockenhuber08_Fig4_DRAGON-IC.pdf, id=241, 1097.09875pt x 488.82625pt>
+<Vockenhuber08_Fig4_DRAGON-IC.pdf, id=270, 1097.09875pt x 488.82625pt>
 File: Vockenhuber08_Fig4_DRAGON-IC.pdf Graphic file (type pdf)
 
 <use Vockenhuber08_Fig4_DRAGON-IC.pdf>
-<Starzecki82_Fig1_TimeZeroDetector.pdf, id=242, 1036.73322pt x 529.90672pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22 <./Tudisco99_Fig1_monolith_sideview.pdf>]
+<Starzecki82_Fig1_TimeZeroDetector.pdf, id=280, 1036.73322pt x 529.90672pt>
 File: Starzecki82_Fig1_TimeZeroDetector.pdf Graphic file (type pdf)
 
-<use Starzecki82_Fig1_TimeZeroDetector.pdf> [13 <./Tudisco99_Fig1_monolith_side
-view.pdf> <./Couder03_Fig5_ARES-IC.pdf> <./Vockenhuber08_Fig4_DRAGON-IC.pdf>])
-(./EarlyStableBeam.tex
-<Hahn87_Fig2_CaltechSeparator.pdf, id=259, 519.9425pt x 952.55875pt>
+<use Starzecki82_Fig1_TimeZeroDetector.pdf>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23 <./Couder03_Fig5_ARES-IC.pdf> <./Vockenhuber08_Fig4_DRAGON-IC.pdf> <./Star
+zecki82_Fig1_TimeZeroDetector.pdf>]) (./EarlyStableBeam.tex
+<Hahn87_Fig2_CaltechSeparator.pdf, id=294, 519.9425pt x 952.55875pt>
 File: Hahn87_Fig2_CaltechSeparator.pdf Graphic file (type pdf)
 
 <use Hahn87_Fig2_CaltechSeparator.pdf>
@@ -279,24 +329,36 @@ u-
  []
 
 
-Underfull \vbox (badness 3240) has occurred while \output is active []
+Underfull \vbox (badness 5161) has occurred while \output is active []
 
- [14 <./Starzecki82_Fig1_TimeZeroDetector.pdf> <./Hahn87_Fig2_CaltechSeparator.
-pdf>]
-<Gialanella96_Fig1_NABONA.pdf, id=270, 676.5275pt x 388.45125pt>
+ [24 <./Hahn87_Fig2_CaltechSeparator.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+<Gialanella96_Fig1_NABONA.pdf, id=305, 676.5275pt x 388.45125pt>
 File: Gialanella96_Fig1_NABONA.pdf Graphic file (type pdf)
 
 <use Gialanella96_Fig1_NABONA.pdf>
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15 <./Gialanella96_Fig1_NABONA.pdf>]
-<DiLeva08_Fig2_ERNAschematic.pdf, id=277, 1431.3475pt x 693.59125pt>
+ [26 <./Gialanella96_Fig1_NABONA.pdf>]
+<DiLeva08_Fig2_ERNAschematic.pdf, id=312, 1431.3475pt x 693.59125pt>
 File: DiLeva08_Fig2_ERNAschematic.pdf Graphic file (type pdf)
 
 <use DiLeva08_Fig2_ERNAschematic.pdf>)
-Overfull \hbox (1.07991pt too wide) in paragraph at lines 34--77
+Overfull \hbox (1.07991pt too wide) in paragraph at lines 34--78
 \OT1/cmr/m/n/10 mented with ad-di-tional large bore quadrupoles and crossed
  []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27 <./DiLeva08_Fig2_ERNAschematic.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 (./RIBF.tex
 Overfull \hbox (0.10764pt too wide) in paragraph at lines 4--5
@@ -304,8 +366,7 @@ Overfull \hbox (0.10764pt too wide) in paragraph at lines 4--5
 
  []
 
-[16 <./DiLeva08_Fig2_ERNAschematic.pdf>]
-<Couder03_Fig1_ARES.pdf, id=284, 1004.75375pt x 566.115pt>
+[28] <Couder03_Fig1_ARES.pdf, id=322, 1004.75375pt x 566.115pt>
 File: Couder03_Fig1_ARES.pdf Graphic file (type pdf)
 
 <use Couder03_Fig1_ARES.pdf>
@@ -314,17 +375,22 @@ Overfull \hbox (12.24663pt too wide) in paragraph at lines 11--21
 itionally,
  []
 
-<Bardayan09_Fig1_DRS.pdf, id=285, 1200.31432pt x 394.41855pt>
+<Bardayan09_Fig1_DRS.pdf, id=323, 1200.31432pt x 394.41855pt>
 File: Bardayan09_Fig1_DRS.pdf Graphic file (type pdf)
 
-<use Bardayan09_Fig1_DRS.pdf> [17 <./Couder03_Fig1_ARES.pdf> <./Bardayan09_Fig1
-_DRS.pdf>] <dra_gas_target.pdf, id=296, 650.43pt x 487.8225pt>
-File: dra_gas_target.pdf Graphic file (type pdf)
+<use Bardayan09_Fig1_DRS.pdf>
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<use dra_gas_target.pdf>
+ [29 <./Couder03_Fig1_ARES.pdf>] [30 <./Bardayan09_Fig1_DRS.pdf>]
+<dra_gas_target.pdf, id=337, 650.43pt x 487.8225pt>
+File: dra_gas_target.pdf Graphic file (type pdf)
+ <use dra_gas_target.pdf>
 Overfull \hbox (25.02844pt too wide) in paragraph at lines 43--47
 [][] 
  []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \hbox (1.78682pt too wide) in paragraph at lines 51--52
@@ -338,24 +404,36 @@ Overfull \hbox (8.5799pt too wide) in paragraph at lines 51--52
 ed specif-
  []
 
-<dra_optics.pdf, id=297, 496.85625pt x 614.295pt>
+<dra_optics.pdf, id=338, 496.85625pt x 614.295pt>
 File: dra_optics.pdf Graphic file (type pdf)
- <use dra_optics.pdf> [18 <./dra_gas_target.pdf>]
+ <use dra_optics.pdf>
+Underfull \vbox (badness 1122) has occurred while \output is active []
+
+ [31 <./dra_gas_target.pdf>]
+Underfull \vbox (badness 3118) has occurred while \output is active []
+
+ [32 <./dra_optics.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-<rigidity.pdf, id=314, 569.12625pt x 410.53375pt>
+<rigidity.pdf, id=367, 569.12625pt x 410.53375pt>
 File: rigidity.pdf Graphic file (type pdf)
- <use rigidity.pdf> [19 <./dra_optics.pdf> <./rigidity.pdf, page is rotated 90 
-degrees>]
+ <use rigidity.pdf>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33 <./rigidity.pdf, page is rotated 90 degrees>]
 Overfull \hbox (27.9135pt too wide) in paragraph at lines 86--87
 \OT1/cmr/m/n/10 the time of writ-ing of this ar-ti-cle a mea-sure-ment of $[]$S
 e($\OML/cmm/m/it/10 $\OT1/cmr/m/n/10 ,$\OML/cmm/m/it/10 ^^M$\OT1/cmr/m/n/10 )$
 []$Kr
  []
 
-) (./SciHighlights.tex
-<Gialanella00_Fig2_DeltaE-E.pdf, id=369, 603.17043pt x 584.1012pt>
+
+Underfull \vbox (badness 4120) has occurred while \output is active []
+
+)
+(./SciHighlights.tex
+<Gialanella00_Fig2_DeltaE-E.pdf, id=413, 603.17043pt x 584.1012pt>
 File: Gialanella00_Fig2_DeltaE-E.pdf Graphic file (type pdf)
 
 <use Gialanella00_Fig2_DeltaE-E.pdf>
@@ -366,13 +444,17 @@ Missing character: There is no Ô in font cmr9!
 Missing character: There is no ¨ in font cmr9!
 Missing character: There is no Å in font cmr9!
 
-<Bardayan09_Fig4_Be7pg_DeltaE-E.pdf, id=370, 710.55661pt x 488.758pt>
+<Bardayan09_Fig4_Be7pg_DeltaE-E.pdf, id=414, 710.55661pt x 488.758pt>
 File: Bardayan09_Fig4_Be7pg_DeltaE-E.pdf Graphic file (type pdf)
 
-<use Bardayan09_Fig4_Be7pg_DeltaE-E.pdf>
-Underfull \vbox (badness 4752) has occurred while \output is active []
+<use Bardayan09_Fig4_Be7pg_DeltaE-E.pdf> [34]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [20 <./Gialanella00_Fig2_DeltaE-E.pdf>]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35 <./Gialanella00_Fig2_DeltaE-E.pdf> <./Bardayan09_Fig4_Be7pg_DeltaE-E.pdf>]
+
 Overfull \hbox (44.56642pt too wide) in paragraph at lines 29--31
 []$\OT1/cmr/m/n/10 Mg(p,t)$[]$Mg [68, 69], $[]$Mg($[]$He,$[]$He)$[]$Mg [70], $[
 ]$C($[]$O,$[]$He)$[]$Mg
@@ -384,31 +466,47 @@ Overfull \hbox (14.37181pt too wide) in paragraph at lines 29--31
 L/cmm/m/it/10 ^^M$\OT1/cmr/m/n/10 )$[]$Mg, and thus all res-o-nance strengths
  []
 
-[21 <./Bardayan09_Fig4_Be7pg_DeltaE-E.pdf>]
-<Chipps09a_Fig3_F17pg_ICspectrum.pdf, id=385, 977.51698pt x 505.81973pt>
+[36]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+<Chipps09a_Fig3_F17pg_ICspectrum.pdf, id=432, 977.51698pt x 505.81973pt>
 File: Chipps09a_Fig3_F17pg_ICspectrum.pdf Graphic file (type pdf)
 
-<use Chipps09a_Fig3_F17pg_ICspectrum.pdf> [22 <./Chipps09a_Fig3_F17pg_ICspectru
-m.pdf>]
+<use Chipps09a_Fig3_F17pg_ICspectrum.pdf> [37]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38 <./Chipps09a_Fig3_F17pg_ICspectrum.pdf>]
 
 pdfTeX warning: /usr/texbin/pdflatex (file ./Mg23_tof_IC.pdf): PDF inclusion: f
 ound PDF version <1.6>, but at most version <1.4> allowed
-<Mg23_tof_IC.pdf, id=393, 248.42813pt x 144.54pt>
+<Mg23_tof_IC.pdf, id=444, 248.42813pt x 144.54pt>
 File: Mg23_tof_IC.pdf Graphic file (type pdf)
  <use Mg23_tof_IC.pdf>
 
 pdfTeX warning: /usr/texbin/pdflatex (file ./Mg23_dE_E.pdf): PDF inclusion: fou
 nd PDF version <1.6>, but at most version <1.4> allowed
-<Mg23_dE_E.pdf, id=394, 239.39438pt x 144.54pt>
+<Mg23_dE_E.pdf, id=445, 239.39438pt x 144.54pt>
 File: Mg23_dE_E.pdf Graphic file (type pdf)
  <use Mg23_dE_E.pdf>)
-(./Outlook.tex <stgeorge.pdf, id=395, 343.2825pt x 173.59254pt>
-File: stgeorge.pdf Graphic file (type pdf)
+(./Outlook.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<use stgeorge.pdf>) (./RevArticle.bbl
+
+Overfull \vbox (10.93721pt too high) has occurred while \output is active []
+
+
+[39 <./Mg23_tof_IC.pdf> <./Mg23_dE_E.pdf>]
+<stgeorge.pdf, id=527, 343.2825pt x 173.59254pt>
+File: stgeorge.pdf Graphic file (type pdf)
+ <use stgeorge.pdf>)
+(./RevArticle.bbl
 Underfull \hbox (badness 1137) in paragraph at lines 4--12
 \OT1/cmr/m/n/9 D. Baye, C. Leclercq-Willain, A. Coc, S. Barhoumi,
  []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no à in font cmr9!
@@ -434,10 +532,13 @@ Missing character: There is no √ in font cmr9!
 Missing character: There is no Ñ in font cmr9!
 Missing character: There is no √ in font cmr9!
 Missing character: There is no ¨ in font cmr9!
-[23 <./Mg23_tof_IC.pdf> <./Mg23_dE_E.pdf> <./stgeorge.pdf>]
+[40 <./stgeorge.pdf>]
 Underfull \hbox (badness 1033) in paragraph at lines 69--74
 []\OT1/cmr/m/n/9 C. Rolfs and R. E. Azuma.  In-ter-fer-ence ef-fects in
  []
+
+
+Underfull \vbox (badness 1558) has occurred while \output is active []
 
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
@@ -446,7 +547,7 @@ Missing character: There is no √ in font cmr9!
 Missing character: There is no Ñ in font cmr9!
 Missing character: There is no √ in font cmr9!
 Missing character: There is no ¥ in font cmr9!
-
+ [41]
 Underfull \hbox (badness 1052) in paragraph at lines 155--160
 []\OT1/cmr/m/n/9 D. A. Hutcheon, C. Ruiz, J. Fal-lis, J. M. D'Auria,
  []
@@ -472,7 +573,7 @@ Underfull \hbox (badness 2005) in paragraph at lines 230--234
 []\OT1/cmr/m/n/9 K. H. Hahn, K. H. Chang, T. R. Donoghue, and
  []
 
-[24]
+[42]
 Underfull \hbox (badness 3482) in paragraph at lines 248--254
 []\OT1/cmr/m/n/9 L Gi-alanella, F Strieder, K Brand, L Cam-pa-jola,
  []
@@ -524,12 +625,12 @@ Underfull \hbox (badness 6559) in paragraph at lines 311--318
 []\OT1/cmr/m/n/9 A. DiL-eva, L. Gi-alanella, R. Kunz, D. Ro-galla,
  []
 
-
+[43]
 Underfull \hbox (badness 2790) in paragraph at lines 338--342
 []\OT1/cmr/m/n/9 M. Couder, C. An-gulo, E. Casare-jos, P. De-maret,
  []
 
-[25]
+[44]
 Missing character: There is no √ in font cmr9!
 Missing character: There is no © in font cmr9!
 
@@ -539,16 +640,18 @@ Underfull \hbox (badness 1107) in paragraph at lines 413--422
 
 Missing character: There is no √ in font cmr9!
 Missing character: There is no ∂ in font cmr9!
-) [26] (./RevArticle.aux)
+[45]) [46
+
+] (./RevArticle.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 1479 strings out of 493848
- 19233 string characters out of 3149207
- 80734 words of memory out of 3000000
- 4735 multiletter control sequences out of 15000+200000
+ 1477 strings out of 493848
+ 19206 string characters out of 3149207
+ 78754 words of memory out of 3000000
+ 4736 multiletter control sequences out of 15000+200000
  12383 words of font info for 43 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  27i,9n,28p,3337b,276s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -576,9 +679,9 @@ ist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2009/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2009/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2009/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on RevArticle.pdf (26 pages, 2027964 bytes).
+Output written on RevArticle.pdf (46 pages, 2045739 bytes).
 PDF statistics:
- 569 PDF objects out of 1000 (max. 8388607)
+ 634 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  136 words of extra memory for PDF output out of 10000 (max. 10000000)
 

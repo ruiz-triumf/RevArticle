@@ -1,50 +1,50 @@
 \begingroup \small 
-\contentsline {section}{\numberline {1}Introduction}{1}
-\contentsline {subsection}{\numberline {1.1}Role of radiative capture in stellar environments}{2}
-\contentsline {subsubsection}{\numberline {1.1.1}Resonant and direct capture}{3}
-\contentsline {subsection}{\numberline {1.2}Specifics of inverse kinematics}{4}
-\contentsline {subsubsection}{\numberline {1.2.1}Recoil and gamma ray energy and momentum}{4}
-\contentsline {subsubsection}{\numberline {1.2.2}Recoil angular distribution}{5}
-\contentsline {subsubsection}{\numberline {1.2.3}$\gamma $-ray angular distribution and effect on recoil angle and energy}{6}
-\contentsline {section}{\numberline {2}Design Principles of Recoil Separators}{7}
-\contentsline {subsection}{\numberline {2.1}Ion Optical Elements}{7}
-\contentsline {subsubsection}{\numberline {2.1.1}Magnetic elements -- focussing and momentum/charge dispersion}{7}
-\contentsline {subsubsection}{\numberline {2.1.2}Electrostatic elements}{8}
-\contentsline {subsubsection}{\numberline {2.1.3}Combined crossed field (Wien) filter elements}{8}
-\contentsline {subsection}{\numberline {2.2}Performance}{9}
-\contentsline {subsubsection}{\numberline {2.2.1}Beam suppression}{9}
-\contentsline {subsubsection}{\numberline {2.2.2}Figure of merit}{9}
-\contentsline {subsubsection}{\numberline {2.2.3}Charge changing cross sections}{9}
-\contentsline {subsubsection}{\numberline {2.2.4}Additional factors}{9}
-\contentsline {subsection}{\numberline {2.3}Gas targets}{10}
-\contentsline {subsubsection}{\numberline {2.3.1}Windowless targets and differential pumping}{10}
-\contentsline {subsubsection}{\numberline {2.3.2}Extended length target considerations}{10}
-\contentsline {subsubsection}{\numberline {2.3.3}Gas jet targets}{11}
-\contentsline {section}{\numberline {3}Ancillary detectors and methods}{11}
-\contentsline {subsection}{\numberline {3.1}Beam normalisation}{11}
-\contentsline {subsection}{\numberline {3.2}Prompt $\gamma $-ray detection}{11}
-\contentsline {subsection}{\numberline {3.3}Silicon strip detectors}{12}
-\contentsline {subsection}{\numberline {3.4}Ionization chambers}{13}
-\contentsline {subsection}{\numberline {3.5}Local time-of-flight}{13}
-\contentsline {section}{\numberline {4}Early and recent work at stable beam facilities}{14}
-\contentsline {subsection}{\numberline {4.1}Caltech separator}{14}
-\contentsline {subsection}{\numberline {4.2}NABONA}{15}
-\contentsline {subsection}{\numberline {4.3}ERNA}{16}
-\contentsline {section}{\numberline {5}Recoil separators at radioactive ion beam facilities}{16}
-\contentsline {subsection}{\numberline {5.1}FMA}{16}
-\contentsline {subsection}{\numberline {5.2}ARES - Louvain-la-Neuve}{17}
-\contentsline {subsection}{\numberline {5.3}DRS - Holifield Radioactive Ion Beam Facility}{17}
-\contentsline {subsection}{\numberline {5.4}DRAGON - TRIUMF-ISAC}{18}
-\contentsline {section}{\numberline {6}Scientific highlights}{20}
-\contentsline {subsection}{\numberline {6.1}$^{7}$Be($p$,$\gamma $)$^{8}$B (NABONA and DRS) }{20}
-\contentsline {subsection}{\numberline {6.2}$^{21}$Na($p$,$\gamma $)$^{22}$Mg (DRAGON)}{21}
-\contentsline {subsection}{\numberline {6.3}$^{26g}$Al($p$,$\gamma $)$^{27}$Si (DRAGON)}{21}
-\contentsline {subsection}{\numberline {6.4}$^{17}$F($p$,$\gamma $)$^{18}$Ne (DRS) }{22}
-\contentsline {subsection}{\numberline {6.5}$^{23}$Mg($p$,$\gamma $)$^{24}$Al (DRAGON)}{22}
-\contentsline {section}{\numberline {7}Outlook and guidance for future separators}{23}
-\contentsline {subsection}{\numberline {7.1}Recoil separators planned and under construction}{23}
-\contentsline {subsubsection}{\numberline {7.1.1}St. George -- Notre Dame}{23}
-\contentsline {subsubsection}{\numberline {7.1.2}KRS -- KoRIA}{23}
-\contentsline {subsubsection}{\numberline {7.1.3}SECAR -- FRIB}{23}
-\contentsline {subsection}{\numberline {7.2}Suggested avenues of technical development}{23}
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {subsection}{\numberline {1.1}Role of radiative capture in stellar environments}{4}
+\contentsline {subsubsection}{\numberline {1.1.1}Resonant and direct capture}{6}
+\contentsline {subsection}{\numberline {1.2}Specifics of inverse kinematics}{6}
+\contentsline {subsubsection}{\numberline {1.2.1}Recoil and gamma ray energy and momentum}{7}
+\contentsline {subsubsection}{\numberline {1.2.2}Recoil angular distribution}{8}
+\contentsline {subsubsection}{\numberline {1.2.3}$\gamma $-ray angular distribution and effect on recoil angle and energy}{10}
+\contentsline {section}{\numberline {2}Design Principles of Recoil Separators}{11}
+\contentsline {subsection}{\numberline {2.1}Ion Optical Elements}{12}
+\contentsline {subsubsection}{\numberline {2.1.1}Magnetic elements -- focussing and momentum/charge dispersion}{12}
+\contentsline {subsubsection}{\numberline {2.1.2}Electrostatic elements}{13}
+\contentsline {subsubsection}{\numberline {2.1.3}Combined crossed field (Wien) filter elements}{14}
+\contentsline {subsection}{\numberline {2.2}Performance}{15}
+\contentsline {subsubsection}{\numberline {2.2.1}Beam suppression}{15}
+\contentsline {subsubsection}{\numberline {2.2.2}Figure of merit}{15}
+\contentsline {subsubsection}{\numberline {2.2.3}Charge changing cross sections}{16}
+\contentsline {subsubsection}{\numberline {2.2.4}Additional factors}{16}
+\contentsline {subsection}{\numberline {2.3}Gas targets}{17}
+\contentsline {subsubsection}{\numberline {2.3.1}Windowless targets and differential pumping}{17}
+\contentsline {subsubsection}{\numberline {2.3.2}Extended length target considerations}{18}
+\contentsline {subsubsection}{\numberline {2.3.3}Gas jet targets}{19}
+\contentsline {section}{\numberline {3}Ancillary detectors and methods}{19}
+\contentsline {subsection}{\numberline {3.1}Beam normalisation}{19}
+\contentsline {subsection}{\numberline {3.2}Prompt $\gamma $-ray detection}{20}
+\contentsline {subsection}{\numberline {3.3}Silicon strip detectors}{21}
+\contentsline {subsection}{\numberline {3.4}Ionization chambers}{22}
+\contentsline {subsection}{\numberline {3.5}Local time-of-flight}{23}
+\contentsline {section}{\numberline {4}Early and recent work at stable beam facilities}{24}
+\contentsline {subsection}{\numberline {4.1}Caltech separator}{24}
+\contentsline {subsection}{\numberline {4.2}NABONA}{26}
+\contentsline {subsection}{\numberline {4.3}ERNA}{27}
+\contentsline {section}{\numberline {5}Recoil separators at radioactive ion beam facilities}{29}
+\contentsline {subsection}{\numberline {5.1}FMA}{29}
+\contentsline {subsection}{\numberline {5.2}ARES - Louvain-la-Neuve}{29}
+\contentsline {subsection}{\numberline {5.3}DRS - Holifield Radioactive Ion Beam Facility}{30}
+\contentsline {subsection}{\numberline {5.4}DRAGON - TRIUMF-ISAC}{31}
+\contentsline {section}{\numberline {6}Scientific highlights}{35}
+\contentsline {subsection}{\numberline {6.1}$^{7}$Be($p$,$\gamma $)$^{8}$B (NABONA and DRS) }{35}
+\contentsline {subsection}{\numberline {6.2}$^{21}$Na($p$,$\gamma $)$^{22}$Mg (DRAGON)}{36}
+\contentsline {subsection}{\numberline {6.3}$^{26g}$Al($p$,$\gamma $)$^{27}$Si (DRAGON)}{37}
+\contentsline {subsection}{\numberline {6.4}$^{17}$F($p$,$\gamma $)$^{18}$Ne (DRS) }{38}
+\contentsline {subsection}{\numberline {6.5}$^{23}$Mg($p$,$\gamma $)$^{24}$Al (DRAGON)}{39}
+\contentsline {section}{\numberline {7}Outlook and guidance for future separators}{40}
+\contentsline {subsection}{\numberline {7.1}Recoil separators planned and under construction}{40}
+\contentsline {subsubsection}{\numberline {7.1.1}St. George -- Notre Dame}{40}
+\contentsline {subsubsection}{\numberline {7.1.2}KRS -- KoRIA}{41}
+\contentsline {subsubsection}{\numberline {7.1.3}SECAR -- FRIB}{41}
+\contentsline {subsection}{\numberline {7.2}Suggested avenues of technical development}{41}
 \endgroup 

@@ -2,8 +2,13 @@ This is BibTeX, Version 0.99c (TeX Live 2009)
 The top-level auxiliary file: RevArticle.aux
 The style file: unsrt.bst
 Database file #1: refs.bib
+Warning--string name "pra" is undefined
+--line 46 of file refs.bib
+Warning--I didn't find a database entry for "wiss84"
 Warning--empty title in Hau52
+Warning--can't use both author and editor fields in reg67
 Warning--empty title in Wo71
+Warning--empty journal in sch83
 Warning--empty title in schu05b
 Warning--empty title in Da92
 Warning--empty title in reh97
@@ -29,45 +34,45 @@ Warning--empty title in lot08
 Warning--empty title in las09
 Warning--empty title in wre10
 Warning--empty title in cou08
-You've used 84 entries,
+You've used 89 entries,
             1791 wiz_defined-function locations,
-            912 strings with 22540 characters,
-and the built_in function-call counts, 26835 in all, are:
-= -- 1655
-> -- 2654
-< -- 1
-+ -- 915
-- -- 831
-* -- 2686
-:= -- 4892
-add.period$ -- 225
-call.type$ -- 84
-change.case$ -- 54
+            940 strings with 23196 characters,
+and the built_in function-call counts, 27895 in all, are:
+= -- 1760
+> -- 2681
+< -- 2
++ -- 927
+- -- 838
+* -- 2756
+:= -- 5057
+add.period$ -- 240
+call.type$ -- 89
+change.case$ -- 58
 chr.to.int$ -- 0
-cite$ -- 111
-duplicate$ -- 756
-empty$ -- 1873
-format.name$ -- 831
-if$ -- 5335
+cite$ -- 118
+duplicate$ -- 802
+empty$ -- 1984
+format.name$ -- 838
+if$ -- 5565
 int.to.chr$ -- 0
-int.to.str$ -- 84
-missing$ -- 83
-newline$ -- 396
-num.names$ -- 84
-pop$ -- 130
+int.to.str$ -- 89
+missing$ -- 89
+newline$ -- 421
+num.names$ -- 89
+pop$ -- 141
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 290
+skip$ -- 305
 stack$ -- 0
-substring$ -- 1603
-swap$ -- 93
-text.length$ -- 1
+substring$ -- 1703
+swap$ -- 99
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 27
-while$ -- 188
-width$ -- 86
-write$ -- 866
-(There were 27 warnings)
+warning$ -- 29
+while$ -- 201
+width$ -- 91
+write$ -- 920
+(There were 31 warnings)

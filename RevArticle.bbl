@@ -82,9 +82,26 @@ C.~Matei, L.~Buchmann, W.~R. Hannes, D.~A. Hutcheon, C.~Ruiz, C.~R. Brune,
   Factor in Stellar Helium Burning}.
 \newblock {\em Phys. Rev. Lett.}, 97:242503, 2006.
 
+\bibitem{reg67}
+E.~Regenstreif.
+\newblock {\em Focusing of Charged Particles}, volume~1.
+\newblock Academic Press, 1967.
+
+\bibitem{bev85}
+John~L. Beveridge, Jacob Doornbos, and David~M. Gardner.
+\newblock A spin rotator for surface $\mu^{+}$ beams on the new m20 muon
+  channel at triumf.
+\newblock {\em Nucl. Instr. Meth. A}, 240:316--322, 1985.
+
 \bibitem{Wo71}
 H.~Wollnik.
 \newblock {\em Nucl. Instr. Meth.}, 95:453, 1971.
+
+\bibitem{sch83}
+A.~S.~Schlachter {\em et al.}
+\newblock Electron capture for fast highly charged ions in gas targets: An
+  empirical scaling rule.
+\newblock 27 (11):3372--3374, 1983.
 
 \bibitem{rolf88}
 C.~E. Rolfs and W.~S. Rodney.
@@ -121,6 +138,25 @@ W~Liu, G~Imbriani, L~Buchmann, A.A Chen, J.M D'Auria, A~D‚ÄôOnofrio,
 \newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
   Accelerators, Spectrometers, Detectors and Associated Equipment},
   496(1):198--214, 2003.
+
+\bibitem{sch04}
+D.~Sch\"urmann {\em et al.}
+\newblock Recoil separator erna: charge state distribution, target density,
+  beam heating, and longitudinal acceptance.
+\newblock {\em Nucl. Instr. Meth. A}, 531:428--434, 2004.
+
+\bibitem{zyl07}
+J.~Zylberberg {\em et al.}
+\newblock Charge-state distributions after radiative capture of helium nuclei
+  by a carbon beam.
+\newblock {\em Nucl. Instr. Meth. B}, 254:17--24, 2007.
+
+\bibitem{hut12}
+D.~A. Hutcheon, C.~Ruiz, J.~Fallis, J.~M. D'Auria, B.~Davids, U.~Hager,
+  L.~Martin, D.~F. Ottewell, S.~Reeve, and A.~Rojas.
+\newblock Measurement of radiative capture resonance energies with an extended
+  gas target.
+\newblock {\em submitted to Nucl. Instr. Meth. A}, 2012.
 
 \bibitem{vock08}
 C.~Vockenhuber, L.~Buchmann, J.~Caggiano, A.A. Chen, J.M. D'Auria, C.A. Davis,
@@ -372,13 +408,6 @@ S.~K.~L. Sjue, B.~S.~Nara Singh, P.~Adsley, L.~Buchmann, M.~Carmona-Gallardo,
 Dario~G. Gigliotti, Joel~G. Rogers, and Ahmed~H. Hussein.
 \newblock {Calibration and simulation of a gamma array for DRAGON at ISAC}.
 \newblock {\em Nucl. Instr. Meth. B}, 204:671--677, 2003.
-
-\bibitem{hut12}
-D.~A. Hutcheon, C.~Ruiz, J.~Fallis, J.~M. D'Auria, B.~Davids, U.~Hager,
-  L.~Martin, D.~F. Ottewell, S.~Reeve, and A.~Rojas.
-\newblock Measurement of radiative capture resonance energies with an extended
-  gas target.
-\newblock {\em submitted to Nucl. Instr. Meth. A}, 2012.
 
 \bibitem{rui06}
 C.~Ruiz, A.~Parikh, J.~José, L.~Buchmann, J.~A. Caggiano, A.~A. Chen, J.~A.

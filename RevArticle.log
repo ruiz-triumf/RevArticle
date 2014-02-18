@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  13 FEB 2014 14:46
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  17 FEB 2014 16:28
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -159,7 +159,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \hbox (5.56068pt too wide) in paragraph at lines 26--28
+Overfull \hbox (5.56068pt too wide) in paragraph at lines 27--29
 \OT1/cmr/m/n/10 physics no-ta-tion for such a re-ac-tion would be $[]\OML/cmm/m
 /it/10 T$\OT1/cmr/m/n/10 (p,$\OML/cmm/m/it/10 ^^M$\OT1/cmr/m/n/10 )$[]\OML/cmm/
 m/it/10 C$\OT1/cmr/m/n/10 ,
@@ -189,7 +189,7 @@ File: NeNa-cycle_legend.pdf Graphic file (type pdf)
 ] <radcap.pdf, id=87, 326.21875pt x 244.915pt>
 File: radcap.pdf Graphic file (type pdf)
  <use radcap.pdf> [6 <./radcap.pdf>]
-Overfull \hbox (4.0521pt too wide) in paragraph at lines 123--124
+Overfull \hbox (4.0521pt too wide) in paragraph at lines 126--127
 \OT1/cmr/m/n/10 and for-wards C.M. hemi-spheres for-wards when trans-formed
  []
 
@@ -221,15 +221,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13]
 [14]
-Overfull \hbox (12.38539pt too wide) in paragraph at lines 116--117
+Overfull \hbox (12.38539pt too wide) in paragraph at lines 118--119
 []\OT1/cmr/m/n/10 As an ex-am-ple of the mag-ni-tude of such ef-fects, Schlacht
 er
  []
 
 [15]
-Overfull \hbox (1.81606pt too wide) in paragraph at lines 135--137
+Overfull \hbox (6.81607pt too wide) in paragraph at lines 141--142
 \OT1/cmr/m/n/10 tar-get num-ber den-sity of ap-prox-i-mately $5 \OMS/cmsy/m/n/1
-0 ^^A \OT1/cmr/m/n/10 10[] []$
+0 ^^B \OT1/cmr/m/n/10 10[] []$
  []
 
 [16]
@@ -243,11 +243,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-
-LaTeX Warning: Citation `chi13' on page 18 undefined on input line 162.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 164--165
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
 
  []
 
@@ -456,7 +452,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [35 <./Gialanella00_Fig2_DeltaE-E.pdf> <./Bardayan09_Fig4_Be7pg_DeltaE-E.pdf>]
 
 Overfull \hbox (44.56642pt too wide) in paragraph at lines 29--31
-[]$\OT1/cmr/m/n/10 Mg(p,t)$[]$Mg [68, 69], $[]$Mg($[]$He,$[]$He)$[]$Mg [70], $[
+[]$\OT1/cmr/m/n/10 Mg(p,t)$[]$Mg [69, 70], $[]$Mg($[]$He,$[]$He)$[]$Mg [71], $[
 ]$C($[]$O,$[]$He)$[]$Mg
  []
 
@@ -492,11 +488,10 @@ File: Mg23_dE_E.pdf Graphic file (type pdf)
 (./Outlook.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [39 <./Mg23_tof_IC.pdf> <./Mg23_dE_E.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Overfull \vbox (10.93721pt too high) has occurred while \output is active []
 
-
-[39 <./Mg23_tof_IC.pdf> <./Mg23_dE_E.pdf>]
 <stgeorge.pdf, id=527, 343.2825pt x 173.59254pt>
 File: stgeorge.pdf Graphic file (type pdf)
  <use stgeorge.pdf>)
@@ -505,9 +500,7 @@ Underfull \hbox (badness 1137) in paragraph at lines 4--12
 \OT1/cmr/m/n/9 D. Baye, C. Leclercq-Willain, A. Coc, S. Barhoumi,
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+[40 <./stgeorge.pdf>]
 Missing character: There is no â in font cmr9!
 Missing character: There is no ˆ in font cmr9!
 Missing character: There is no š in font cmr9!
@@ -532,14 +525,12 @@ Missing character: There is no Ã in font cmr9!
 Missing character: There is no „ in font cmr9!
 Missing character: There is no Ã in font cmr9!
 Missing character: There is no ¬ in font cmr9!
-[40 <./stgeorge.pdf>]
+
 Underfull \hbox (badness 1033) in paragraph at lines 69--74
 []\OT1/cmr/m/n/9 C. Rolfs and R. E. Azuma.  In-ter-fer-ence ef-fects in
  []
 
-
-Underfull \vbox (badness 1558) has occurred while \output is active []
-
+[41]
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no š in font cmr9!
@@ -547,16 +538,23 @@ Missing character: There is no Ã in font cmr9!
 Missing character: There is no „ in font cmr9!
 Missing character: There is no Ã in font cmr9!
 Missing character: There is no ´ in font cmr9!
- [41]
+
 Underfull \hbox (badness 1052) in paragraph at lines 155--160
 []\OT1/cmr/m/n/9 D. A. Hutcheon, C. Ruiz, J. Fal-lis, J. M. D'Auria,
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 179--185
+Underfull \vbox (badness 6380) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 183--189
 \OT1/cmr/m/n/9 Ouel-let, A. Parikh, P. Parker, J. Pear-son, C. Ruiz,
  []
 
+
+Underfull \vbox (badness 6380) has occurred while \output is active []
+
+ [42]
 Missing character: There is no â in font cmr9!
 Missing character: There is no ˆ in font cmr9!
 Missing character: There is no š in font cmr9!
@@ -564,17 +562,20 @@ Missing character: There is no â in font cmr9!
 Missing character: There is no ‰ in font cmr9!
 Missing character: There is no ¤ in font cmr9!
 
-Underfull \hbox (badness 6016) in paragraph at lines 204--209
+Underfull \hbox (badness 6016) in paragraph at lines 208--213
 []\OT1/cmr/m/n/9 S Tud-isco, F Amor-ini, M Cabibbo, G Cardella,
  []
 
 
-Underfull \hbox (badness 2005) in paragraph at lines 230--234
+Underfull \hbox (badness 2005) in paragraph at lines 234--238
 []\OT1/cmr/m/n/9 K. H. Hahn, K. H. Chang, T. R. Donoghue, and
  []
 
-[42]
-Underfull \hbox (badness 3482) in paragraph at lines 248--254
+
+Underfull \vbox (badness 2326) has occurred while \output is active []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 252--258
 []\OT1/cmr/m/n/9 L Gi-alanella, F Strieder, K Brand, L Cam-pa-jola,
  []
 
@@ -593,7 +594,7 @@ Missing character: There is no „ in font cmr9!
 Missing character: There is no Ã in font cmr9!
 Missing character: There is no ´ in font cmr9!
 
-Underfull \hbox (badness 1448) in paragraph at lines 271--277
+Underfull \hbox (badness 1448) in paragraph at lines 275--281
 []\OT1/cmr/m/n/9 D. Ro-galla, D. Sch^^?urmann, F. Strieder, M. Aliotta,
  []
 
@@ -604,6 +605,7 @@ Missing character: There is no Ã in font cmr9!
 Missing character: There is no „ in font cmr9!
 Missing character: There is no Ã in font cmr9!
 Missing character: There is no ´ in font cmr9!
+[43]
 Missing character: There is no â in font cmr9!
 Missing character: There is no ˆ in font cmr9!
 Missing character: There is no š in font cmr9!
@@ -611,50 +613,54 @@ Missing character: There is no â in font cmr9!
 Missing character: There is no ˆ in font cmr9!
 Missing character: There is no ‚ in font cmr9!
 
-Underfull \hbox (badness 1466) in paragraph at lines 287--294
+Underfull \hbox (badness 1466) in paragraph at lines 291--298
 \OT1/cmr/m/n/9 N. De Ce-sare, A. D'Onofrio, G. Im-bri-ani, J. Klug,
  []
 
 
-Underfull \hbox (badness 3942) in paragraph at lines 296--303
+Underfull \hbox (badness 3942) in paragraph at lines 300--307
 \OT1/cmr/m/n/9 C. Rolfs, D. Ro-galla, M. Ro-mano, F. Sch^^?umann,
  []
 
 
-Underfull \hbox (badness 6559) in paragraph at lines 311--318
+Underfull \hbox (badness 6559) in paragraph at lines 315--322
 []\OT1/cmr/m/n/9 A. DiL-eva, L. Gi-alanella, R. Kunz, D. Ro-galla,
  []
 
-[43]
-Underfull \hbox (badness 2790) in paragraph at lines 338--342
+
+Underfull \hbox (badness 2790) in paragraph at lines 342--346
 []\OT1/cmr/m/n/9 M. Couder, C. An-gulo, E. Casare-jos, P. De-maret,
  []
 
 [44]
+Underfull \vbox (badness 6380) has occurred while \output is active []
+
 Missing character: There is no Ã in font cmr9!
 Missing character: There is no © in font cmr9!
 
-Underfull \hbox (badness 1107) in paragraph at lines 413--422
+Underfull \hbox (badness 1107) in paragraph at lines 417--426
 \OT1/cmr/m/n/9 D. Frek-ers, U. Greife, A. Hus-sein, D. A. Hutcheon,
  []
 
 Missing character: There is no Ã in font cmr9!
 Missing character: There is no ¶ in font cmr9!
-[45]) [46
 
-] (./RevArticle.aux)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45])
+[46] (./RevArticle.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 1477 strings out of 493848
- 19206 string characters out of 3149207
- 78754 words of memory out of 3000000
- 4736 multiletter control sequences out of 15000+200000
+ 1483 strings out of 493848
+ 19255 string characters out of 3149207
+ 78816 words of memory out of 3000000
+ 4742 multiletter control sequences out of 15000+200000
  12383 words of font info for 43 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 27i,9n,28p,3337b,276s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,9n,28p,3337b,277s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><
 /usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
@@ -679,7 +685,7 @@ ist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2009/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2009/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2009/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on RevArticle.pdf (46 pages, 2044787 bytes).
+Output written on RevArticle.pdf (46 pages, 2048745 bytes).
 PDF statistics:
  634 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

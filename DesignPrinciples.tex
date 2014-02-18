@@ -2,12 +2,13 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Design Principles of Recoil Separators}
 % Experimental requirements, theory of separators, figures of merit
-\label{emsep}
+\label{design}
 
 In this section we will present the equations for the motion of charged particles in magnetic and electric fields before discussing the types and design of ion-optical elements required in different designs of recoil separators, as well as exploring some of the rigidity and performance regimes for astrophysically important radiative capture reactions. In addition we discuss the various types of gas targets that can be used with a recoil separator.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Ion Optical Elements}
+\label{ion}
 
 For a recoil separator to function, it in principle has to induce a spacial separation between unreacted beam and recoil particles of different mass but similar momentum. In addition, it has to accept recoils with divergent angles with respect to the beam axis. In almost all cases discussed in this paper polarized beams are not used, therefore recoils are uniformly distributed in azimuthal angle, $\phi$. 
 Thus in order for recoils to be separated, they must be brought to a focus in a mass-dispersed plane at some point. Due to the typical rigidities experienced in inverse kinematics at astrophysically-relevant energies, magnetic elements are required to provide the focusing. Electrostatic elements or combined electrostatic and magnetic elements can be used in addition to these to provide mass dispersion or beam rejection.  
@@ -86,6 +87,7 @@ In general a Wien filter suffers from the same high voltage conditioning constra
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Performance}
+\label{performance}
 
 %%%%%
 \subsubsection{Beam suppression}
@@ -126,16 +128,19 @@ Detectors of the heavy reaction product may have a maximum counting rate for opt
  The space   for the separator may be limited or the wrong shape if the experimental area was designed for the needs of earlier experiments.   Dipoles, quadrupoles  or Wien filters from elsewhere  may be available for use.  Finally,  funds for the project may be limited.   
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Gas targets}\label{gastarg}
+\subsection{Gas targets}
+\label{gas}
 
 %%%%%
 \subsubsection{Windowless targets and differential pumping}
 
 
-For our purpose of measuring proton or alpha radiative capture in inverse kinematics, a hydrogen or helium gas target is required which has sufficient density  to contain energetically the targeted resonance width or a sufficient direct capture interval to provide a measurable yield. Additionally, the uncertainty of a resonance position --- from transfer reaction measurements and nuclear mass information --- has to be taken into account. As the resonant yield is inverse proportional to the target stopping power it is also beneficial to avoid inactive nuclei in its composition, {\it e.g.} a pure hydrogen target provides a factor 3--4 higher yield than a CH$_2$ foil target.  A gas target is also virtually indestructible and stable in its composition while in plastic foil targets the carbon to hydrogen ratio is known to change even under modest heavy ion beam flux on the order of $10^7 \unit{s^{-1}}$.\\
-In order to achieve a target thickness of 10 keV (in the centre-of-mass system) with the light to medium mass ion beams in question at astrophysically relevant energies, a target number density of approximately $5\cdot10^{18} \unit{nuclei~cm^{-2}}$ of hydrogen is required. To provide unimpeded beam and recoil transmission, the gas cannot be confined by foil windows, leaving as the only possible approach the use of a windowless, differentially pumped gas target. The gas pressure necessary to achieve the required target number density is given by the formula \cite{rolf88} 
+For our purpose of measuring proton or alpha radiative capture in inverse kinematics, a hydrogen or helium gas target is required which has sufficient density  to contain energetically the targeted resonance width or a sufficient direct capture interval to provide a measurable yield. Additionally, the uncertainty of a resonance position --- from transfer reaction measurements and nuclear mass information --- has to be taken into account. As the resonant yield is inverse proportional to the target stopping power it is also beneficial to avoid inactive nuclei in its composition, {\it e.g.} a pure hydrogen target provides a factor 3--4 higher yield than a CH$_2$ foil target.  A gas target is also virtually indestructible and stable in its composition while in plastic foil targets the carbon to hydrogen ratio is known to change even under modest heavy ion beam flux on the order of $10^7 \unit{s^{-1}}$.
+
+
+In order to achieve a target thickness of 10 keV (in the centre-of-mass system) with the light to medium mass ion beams in question at astrophysically relevant energies, a target number density of approximately $5\times10^{18} \unit{nuclei~cm^{-2}}$ of hydrogen is required. To provide unimpeded beam and recoil transmission, the gas cannot be confined by foil windows, leaving as the only possible approach the use of a windowless, differentially pumped gas target. The gas pressure necessary to achieve the required target number density is given by the formula \cite{rolf88} 
 \begin{equation}
-n_A = 9.66\cdot10^{18} L \nu \frac{P}{T} \mathrm{[1/cm^2]}
+n_A = 9.66\times10^{18} L \nu \frac{P}{T}~\mathrm{[cm^{-2}]}
 \end{equation}
 with $L$ the target length in cm, $\nu$ the number of atoms per molecule, $P$ the pressure in Torr, and $T$ the temperature in K.\\
 It should be noted that the target length needs to be kept small ($<$ 10--15 cm) in order not to significantly increase the acceptance requirements for the recoil separator. The windowless approach means that a target pressure of a few torr needs to be maintained in the gas cell, but a reduction to the order of $10^{-6} \unit{torr}$ achieved over several gas flow limiting apertures and pumping stages is necessary to allow connection to the accelerator and separator. On the accelerator side the dimensions of these apertures are defined typically by the beam dimensions, while on the separator side the reaction recoil cone needs to be accommodated. Therefore, it is preferable to compress the length of the differential pumping stages as much as possible to allow for smaller aperture sizes. A typical pumping scheme is depicted in Fig. \ref{fig:dragon_pumping}.
@@ -150,7 +155,7 @@ It should be noted that the target length needs to be kept small ($<$ 10--15 cm)
 
 %%%%%
 \subsubsection{Extended length target considerations}
-For the extraction of a cross section or resonance strength from the measured yield we require knowledge of the stopping power of the heavy ions in hydrogen or helium. While these are typically taken from the widely used SRIM code \cite{zieg}, recent experiments \cite{grei04} have shown deviations of the order of 20--30 \% from the semi-empirical values. Therefore, direct measurement of the respective stopping power should, where possible, be preferred. This is possible when the effective length (defined as the equivalent length of constant pressure gas to achieve the same total mean ion energy loss as the non-uniform distribution) of the target is known, usually obtained through the use of a narrow-resonance reaction of known yield. 
+For the extraction of a cross section or resonance strength from the measured yield we require knowledge of the stopping power of the heavy ions in hydrogen or helium. While these are typically taken from the widely used SRIM code \cite{zieg}, recent experiments \cite{grei04} have shown deviations of the order of 20--30\% from the semi-empirical values. Therefore, direct measurement of the respective stopping power should, where possible, be preferred. This is possible when the effective length (defined as the equivalent length of constant pressure gas to achieve the same total mean ion energy loss as the non-uniform distribution) of the target is known, usually obtained through the use of a narrow-resonance reaction of known yield. 
 
 Additionally, angle and energy scattering of the beam and recoils on their way through the target gas needs to be estimated and taken into account in the calculation of the required recoil separator acceptance. While the ions pass through the target gas they undergo charge-changing collisions. If the target is thick enough, an equilibrium charge state distribution is achieved (semi-empirical description available in {\it e.g.} \cite{liu03}). However, if the reaction recoil originates from the downstream side of the gas target, the remaining gas track length is not sufficient to reach this equilibrium, and it is advisable to obtain the charge state distribution by tuning the recoil separator for measurements of the several charge states expected to be most abundant. For reactions where the yield is spread out over the entire length of the target, e.g. direct capture, the differing charge state distribution from the non-equilibrated recoils originating from the downstream part of the target can give rise to transmission efficiency problems. Measurements of the charge state distribution at low pressures can shed some light on this, and allow models to be set up to predict the overall detection efficiency. Some detailed consideration of charge state distributions over the length of extended targets has been done in \cite{sch04} and \cite{zyl07}, for example.
 
@@ -161,7 +166,7 @@ An extended target also allows the interesting possibility of determining the re
 \subsubsection{Gas jet targets}
 Especially for the astrophysically most important reactions \nuc{12}{C}\reac{\alpha}{\gamma}\nuc{16}{O} and \nuc{15}{O}\reac{\alpha}{\gamma}\nuc{19}{Ne}, the recoil cone angles are quite demanding on separator acceptance. In order not to aggravate the problem through the use of an extended gas target length of 5 -- 10 cm, recent discussions have proposed the use of a gas jet target with approximately 4 -- 5 mm jet diameter matched to the dimension of the incoming ion beam. Recent work on such a target has begun through the {\em Jet Experiments in Nuclear Structure and Astrophysics} (JENSA) collaboration, with a view to application in future facilities such as FRIB (USA) \cite{chi13}. 
 
-As can be seen in the pumping scheme \emph{[gas jet target pumping scheme figure]} for an appropriate gas jet target ($\approx 5\cdot10^{18} \unit{cm^{-2}}$ areal density), such a setup (which is in its early construction phases for deployment at Oak Ridge National Laboratory) requires significantly more powerful pumping stages as well as expensive gas compression and cleaning.\\
+As can be seen in the pumping scheme \emph{[gas jet target pumping scheme figure]} for an appropriate gas jet target ($\approx 5\times10^{18} \unit{cm^{-2}}$ areal density), such a setup (which is in its early construction phases for deployment at Oak Ridge National Laboratory) requires significantly more powerful pumping stages as well as expensive gas compression and cleaning.\\
  
 
 %\small

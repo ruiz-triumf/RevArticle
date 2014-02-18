@@ -158,6 +158,10 @@ D.~A. Hutcheon, C.~Ruiz, J.~Fallis, J.~M. D'Auria, B.~Davids, U.~Hager,
   gas target.
 \newblock {\em submitted to Nucl. Instr. Meth. A}, 2012.
 
+\bibitem{chi13}
+{\em A gas jet target for radioactive ion beam experiments - Application of
+  Accelerators in Research and Industry AIP Conf. Proc.}, volume 1525, 2013.
+
 \bibitem{vock08}
 C.~Vockenhuber, L.~Buchmann, J.~Caggiano, A.A. Chen, J.M. D'Auria, C.A. Davis,
   U.~Greife, A.~Hussein, D.A. Hutcheon, D.~Ottewell, C.O. Ouellet, A.~Parikh,
@@ -566,5 +570,13 @@ C.~Wrede et~al.
 \bibitem{cou08}
 M.~Couder et~al.
 \newblock {\em Nucl. Instr. Meth. A}, 587:34--45, 2008.
+
+\bibitem{ber10}
+Georg P. A.~Berg {\em et al.}
+\newblock Design of a new recoil separator for measurements of radiative
+  capture reactions in astrophysics.
+\newblock In {\em THE 10TH INTERNATIONAL SYMPOSIUM ON ORIGIN OF MATTER AND
+  EVOLUTION OF GALAXIES: OMEG-2010. AIP Conference Proceedings}, volume 1269,
+  pages 445--447, 2010.
 
 \end{thebibliography}

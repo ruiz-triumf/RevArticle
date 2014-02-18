@@ -34,45 +34,45 @@ Warning--empty title in lot08
 Warning--empty title in las09
 Warning--empty title in wre10
 Warning--empty title in cou08
-You've used 89 entries,
+You've used 91 entries,
             1791 wiz_defined-function locations,
-            940 strings with 23196 characters,
-and the built_in function-call counts, 27895 in all, are:
-= -- 1760
-> -- 2681
-< -- 2
-+ -- 927
-- -- 838
-* -- 2756
-:= -- 5057
-add.period$ -- 240
-call.type$ -- 89
-change.case$ -- 58
+            950 strings with 23591 characters,
+and the built_in function-call counts, 28343 in all, are:
+= -- 1800
+> -- 2686
+< -- 5
++ -- 930
+- -- 839
+* -- 2779
+:= -- 5107
+add.period$ -- 244
+call.type$ -- 91
+change.case$ -- 59
 chr.to.int$ -- 0
-cite$ -- 118
-duplicate$ -- 802
-empty$ -- 1984
-format.name$ -- 838
-if$ -- 5565
+cite$ -- 120
+duplicate$ -- 832
+empty$ -- 2040
+format.name$ -- 839
+if$ -- 5680
 int.to.chr$ -- 0
-int.to.str$ -- 89
-missing$ -- 89
-newline$ -- 421
-num.names$ -- 89
-pop$ -- 141
+int.to.str$ -- 91
+missing$ -- 90
+newline$ -- 429
+num.names$ -- 90
+pop$ -- 151
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 305
+skip$ -- 326
 stack$ -- 0
-substring$ -- 1703
-swap$ -- 99
-text.length$ -- 2
+substring$ -- 1731
+swap$ -- 113
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 29
-while$ -- 201
-width$ -- 91
-write$ -- 920
+while$ -- 204
+width$ -- 93
+write$ -- 939
 (There were 31 warnings)

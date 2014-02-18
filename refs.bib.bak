@@ -1333,3 +1333,12 @@
   timestamp = {2012.04.26}
 }
 
+@PROCEEDINGS{chi13,
+  title = {A gas jet target for radioactive ion beam experiments - Application
+	of Accelerators in Research and Industry AIP Conf. Proc.},
+  year = {2013},
+  volume = {1525},
+  owner = {chris},
+  timestamp = {2014.02.12}
+}
+

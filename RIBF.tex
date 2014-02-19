@@ -9,28 +9,32 @@ Although the FMA was not designed to study radiative capture reactions, it was u
 \subsection{ARES - Louvain-la-Neuve}
 
 The Astrophysics Recoil Separator (ARES) was the first recoil separator at an ISOL radioactive ion beam facility designed for measurements of \reac{p}{\gamma} reactions in inverse kinematics. It was coupled to the CYCLONE44 cyclotron at the Cyclotron Research Center in Louvain-la-Neuve (Belgium). The cyclotron was dedicated to the acceleration of radioactive ion beams (available in sufficient intensity: \nuc{13}{N} and \nuc{19}{Ne}) in the (0.2 -- 0.8)$\cdot A$ MeV energy range. Compared to electrostatic or linear accelerator facilities CYCLONE44 produces beam with relatively large energy spread ($\frac{\Delta{}E}{E} \approx 1\%$) and emittance ($28\pi \unit{mm\,mrad}$ (horizontal) and $16\pi \unit{mm\,mrad}$ (vertical)), which complicate significantly experiments with recoil separators.
-\begin{figure}
-\resizebox{0.9\columnwidth}{!}{
+\begin{figure*}
+\begin{center}
+\resizebox{1.5\columnwidth}{!}{
 \includegraphics{Couder03_Fig1_ARES}
 }
 %\vspace{5cm}       % Give the correct figure height in cm
 \caption{Schematic view of the ARES separator. Taken from \cite{coud03}.}
 \label{fig:ares}
-\end{figure}
+\end{center}
+\end{figure*}
 Additionally, ARES did not have a gas target available but operated with a plastic foil (CH$_2$) hydrogen target, see Fig. \ref{fig:ares}, thereby reducing resonant yield, and producing additional energy and angle straggling to cope with. The rest of the setup followed the NABONA approach of first using a magnetic dipole to select a charge state to transport and then a crossed field (Wien-) filter to suppress the beam ions of the selected charge state. For recoil detection a $\Delta{}E$-$E$ system combining energy loss measurement in an ionization chamber and rest energy detection in a silicon (PIPS) detector was used \cite{coud03}. Due to the large emittance of the beam direct measurements of the transport efficiency of the separator alone (and thereby deduction of an acceptance) was not possible. Instead, a measurement of the nuclear reaction \nuc{19}{F}\reac{p}{\gamma}\nuc{20}{Ne} was performed in inverse kinematics, and the result compared to simulation and literature data. For this reaction, a selected charge state of the \nuc{20}{Ne} recoils was transported with approximately 11\% transmission efficiency (simulation and experiment in agreement). The rejection factor of the separator proved to be of the order of only $10^{-7}$ resulting from the poor ion beam quality as well as the use of a solid foil target \cite{angu01,coud05}. Nevertheless, the ARES collaboration attempted a measurement of the \nuc{19}{Ne}\reac{p}{\gamma}\nuc{20}{Na} reaction to populate a resonant state at 448 keV having of the order of $10^8 ~\unit{s^{-1}}$ \nuc{19}{Ne} ion beam available. No recoils were detected and an upper limit on the resonance strength of $\omega\gamma = 15.2 \unit{meV}$ established. This limit represents the sensitivity of the separator as defined by the efficiency and primary beam suppression. No further experiments at ARES were performed.
 
 \subsection{DRS - Holifield Radioactive Ion Beam Facility}
 
 The Daresbury Recoil Separator (DRS) was initially designed for use in the UK for the measurement of fusion evaporation reactions in nuclear structure research. With the closure of its accelerator facility, the separator became available for nuclear astrophysics research and was relocated to the newly dedicated Holifield Radioactive Ion Beam Facility (HRIBF) at Oak Ridge National Laboratory (ORNL) \cite{smit98}. It follows in principle the Caltech approach of using a velocity filter (crossed fields) to separate recoils from beam followed by a magnetic dipole ($50^\circ$) to separate charge states. It featured the improvement that two velocity filters were installed in sequence with an additional focus and selection slits in between them, as shown in Fig.\ \ref{fig:drs}.
-\begin{figure}
-\resizebox{0.9\columnwidth}{!}{
+\begin{figure*}
+\begin{center}
+\resizebox{1.5\columnwidth}{!}{
 \includegraphics{Bardayan09_Fig1_DRS}
 }
 %\vspace{5cm}       % Give the correct figure height in cm
 \caption{Schematic view of the DRS separator. Dispersive elements are a pair of Wien filters followed by a 50-degree magnetic dipole.   With maximum design voltage $\Delta$V=600~kV and each of length 1.28~m, the two Wien filters have a proxy figure of merit 1536~kV$\cdot$m.
 Design acceptances were 2$\times$45~mrad in horizontal and vertical angles, $\pm$2\% in velocity and  $\pm$1.2\% in M/q, with resolving power 300 in M/q.Taken from \cite{bard09}.}
 \label{fig:drs}
-\end{figure}
+\end{center}
+\end{figure*}
 The HRIBF uses a light ion cyclotron to drive an on-line radioactive ion source which injects negative ions into the vertical folded tandem accelerator with a maximum terminal voltage of 25 MV. For nuclear astrophysics research the facility focused on the production of radioactive fluorine isotopes relevant to the hot and explosive CNO cycles. Measurement of radiative capture in this mass regime however required running the Tandem close to the lower voltage limits sacrificing transmission efficiency. For these measurements the DRS was coupled with a windowless Hydrogen gas target capable of maintaining 5.5 Torr pressure over 15 cm target length. The acceptance of the separator was only limited in these experiments by the diameter of the gas flow limiting apertures. These were tailored to accept the specific reaction recoils pursued. In the final focal plane of the separator a $\Delta{}E-E$ ionization chamber (IC) provided nuclear charge (Z) identification. Additionally, a position sensitive MCP detector was available to position in front of the IC to map the recoil hit positions. Ion beam suppression factors of order 109 -- 1011 were achieved, varying with beam energies and conditions. The DRS was tested with proton capture on stable \nuc{24}{Mg}, \nuc{17}{O} and \nuc{12}{C} and used for measurement of the radioactive beam reactions \nuc{1}{H}(\nuc{17}{F},$\gamma$)\nuc{18}{Ne} and \nuc{1}{H}(\nuc{7}{Be},$\gamma$)\nuc{8}{B}. 
 
 
@@ -49,14 +53,16 @@ Construction started on DRAGON in 1999 and commissioning was performed during th
 \end{figure}
 
 The ion optical configuration of DRAGON is a {\bf MEME} design, consisting of magnetic and electric  dipole elements of bending angles $\phi=$50$^{\circ}$,20$^{\circ}$,75$^{\circ}$ and 35$^{\circ}$, and bending radii $\rho$=100 cm, 200 cm, 81.3 cm and 250 cm respectively (figure \ref{fig:dra_optics}). The particular configuration was designed specifically around the recoil distribution expected from the $^{15}$O($\alpha ,\gamma$)$^{19}$Ne reaction at $E_{c.m.}=0.51$ MeV. It was thus designed with a geometric acceptance of $\pm21$ mrad at the central energy, and an energy acceptance of $\pm4\%$ at the central trajectory. 
-
-\begin{figure}\resizebox{1.0\columnwidth}{!}{
+\begin{figure*}
+\begin{center}
+\resizebox{1.6\columnwidth}{!}{
 \includegraphics{dra_optics}
 }
 %\vspace{5cm}       % Give the correct figure height in cm
 \caption{Schematic representation of the DRAGON recoil separator (taken from \cite{hut03}). The electrostatic dipoles, with respective lengths 0.7 and 1.57~m and voltages $\pm$200 and $\pm$160~kV, give a proxy figure of merit 780~kV$\cdot$m.  Design angular acceptance was 2$\times$21~mrad with beam energies in the range 0.15 to 1.5~MeV per nucleon. The transverse scale has been magnified 6X to display apertures and trajectories.}
 \label{fig:dra_optics}
-\end{figure}
+\end{center}
+\end{figure*}
 
 The first magnetic dipole (MD1) of the separator is used to select a single charge state for beam and recoils, using a set of slits located at the first energy-dispersed focus after MD1. This focus has an energy dispersion of 0.3 cm/\% and a magnification of -0.44 in the horizontal direction. The energy of the beam/recoils in their chosen charge state can thus be measured by centring on the slits at this focus and relating the magnetic field - measured using an NMR probe positioned in the central flat field region of the dipole - to the beam energy via the magnet calibration constant, which has been determined using several well-known stable beam proton capture resonances. Thus a direct measurement of the beam energy with and without gas in the target allows a determination of the target energy loss, which when combined with the effective length, gives the stopping power. 
 

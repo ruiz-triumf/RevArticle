@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  19 FEB 2014 15:00
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  19 FEB 2014 15:17
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -450,22 +450,14 @@ Missing character: There is no Å in font cmr9!
 <Bardayan09_Fig4_Be7pg_DeltaE-E.pdf, id=510, 710.55661pt x 488.758pt>
 File: Bardayan09_Fig4_Be7pg_DeltaE-E.pdf Graphic file (type pdf)
 
-<use Bardayan09_Fig4_Be7pg_DeltaE-E.pdf>
+<use Bardayan09_Fig4_Be7pg_DeltaE-E.pdf> [37 <./Gialanella00_Fig2_DeltaE-E.pdf>
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [37 <./Gialanella00_Fig2_DeltaE-E.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Overfull \hbox (44.56642pt too wide) in paragraph at lines 29--31
-[]$\OT1/cmr/m/n/10 Mg(p,t)$[]$Mg [73, 74], $[]$Mg($[]$He,$[]$He)$[]$Mg [75], $[
-]$C($[]$O,$[]$He)$[]$Mg
- []
-
-
-Overfull \hbox (14.37181pt too wide) in paragraph at lines 29--31
-\OT1/cmr/m/n/10 con-tribute to $[]$Na($\OML/cmm/m/it/10 p$\OT1/cmr/m/n/10 ,$\OM
-L/cmm/m/it/10 ^^M$\OT1/cmr/m/n/10 )$[]$Mg, and thus all res-o-nance strengths
+Overfull \hbox (2.09402pt too wide) in paragraph at lines 31--33
+\OT1/cmr/m/n/10 strong res-o-nances that would con-tribute to $[]$Na($\OML/cmm/
+m/it/10 p$\OT1/cmr/m/n/10 ,$\OML/cmm/m/it/10 ^^M$\OT1/cmr/m/n/10 )$[]$Mg,
  []
 
 [38 <./Bardayan09_Fig4_Be7pg_DeltaE-E.pdf>]
@@ -475,38 +467,42 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <Chipps09a_Fig3_F17pg_ICspectrum.pdf, id=529, 977.51698pt x 505.81973pt>
 File: Chipps09a_Fig3_F17pg_ICspectrum.pdf Graphic file (type pdf)
 
-<use Chipps09a_Fig3_F17pg_ICspectrum.pdf>
-Underfull \vbox (badness 4872) has occurred while \output is active []
-
- [40 <./Chipps09a_Fig3_F17pg_ICspectrum.pdf>]
+<use Chipps09a_Fig3_F17pg_ICspectrum.pdf> [40]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [41]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41 <./Chipps09a_Fig3_F17pg_ICspectrum.pdf>]
 
 pdfTeX warning: /usr/texbin/pdflatex (file ./Mg23_tof_IC.pdf): PDF inclusion: f
 ound PDF version <1.6>, but at most version <1.4> allowed
-<Mg23_tof_IC.pdf, id=540, 248.42813pt x 144.54pt>
+<Mg23_tof_IC.pdf, id=540, 221.32687pt x 135.50626pt>
 File: Mg23_tof_IC.pdf Graphic file (type pdf)
  <use Mg23_tof_IC.pdf>
 
 pdfTeX warning: /usr/texbin/pdflatex (file ./Mg23_dE_E.pdf): PDF inclusion: fou
 nd PDF version <1.6>, but at most version <1.4> allowed
-<Mg23_dE_E.pdf, id=541, 239.39438pt x 144.54pt>
+<Mg23_dE_E.pdf, id=541, 221.32687pt x 135.50626pt>
 File: Mg23_dE_E.pdf Graphic file (type pdf)
- <use Mg23_dE_E.pdf>)
-(./Outlook.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ <use Mg23_dE_E.pdf>
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./Erikson_2010.pdf): PDF inclusion: 
+found PDF version <1.6>, but at most version <1.4> allowed
+<Erikson_2010.pdf, id=542, 257.46187pt x 180.675pt>
+File: Erikson_2010.pdf Graphic file (type pdf)
+ <use Erikson_2010.pdf>)
+(./Outlook.tex [42 <./Mg23_tof_IC.pdf> <./Mg23_dE_E.pdf>]
+Underfull \vbox (badness 4940) has occurred while \output is active []
 
 
-Underfull \vbox (badness 2653) has occurred while \output is active []
-
- [42 <./Mg23_tof_IC.pdf> <./Mg23_dE_E.pdf>]
-<stgeorge.pdf, id=623, 343.2825pt x 173.59254pt>
+<stgeorge.pdf, id=624, 343.2825pt x 173.59254pt>
 File: stgeorge.pdf Graphic file (type pdf)
  <use stgeorge.pdf>)
 (./RevArticle.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [43 <./Erikson_2010.pdf> <./stgeorge.pdf>]
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ö in font cmr9!
@@ -514,7 +510,7 @@ Missing character: There is no √ in font cmr9!
 Missing character: There is no Ñ in font cmr9!
 Missing character: There is no √ in font cmr9!
 Missing character: There is no ¨ in font cmr9!
- [43 <./stgeorge.pdf>]
+
 Underfull \hbox (badness 1033) in paragraph at lines 62--67
 []\OT1/cmr/m/n/9 C. Rolfs and R. E. Azuma.  In-ter-fer-ence ef-fects in
  []
@@ -524,12 +520,12 @@ Underfull \hbox (badness 2005) in paragraph at lines 212--216
 []\OT1/cmr/m/n/9 K. H. Hahn, K. H. Chang, T. R. Donoghue, and
  []
 
-
+[45]
 Underfull \hbox (badness 1038) in paragraph at lines 256--260
 []\OT1/cmr/m/n/9 D. Sch^^?urmann, F. Strieder, et al.  Re-coil sep-a-ra-tor
  []
 
-[45]
+
 Underfull \hbox (badness 2790) in paragraph at lines 297--301
 []\OT1/cmr/m/n/9 M. Couder, C. An-gulo, E. Casare-jos, P. De-maret,
  []
@@ -537,51 +533,49 @@ Underfull \hbox (badness 2790) in paragraph at lines 297--301
 
 Underfull \vbox (badness 1558) has occurred while \output is active []
 
-
+ [46]
 Underfull \hbox (badness 3168) in paragraph at lines 371--375
 []\OT1/cmr/m/n/9 C. Vock-en-hu-ber, C. O. Ouel-let, L.-S. The, et al.
  []
 
-[46]) [47] (./RevArticle.aux)
+[47]) [48
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+] (./RevArticle.aux) ) 
 Here is how much of TeX's memory you used:
- 1494 strings out of 493848
- 19416 string characters out of 3149207
- 77853 words of memory out of 3000000
- 4752 multiletter control sequences out of 15000+200000
+ 1499 strings out of 493848
+ 19515 string characters out of 3149207
+ 78853 words of memory out of 3000000
+ 4756 multiletter control sequences out of 15000+200000
  12383 words of font info for 43 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  27i,9n,28p,3337b,276s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><
-/usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
-usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
-sr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr
-/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
-ocal/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/loc
-al/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local
-/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local
-/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/t
-exlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texl
-ive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive
-/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/20
-09/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2009/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2009/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2009/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2009/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2009/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2009/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2009/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2009/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2009/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2009/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on RevArticle.pdf (47 pages, 2137173 bytes).
+</usr/local/texlive/2009/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmbx10.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx9.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmex10.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi10.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi5.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi6.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi7.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi9.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
+ib10.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+10.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.
+pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
+></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></
+usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr
+/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/
+local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr
+/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
+local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/lo
+cal/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/loca
+l/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/
+texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/te
+xlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/tex
+live/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texli
+ve/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on RevArticle.pdf (48 pages, 2305739 bytes).
 PDF statistics:
- 724 PDF objects out of 1000 (max. 8388607)
+ 809 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 146 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,19 +1,13 @@
 \begin{thebibliography}{10}
 
 \bibitem{angu99}
-C.~Angulo, M.~Arnould, M.~Rayet, P.~Descouvemont, D.~Baye, C.~Leclercq-Willain,
-  A.~Coc, S.~Barhoumi, P.~Aguer, C.~Rolfs, R.~Kunz, J.W. Hammer, A.~Mayer,
-  T.~Paradellis, S.~Kossionides, C.~Chronidou, K.~Spyrou, S.~Degl'Innocenti,
-  G.~Fiorentini, B.~Ricci, S.~Zavatarelli, C.~Providencia, H.~Wolters,
-  J.~Soares, C.~Grama, J.~Rahighi, A.~Shotter, and M.~Lamehi Rachti.
+C.~Angulo et~al.
 \newblock A compilation of charged particle induced thermonuclear reaction
   rates.
 \newblock {\em Nucl. Phys. A}, 656:3--181, 1999.
 
 \bibitem{scha98}
-H.~Schatz, A.~Aprahamian, J.~G√∂rres, M.~Wiescher, T.~Rauscher, J.F.
-  Rembges, F.-K. Thielemann, B.~Pfeiffer, P.~M√∂ller, K.-L. Kratz,
-  H.~Herndl, B.A. Brown, and H.~Rebel.
+H.~Schatz et~al.
 \newblock rp-process nucleosynthesis at extreme temperature and density
   conditions.
 \newblock {\em Physics Reports}, 294(4):167 -- 263, 1998.
@@ -32,8 +26,7 @@ Christian Iliadis, John~M. D'Auria, Sumner Starrfield, William~J. Thompson, and
 \newblock {\em Astrophys. J. Suppl.}, 134:151--171, 2001.
 
 \bibitem{Lon10}
-R.~Longland, C.~Iliadis, A.~E. Champagne, J.~R. Newton, C.~Ugalde, A.~Coc, and
-  R.~Fitzgerald.
+C.~Iliadis R.~Longland et~al.
 \newblock Charged-particle thermonuclear reaction rates: I. monte carlo method
   and statistical distributions.
 \newblock {\em Nucl. Phys. A}, 841:1--30, 2010.
@@ -73,24 +66,21 @@ C.~Rolfs and R.~E. Azuma.
 \newblock {\em Nucl. Phys. A}, 227:291--308, 1974.
 
 \bibitem{mat06}
-C.~Matei, L.~Buchmann, W.~R. Hannes, D.~A. Hutcheon, C.~Ruiz, C.~R. Brune,
-  J.~Caggiano, A.~A. Chen, J.~D'Auria, A.~Laird, M.~Lamey, Zh. Li, Wp. Liu,
-  A.~Olin, D.~Ottewell, J.~Pearson, G.~Ruprecht, M.~Trinczek, C.~Vockenhuber,
-  and C.~Wrede.
+C.~Matei et~al.
 \newblock {Measurement of the Cascade Transition via the First Excited State of
   $^{16}$O in the $^{12}$C($\alpha$,$\gamma$)$^{16}$O Reaction, and Its S
   Factor in Stellar Helium Burning}.
 \newblock {\em Phys. Rev. Lett.}, 97:242503, 2006.
 
 \bibitem{reg67}
-E.~Regenstreif.
+Albert Septier, editor.
 \newblock {\em Focusing of Charged Particles}, volume~1.
 \newblock Academic Press, 1967.
 
 \bibitem{bev85}
 John~L. Beveridge, Jacob Doornbos, and David~M. Gardner.
-\newblock A spin rotator for surface $\mu^{+}$ beams on the new m20 muon
-  channel at triumf.
+\newblock {A spin rotator for surface $\mu^{+}$ beams on the new M20 muon
+  channel at TRIUMF}.
 \newblock {\em Nucl. Instr. Meth. A}, 240:316--322, 1985.
 
 \bibitem{Wo71}
@@ -98,10 +88,10 @@ H.~Wollnik.
 \newblock {\em Nucl. Instr. Meth.}, 95:453, 1971.
 
 \bibitem{sch83}
-A.~S.~Schlachter {\em et al.}
+A.~S. Schlachter et~al.
 \newblock Electron capture for fast highly charged ions in gas targets: An
   empirical scaling rule.
-\newblock 27 (11):3372--3374, 1983.
+\newblock {\em Phys. Rev. A}, 27 (11):3372--3374, 1983.
 
 \bibitem{rolf88}
 C.~E. Rolfs and W.~S. Rodney.
@@ -109,10 +99,7 @@ C.~E. Rolfs and W.~S. Rodney.
 \newblock The University of Chicago Press, 1988.
 
 \bibitem{hutc03b}
-D.~A. Hutcheon, S.~Bishop, L.~Buchmann, M.~L. Chatterjee, A.~A. Chen, J.~M.
-  D'Auria, S.~Engel, D.~Gigliotti, U.~Greife, D.~Hunter, A.~Hussein, C.~C.
-  Jewett, N.~Khan, M.~Lamey, A.~M. Laird, W.~Liu, A.~Olin, D.~Ottewell, J.~G.
-  Rogers, G.~Roy, H.~Sprenger, and C.~Wrede.
+D.~A. Hutcheon et~al.
 \newblock The {DRAGON} facility for nuclear astrophysics at {TRIUMF-ISAC}:
   design, construction and operation.
 \newblock {\em Nucl. Instr. Meth. A}, 498:190--210, 2003.
@@ -122,17 +109,13 @@ J.~Ziegler.
 \newblock \url{http://www.srim.org}.
 
 \bibitem{grei04}
-U~Greife, S~Bishop, L~Buchmann, M.L Chatterjee, A.A Chen, J.M D'Auria, S~Engel,
-  D~Gigliotti, D~Hunter, D.A Hutcheon, A~Hussein, C.C Jewett, A.M Laird,
-  M~Lamey, W~Liu, A~Olin, D~Ottewell, J~Rogers, and C~Wrede.
+U~Greife et~al.
 \newblock Energy loss around the stopping power maximum of {Ne, Mg and Na} ions
   in hydrogen gas.
 \newblock {\em Nucl. Instr. Meth. B}, 217(1):1 -- 6, 2004.
 
 \bibitem{liu03}
-W~Liu, G~Imbriani, L~Buchmann, A.A Chen, J.M D'Auria, A~D‚ÄôOnofrio,
-  S~Engel, L~Gialanella, U~Greife, D~Hunter, A~Hussein, D.A Hutcheon, A~Olin,
-  D~Ottewell, D~Rogalla, J~Rogers, M~Romano, G~Roy, and F~Terrasi.
+W~Liu, G~Imbriani, et~al.
 \newblock Charge state studies of low energy heavy ions passing through
   hydrogen and helium gas.
 \newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
@@ -140,52 +123,52 @@ W~Liu, G~Imbriani, L~Buchmann, A.A Chen, J.M D'Auria, A~D‚ÄôOnofrio,
   496(1):198--214, 2003.
 
 \bibitem{sch04}
-D.~Sch\"urmann {\em et al.}
+D.~Sch\"urmann et~al.
 \newblock Recoil separator erna: charge state distribution, target density,
   beam heating, and longitudinal acceptance.
 \newblock {\em Nucl. Instr. Meth. A}, 531:428--434, 2004.
 
 \bibitem{zyl07}
-J.~Zylberberg {\em et al.}
+J.~Zylberberg et~al.
 \newblock Charge-state distributions after radiative capture of helium nuclei
   by a carbon beam.
 \newblock {\em Nucl. Instr. Meth. B}, 254:17--24, 2007.
 
 \bibitem{hut12}
-D.~A. Hutcheon, C.~Ruiz, J.~Fallis, J.~M. D'Auria, B.~Davids, U.~Hager,
-  L.~Martin, D.~F. Ottewell, S.~Reeve, and A.~Rojas.
+D.~A. Hutcheon, C.~Ruiz, J.~Fallis, et~al.
 \newblock Measurement of radiative capture resonance energies with an extended
   gas target.
 \newblock {\em submitted to Nucl. Instr. Meth. A}, 2012.
 
 \bibitem{chi13}
-{\em A gas jet target for radioactive ion beam experiments - Application of
-  Accelerators in Research and Industry AIP Conf. Proc.}, volume 1525, 2013.
+K.~Chipps et~al.
+\newblock A gas jet target for radioactive ion beam experiments.
+\newblock {\em {APPLICATION OF ACCELERATORS IN RESEARCH AND INDUSTRY:
+  Twenty-Second International Conference. AIP Conference Proceedings}},
+  1525:625--629, 2013.
 
 \bibitem{vock08}
-C.~Vockenhuber, L.~Buchmann, J.~Caggiano, A.A. Chen, J.M. D'Auria, C.A. Davis,
-  U.~Greife, A.~Hussein, D.A. Hutcheon, D.~Ottewell, C.O. Ouellet, A.~Parikh,
-  J.~Pearson, C.~Ruiz, G.~Ruprecht, M.~Trinczek, and J.~Zylberberg.
+C.~Vockenhuber et~al.
 \newblock Improvements of the {DRAGON} recoil separator at {ISAC}.
 \newblock {\em Nucl. Instr. Meth. B}, 266:4167--4170, 2008.
 
 \bibitem{dau04}
-J.~M. D'Auria, R.~E. Azuma, S.~Bishop, L.~Buchmann, M.~L. Chatterjee, A.~A.
-  Chen, S.~Engel, D.~Gigliotti, U.~Greife, D.~Hunter, A.~Hussein, D.~Hutcheon,
-  C.~C. Jewett, J.~Jos\'{e}, J.~D. King, A.~M. Laird, M.~Lamey, R.~Lewis,
-  W.~Liu, A.~Olin, D.~Ottewell, P.~Parker, J.~Rogers, C.~Ruiz, M.~Trinczek, and
-  C.~Wrede.
+J.~M. D'Auria et~al.
 \newblock {The $^{21}$Na(p,$\gamma$)$^{22}$Mg reaction from E$_{c.m.}$=200 to
   1103 keV in novae and x-ray bursts}.
 \newblock {\em Phys. Rev. C}, 69:065803, 2004.
 
 \bibitem{hutc08}
-D.~Hutcheon, L.~Buchmann, A.A. Chen, J.M. D'Auria, C.A. Davis, U.~Greife,
-  A.~Hussein, D.F. Ottewell, C.V. Ouellet, A.~Parikh, P.~Parker, J.~Pearson,
-  C.~Ruiz, G.~Ruprecht, M.~Trinczek, and C.~Vockenhuber.
+D.~Hutcheon et~al.
 \newblock Background suppression by the {DRAGON} radiative capture facility at
   {TRIUMF/ISAC}.
 \newblock {\em Nucl. Instr. Meth. B}, 266:4171--4175, 2008.
+
+\bibitem{wiss84}
+K.~Wisshak, F.~K\"{a}ppeler, and G.~Schatz.
+\newblock {Calculated efficiency of a $4\pi$ detector of BGO or BaF$_{2}$ for
+  monoenergetic gamma rays and gamma cascades following neutron capture}.
+\newblock {\em Nucl. Instr. Meth.}, 221:385--392, 1984.
 
 \bibitem{kemm88}
 J.~A. Kemmer.
@@ -198,16 +181,12 @@ V.~Radeka.
 \newblock {\em Nucl. Instr. Meth.}, 226(1):209--218, 1984.
 
 \bibitem{card96}
-G.~Cardella, F.~Amorini, M.~Cabibbo, A~Di Pietro, G.~Fallica, G.~Franz√≤,
-  P.~Figuera, S.~Li, A.~Musumarra, M.~Papa, G.~Pappalardo, G.~Percolla,
-  F.~Priolo, V.~Privitera, F.~Rizzo, and S.~Tudisco.
+G.~Cardella et~al.
 \newblock A monolithic silicon detector telescope.
 \newblock {\em Nucl. Instr. Meth. A}, 378(1 -- 2):262 -- 266, 1996.
 
 \bibitem{tudi99}
-S~Tudisco, F~Amorini, M~Cabibbo, G~Cardella, G~De Geronimo, A~Di Pietro,
-  G~Fallica, P~Figuera, A~Musumarra, M~Papa, G~Pappalardo, F~Rizzo, and
-  G~Valvo.
+S~Tudisco et~al.
 \newblock A new large area monolithic silicon telescope.
 \newblock {\em Nucl. Instr. Meth. A}, 426(2-3):436 -- 445, 1999.
 
@@ -224,8 +203,7 @@ W.~Starzecki, A.M. Stefanini, S.~Lunardi, and C.~Signorini.
 \newblock {\em Nucl. Instr. Meth.}, 193(3):499 -- 505, 1982.
 
 \bibitem{vock09}
-C.~Vockenhuber, L.E. Erikson, L.~Buchmann, U.~Greife, U.~Hager, D.A. Hutcheon,
-  M.~Lamey, P.~Machule, D.~Ottewell, C.~Ruiz, and G.~Ruprecht.
+C.~Vockenhuber, L.E. Erikson, et~al.
 \newblock A transmission time-of-flight system for particle identification at a
   recoil mass separator at low energies.
 \newblock {\em Nucl. Instr. Meth. A}, 603:372--378, 2009.
@@ -237,8 +215,7 @@ K.~H. Hahn, K.~H. Chang, T.~R. Donoghue, and B.~W. Filippone.
 \newblock {\em Phys. Rev. C}, 36(3):892--898, Sep 1987.
 
 \bibitem{krem88}
-R.~M. Kremer, C.~A. Barnes, K.~H. Chang, H.~C. Evans, B.~W. Filippone, K.~H.
-  Hahn, and L.~W. Mitchell.
+R.~M. Kremer et~al.
 \newblock Coincidence measurement of the
   $^{12}${C}($\alpha${},$\gamma${}${)}^{16}${O} cross section at low energies.
 \newblock {\em Phys. Rev. Lett.}, 60:1475--1478, Apr 1988.
@@ -249,73 +226,51 @@ M.S. Smith, C.~Rolfs, and C.A. Barnes.
 \newblock {\em Nucl. Instr. Meth. A}, 306(1--2):233--239, 1991.
 
 \bibitem{gial96}
-L~Gialanella, F~Strieder, K~Brand, L~Campajola, A~D'Onofrio, U~Greife,
-  E~Huttel, F~Petrazzuolo, V~Roca, C~Rolfs, M~Romano, M~Romoli, S~Schmidt, W.H
-  Schulte, F~Terrasi, H.P Trautvetter, and D~Zahnow.
+L~Gialanella, F~Strieder, et~al.
 \newblock A recoil separator for the measurement of radiative capture
   reactions.
 \newblock {\em Nucl. Instr. Meth. A}, 376(2):174 -- 184, 1996.
 
 \bibitem{dile08}
-A.~DiLeva, M.~De Cesare, D.~Sch\"{u}rmann, N.~De Cesare, A.~D‚ÄôOnofrio,
-  L.~Gialanella, R.~Kunz, G.~Imbriani, A.~Ordine, V.~Roca, D.~Rogalla,
-  C.~Rolfs, M.~Romano, E.~Somorjai, F.~Strieder, and F.~Terrasi.
+A.~DiLeva et~al.
 \newblock Recoil separator {ERNA}: Measurement of
   $^3${He}($\alpha$,$\gamma$)$^7${Be}.
 \newblock {\em Nucl. Instr. Meth. A}, 595(2):381--390, 2008.
 
 \bibitem{roga99}
-D~Rogalla, S~Theis, L~Campajola, A~D'Onofrio, L~Gialanella, U~Greife,
-  G~Imbriani, A~Ordine, V~Roca, C~Rolfs, M~Romano, C~Sabbarese, F~Sch\"{u}mann,
-  F~Strieder, F~Terrasi, and H.P Trautvetter.
+D~Rogalla, S~Theis, et~al.
 \newblock Recoil separator {ERNA}: ion beam purification.
 \newblock {\em Nucl. Instr. Meth. A}, 437(2-3):266 -- 273, 1999.
 
 \bibitem{roga03}
-D.~Rogalla, D.~Sch\"{u}rmann, F.~Strieder, M.~Aliotta, N.~DeCesare, A.~DiLeva,
-  C.~Lubritto, A.~D‚ÄôOnofrio, L.~Gialanella, G.~Imbriani, J.~Kluge,
-  A.~Ordine, V.~Roca, H.~R\"{o}cken, C.~Rolfs, M.~Romano, F.~Sch\"{u}mann,
-  F.~Terrasi, and H.P. Trautvetter.
+D.~Rogalla, D.~Sch\"{u}rmann, F.~Strieder, et~al.
 \newblock Recoil separator {ERNA}: acceptances in angle and energy.
 \newblock {\em Nucl. Instr. Meth. A}, 513(3):573 -- 578, 2003.
 
 \bibitem{gial04}
-L~Gialanella, D~Sch\"{u}rmann, F~Strieder, A~Di Leva, N~De Cesare,
-  A~D‚ÄôOnofrio, G~Imbriani, J~Klug, C~Lubritto, A~Ordine, V~Roca,
-  H~R\"{o}cken, C~Rolfs, D~Rogalla, M~Romano, F~Sch\"{u}mann, F~Terrasi, and
-  H.P Trautvetter.
+L~Gialanella, D~Sch\"{u}rmann, F~Strieder, et~al.
 \newblock Recoil separator {ERNA}: gas target and beam suppression.
 \newblock {\em Nucl. Instr. Meth. A}, 522(3):432 -- 438, 2004.
 
 \bibitem{schu04}
-D.~Sch\"{u}rmann, F.~Strieder, A.~Di Leva, L.~Gialanella, N.~De Cesare,
-  A.~D'Onofrio, G.~Imbriani, J.~Klug, C.~Lubritto, A.~Ordine, V.~Roca,
-  H.~R√∂cken, C.~Rolfs, D.~Rogalla, M.~Romano, F.~Sch\"{u}mann, F.~Terrasi,
-  and H.P. Trautvetter.
+D.~Sch\"{u}rmann, F.~Strieder, et~al.
 \newblock Recoil separator {ERNA}: charge state distribution, target density,
   beam heating, and longitudinal acceptance.
 \newblock {\em Nucl. Instr. Meth. A}, 531(3):428 -- 434, 2004.
 
 \bibitem{schu05}
-D.~Sch\"{u}rmann, A.~Di Leva, N.~De Cesare, L.~Gialanella, G.~Imbriani,
-  C.~Lubritto, A.~Ordine, V.~Roca, H.~R\"{o}cken, C.~Rolfs, D.~Rogalla,
-  M.~Romano, F.~Sch\"{u}mann, F.~Strieder, F.~Terrasi, and H.-P. Trautvetter.
+D.~Sch\"{u}rmann et~al.
 \newblock Measurement of the cross section of
   $^{12}${C}($\alpha$,$\gamma$)$^{16}${O} using the recoil mass separator
   {ERNA}.
 \newblock {\em Nucl. Phys. A}, 758(0):367 -- 370, 2005.
 
 \bibitem{schu05b}
-D.~Sch\"{u}rmann, A.~Di Leva, L.~Gialanella, D.~Rogalla, F.~Strieder, N.~De
-  Cesare, A.~D'Onofrio, G.~Imbriani, R.~Kunz, C.~Lubritto, A.~Ordine, V.~Roca,
-  C.~Rolfs, M.~Romano, F.~Sch\"{u}mann, F.~Terrasi, and H.P. Trautvetter.
+D.~Sch\"{u}rmann et~al.
 \newblock {\em Eur. Phys. J. A}, 26:301--305, 2005.
 
 \bibitem{dile09}
-A.~DiLeva, L.~Gialanella, R.~Kunz, D.~Rogalla, D.~Sch\"urmann, F.~Strieder,
-  M.~De~Cesare, N.~De~Cesare, A.~D'Onofrio, Z.~F\"ul\"op, G.~Gy\"urky,
-  G.~Imbriani, G.~Mangano, A.~Ordine, V.~Roca, C.~Rolfs, M.~Romano,
-  E.~Somorjai, and F.~Terrasi.
+A.~DiLeva et~al.
 \newblock Stellar and primordial nucleosynthesis of $^{7}\mathrm{Be}$:
   Measurement of $^{3}\mathrm{He}$($\alpha$,$\gamma$)$^{7}\mathrm{Be}$.
 \newblock {\em Phys. Rev. Lett.}, 102:232502, Jun 2009.
@@ -345,17 +300,12 @@ M.~Couder, C.~Angulo, E.~Casarejos, P.~Demaret, P.~Leleux, and F.~Vanderbist.
 \newblock {\em Nucl. Phys. A}, 758(0):741 -- 744, 2005.
 
 \bibitem{smit98}
-M.S. Smith, J.C. Blackmon, P.E. Koehler, T.A. Lewis, J.W. McConnell, W.T.
-  Milner, D.E. Pierce, D.~Shapira, D.W. Bardayan, A.A. Chen, P.D. Parker, K.B.
-  Swartz, D.W. Visser, R.L. Kozub, B.A. Johnson, M.E. Roettger, A.E. Champagne,
-  Z.~Ma, U.~Greife, F.~Strieder, A.N. James, M.A. Hofstee, and M.~Allen.
+M.S. Smith et~al.
 \newblock {\em Proc. Of the 2nd Oak Ridge Symp. on Atomic and Nuclear
   Astrophysics, ed. A. Mezzacappa}, pages 511--18, 1998.
 
 \bibitem{bard09}
-D.~Bardayan, K.~Chipps, R.~Fitzgerald, J.~Blackmon, K.~Chae, A.~Champagne,
-  U.~Greife, R.~Hatarik, R.~Kozub, C.~Matei, B.~Moazen, C.~Nesaraja, S.~Pain,
-  W.~Peters, S.~Pittman, J.~Shriner, and M.~Smith.
+D.~Bardayan et~al.
 \newblock {Direct measurements of ($p$,$\gamma$) cross-sections at
   astrophysical energies using radioactive beams and the Daresbury Recoil
   Separator}.
@@ -363,28 +313,18 @@ D.~Bardayan, K.~Chipps, R.~Fitzgerald, J.~Blackmon, K.~Chae, A.~Champagne,
 \newblock 10.1140/epja/i2008-10737-8.
 
 \bibitem{hut03a}
-D.~A. Hutcheon, S.~Bishop, L.~Buchmann, M.~L. Chatterjee, A.~A. Chen, J.~M.
-  D'Auria, S.~Engel, D.~Gigliotti, U.~Greife, D.~Hunter, A.~Hussein, C.~C.
-  Jewett, N.~Khan, M.~Lamey, A.~M. Laird, W.~Liu, A.~Olin, D.~Ottewell, J.~G.
-  Rogers, G.~Roy, H.~Sprenger, and C.~Wrede.
+D.~A. Hutcheon et~al.
 \newblock {The DRAGON facility for nuclear astrophysics at TRIUMF-ISAC: design,
   construction and operation}.
 \newblock {\em Nucl. Instr. Meth. A}, 498:190--210, 2003.
 
 \bibitem{hut03}
-D.~A. Hutcheon, S.~Bishop, L.~Buchmann, M.~L. Chatterjee, A.~A. Chen, J.~M.
-  D'Auria, S.~Engel, D.~Gigliotti, U.~Greife, D.~Hunter, A.~Hussein, C.~Jewett,
-  N.~Khan, M.~Lamey, A.~M. Laird, W.~Liu, A.~Olin, D.~Ottewell, J.~G. Rogers,
-  G.~Roy, H.~Sprenger, and C.~Wrede.
+D.~A. Hutcheon et~al.
 \newblock {The DRAGON facility for nuclear astrophysics at TRIUMF-ISAC}.
 \newblock {\em Nucl. Phys. A}, 718:515--517, 2003.
 
 \bibitem{eng05}
-S.~Engel, D.~A. Hutcheon, S.~Bishop, L.~Buchmann, J.~Caggiano, M.~L.
-  Chatterjee, A.~A. Chen, J.~M. D'Auria, D.~Gigliotti, U.~Greife, D.~Hunter,
-  A.~Hussein, C.~C. Jewett, A.~M. Laird, M.~Lamey, W.~Liu, A.~Olin,
-  D.~Ottewell, J.~Pearson, C.~Ruiz, G.~Ruprecht, M.~Trinczek, C.~Vockenhuber,
-  and C.~Wrede.
+S.~Engel, D.~A. Hutcheon, et~al.
 \newblock {Commissioning the DRAGON facility at ISAC}.
 \newblock {\em Nucl. Instr. Meth. A}, 553:491--500, 2005.
 
@@ -394,16 +334,12 @@ G.~C. Ball, L.~Buchmann, B.~Davids, R.~Kanungo, C.~Ruiz, and C.~E. Svensson.
 \newblock {\em J. Phys. B: Nucl. Part. Phys}, 38:024003, 2011.
 
 \bibitem{lax02}
-R.~E. Laxdal, R.~A. Baartman, P.~Bricault, G.~Dutto, R.~Poirier, P.~Schmor, and
-  G.~Stanford.
+R.~E. Laxdal et~al.
 \newblock {RNB post-accelerator for ISAC at TRIUMF- present and future}.
 \newblock {\em Nucl. Phys. A}, 701:647--650, 2002.
 
 \bibitem{sju12}
-S.~K.~L. Sjue, B.~S.~Nara Singh, P.~Adsley, L.~Buchmann, M.~Carmona-Gallardo,
-  B.~Davids, J.~Fallis, B.~R. Fulton, N.~Galinski, U.~Hager, M.~Hass,
-  D.~Howell, D.~A. Hutcheon, A.~M. Laird, L.~Martin, D.~Ottewell, S.~Reeve,
-  C.~Ruiz, G.~Ruprecht, and S.~Triambak.
+S.~K.~L. Sjue, B.~S.~Nara Singh, et~al.
 \newblock Beam suppression of the {DRAGON} recoil separator for
   {$^{3}$He($\alpha$,$\gamma$)$^{7}$Be}.
 \newblock {\em submitted for publication in Nucl. Instr. Meth. A}, 2012.
@@ -414,66 +350,60 @@ Dario~G. Gigliotti, Joel~G. Rogers, and Ahmed~H. Hussein.
 \newblock {\em Nucl. Instr. Meth. B}, 204:671--677, 2003.
 
 \bibitem{rui06}
-C.~Ruiz, A.~Parikh, J.~José, L.~Buchmann, J.~A. Caggiano, A.~A. Chen, J.~A.
-  Clark, H.~Crawford, B.~Davids, J.~M. D'Auria, C.~Davis, C.~Deibel,
-  L.~Erikson, L.~Fogarty, D.~Frekers, U.~Greife, A.~Hussein, D.~A. Hutcheon,
-  M.~Huyse, C.~Jewett, A.~M. Laird, R.~Lewis, P.~Mumby-Croft, A.~Olin, D.~F.
-  Ottewell, C.~V. Ouellet, P.~Parker, J.~Pearson, G.~Ruprecht, M.~Trinczek,
-  C.~Vockenhuber, and C.~Wrede.
+C.~Ruiz, A.~Parikh, J.~Jos\'{e}, et~al.
 \newblock {Measurement of the E$_{c.m.}$=184keV Resonance Strength in the
   $^{26g}$Al(p,$\gamma$)$^{27}$Si Reaction}.
 \newblock {\em Phys. Rev. Lett.}, 96:252501, 2006.
 
 \bibitem{eri10}
-L.~Erikson, C.~Ruiz, F.~Ames, P.~Bricault, L.~Buchmann, A.~A. Chen, J.~Chen,
-  H.~Dare, B.~Davids, C.~Davis, C.~M. Deibel, M.~Dombsky, S.~Foubister,
-  N.~Galinski, U.~Greife, U.~Hager, A.~Hussein, D.~A. Hutcheon, J.~Lassen,
-  L.~Martin, D.~F. Ottewell, C.~V. Ouellet, G.~Ruprecht, K.~Setoodehnia, A.~C.
-  Shotter, A.~Teigelhöfer, C.~Vockenhuber, C.~Wrede, and A.~Wallner.
+L.~Erikson, C.~Ruiz, et~al.
 \newblock {First direct measurement of the $^{23}$Mg(p,$\gamma$)$^{24}$Al
   reaction}.
 \newblock {\em Phys. Rev. C}, 81:045808, 2010.
 
 \bibitem{voc07}
-C.~Vockenhuber, C.~O. Ouellet, L.-S. The, L.~Buchmann, J.~Caggiano, A.~A. Chen,
-  H.~Crawford, J.~M. D'Auria, B.~Davids, L.~Fogarty, D.~Frekers, A.~Hussein,
-  D.~A. Hutcheon, W.~Kutschera, A.~M. Laird, R.~Lewis, E.~O'Connor,
-  D.~Ottewell, M.~Paul, M.~M. Pavan, J.~Pearson, C.~Ruiz, G.~Ruprecht,
-  M.~Trinczek, B.~Wales, and A.~Wallner.
+C.~Vockenhuber, C.~O. Ouellet, L.-S. The, et~al.
 \newblock {Measurement of the $^{40}$Ca($\alpha$,$\gamma$)$^{44}$Ti reaction
   relevant for supernova nucleosynthesis}.
 \newblock {\em Phys. Rev. C}, 76:035801, 2007.
 
 \bibitem{voc08}
-C.~Vockenhuber, C.~O. Ouellet, L.-S. The, L.~Buchmann, J.~Caggiano, A.~A. Chen,
-  J.~M. D'Auria, B.~Davids, L.~Fogarty, D.~Frekers, A.~Hussein, D.~A. Hutcheon,
-  W.~Kutschera, D.~Ottewell, M.~Paul, M.~M. Pavan, J.~Pearson, C.~Ruiz,
-  G.~Ruprecht, M.~Trinczek, and A.~Wallner.
+C.~Vockenhuber, C.~O. Ouellet, L.-S. The, et~al.
 \newblock {$^{40}$Ca($\alpha$,$\gamma$)$^{44}$Ti and the production of
   $^{44}$Ti in supernovae}.
 \newblock {\em J. Phys. G}, 35:014034, 2008.
 
 \bibitem{sin12}
-B.~S.~Nara Singh, S.~K.~L. Sjue, B.~Davids, M.~Hass, P.~Adsley, L.~Buchmann,
-  M.~Carmona-Gallardo, J.~Fallis, S.~P. Fox, B.~Fulton, N.~Galinski, U.~Hager,
-  D.~A. Hutcheon, A.~M. Laird, L.~Martin, D.~Ottewell, S.~Reeve, C.~Ruiz,
-  G.~Ruprecht, A.~Shotter, and O.~Tengblad.
+B.~S.~Nara Singh, S.~K.~L. Sjue, B.~Davids, M.~Hass, et~al.
 \newblock {Cross section measurements of the
   $^{3}$He($\alpha$,$\gamma$)$^{7}$Be reaction using DRAGON at TRIUMF}.
 \newblock {\em J. Physics: Conference Series}, 337:012057, 2012.
 
 \bibitem{hag12}
-U.~Hager, L.~Buchmann, B.~Davids, J.~Fallis, B.~R. Fulton, N.~Galinski,
-  U.~Greife, D.~A. Hutcheon, D.~Ottewell, A.~Rojas, C.~Ruiz, and
-  K.~Setoodehnia.
+U.~Hager et~al.
 \newblock {Measurement of the $^{17}$O(p,$\gamma$)$^{18}$F reaction rate at
   astrophysically relevant energies}.
 \newblock {\em Phys. Rev. C}, 85:035803, 2012.
 
+\bibitem{fal13}
+J.~Fallis et~al.
+\newblock {Constraining nova observables: Direct measurements of resonance
+  strengths in $^{33}$S($p,\gamma$)$^{34}$Cl}.
+\newblock {\em Phys. Rev. C}, 88:045801, 2013.
+
+\bibitem{Sim13}
+A.~Simon et~al.
+\newblock {Radiative capture reactions with heavy beams: extending the
+  capabilities of DRAGON}.
+\newblock {\em Eur. Phys. J. A}, 49:60, 2013.
+
+\bibitem{Fal14}
+J.~Fallis et~al.
+\newblock In preparation.
+\newblock 2014.
+
 \bibitem{gial00}
-L.~Gialanella, F.~Strieder, L.~Campajola, A.~D'Onofrio, U.~Greife, G.~Gyurky,
-  G.~Imbriani, G.~Oliviero, A.~Ordine, V.~Roca, C.~Rolfs, M.~Romano,
-  D.~Rogalla, C.~Sabbarese, E.~Somorjai, F.~Terrasi, and H.P. Trautvetter.
+L.~Gialanella, F.~Strieder, et~al.
 \newblock Absolute cross section of $p$($^7${Be},$\gamma$)$^8${B} using a novel
   approach.
 \newblock {\em Eur. Phys. J. A}, 7:303--305, 2000.
@@ -572,7 +502,7 @@ M.~Couder et~al.
 \newblock {\em Nucl. Instr. Meth. A}, 587:34--45, 2008.
 
 \bibitem{ber10}
-Georg P. A.~Berg {\em et al.}
+Georg P.~A. Berg et~al.
 \newblock Design of a new recoil separator for measurements of radiative
   capture reactions in astrophysics.
 \newblock In {\em THE 10TH INTERNATIONAL SYMPOSIUM ON ORIGIN OF MATTER AND

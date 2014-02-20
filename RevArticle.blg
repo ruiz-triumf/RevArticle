@@ -30,45 +30,45 @@ Warning--empty title in lot08
 Warning--empty title in las09
 Warning--empty title in wre10
 Warning--empty title in cou08
-You've used 95 entries,
+You've used 97 entries,
             1791 wiz_defined-function locations,
-            969 strings with 14926 characters,
-and the built_in function-call counts, 21541 in all, are:
-= -- 1882
-> -- 966
+            980 strings with 15123 characters,
+and the built_in function-call counts, 22038 in all, are:
+= -- 1929
+> -- 982
 < -- 4
-+ -- 356
-- -- 261
-* -- 1586
-:= -- 3498
-add.period$ -- 258
-call.type$ -- 95
-change.case$ -- 64
++ -- 362
+- -- 265
+* -- 1622
+:= -- 3576
+add.period$ -- 264
+call.type$ -- 97
+change.case$ -- 66
 chr.to.int$ -- 0
-cite$ -- 123
-duplicate$ -- 868
-empty$ -- 2122
-format.name$ -- 261
-if$ -- 4705
+cite$ -- 125
+duplicate$ -- 887
+empty$ -- 2174
+format.name$ -- 265
+if$ -- 4818
 int.to.chr$ -- 0
-int.to.str$ -- 95
-missing$ -- 94
-newline$ -- 451
-num.names$ -- 96
+int.to.str$ -- 97
+missing$ -- 96
+newline$ -- 461
+num.names$ -- 98
 pop$ -- 153
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 367
+skip$ -- 375
 stack$ -- 0
-substring$ -- 1793
-swap$ -- 115
+substring$ -- 1847
+swap$ -- 117
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 28
-while$ -- 212
-width$ -- 97
-write$ -- 986
+while$ -- 217
+width$ -- 99
+write$ -- 1009
 (There were 28 warnings)

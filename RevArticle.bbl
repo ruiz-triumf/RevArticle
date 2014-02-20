@@ -138,7 +138,7 @@ J.~Zylberberg et~al.
 D.~A. Hutcheon, C.~Ruiz, J.~Fallis, et~al.
 \newblock Measurement of radiative capture resonance energies with an extended
   gas target.
-\newblock {\em submitted to Nucl. Instr. Meth. A}, 2012.
+\newblock {\em Nucl. Instr. Meth. A}, 689:70--74, 2012.
 
 \bibitem{chi13}
 K.~Chipps et~al.
@@ -361,6 +361,12 @@ L.~Erikson, C.~Ruiz, et~al.
   reaction}.
 \newblock {\em Phys. Rev. C}, 81:045808, 2010.
 
+\bibitem{ake13}
+C.~Akers et~al.
+\newblock {Measurement of Radiative Proton Capture on $^{18}$F and Implications
+  for Oxygen-Neon Novae}.
+\newblock {\em Phys. Rev. Lett.}, 110:262502, 2013.
+
 \bibitem{voc07}
 C.~Vockenhuber, C.~O. Ouellet, L.-S. The, et~al.
 \newblock {Measurement of the $^{40}$Ca($\alpha$,$\gamma$)$^{44}$Ti reaction
@@ -508,5 +514,10 @@ Georg P.~A. Berg et~al.
 \newblock In {\em THE 10TH INTERNATIONAL SYMPOSIUM ON ORIGIN OF MATTER AND
   EVOLUTION OF GALAXIES: OMEG-2010. AIP Conference Proceedings}, volume 1269,
   pages 445--447, 2010.
+
+\bibitem{dav05}
+B.~Davids and C.~N. Davids.
+\newblock {EMMA: A recoil mass spectrometer for ISAC-II at TRIUMF}.
+\newblock {\em Nucl. Instr. Meth. A}, 544:565--576, 2005.
 
 \end{thebibliography}

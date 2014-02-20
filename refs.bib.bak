@@ -305,6 +305,17 @@
   timestamp = {2012.04.26}
 }
 
+@ARTICLE{dav05,
+  author = {B. Davids and C. N. Davids},
+  title = {{EMMA: A recoil mass spectrometer for ISAC-II at TRIUMF}},
+  journal = nima,
+  year = {2005},
+  volume = {544},
+  pages = {565-576},
+  owner = {chris},
+  timestamp = {2014.02.19}
+}
+
 @ARTICLE{Da92,
   author = {C. N. Davids and others},
   journal = nimb,
@@ -581,8 +592,10 @@
   author = {D. A. Hutcheon and C. Ruiz and J. Fallis and others},
   title = {Measurement of Radiative Capture Resonance Energies with an Extended
 	Gas Target},
-  journal = {submitted to } # nima,
+  journal = nima,
   year = {2012},
+  volume = {689},
+  pages = {70-74},
   owner = {chris},
   timestamp = {2012.03.27}
 }
@@ -825,17 +838,6 @@
   doi = {10.1016/0168-9002(84)90193-1},
   issn = {0168-9002},
   url = {http://www.sciencedirect.com/science/article/pii/0168900284901931}
-}
-
-@BOOK{reg67,
-  title = {Focusing of Charged Particles},
-  publisher = {Academic Press},
-  year = {1967},
-  editor = {Albert Septier},
-  author = {E. Regenstreif},
-  volume = { 1},
-  owner = {chris},
-  timestamp = {2014.02.12}
 }
 
 @ARTICLE{reh97,
@@ -1240,6 +1242,16 @@
   year = {2007},
   volume = {254},
   pages = {17--24},
+  owner = {chris},
+  timestamp = {2014.02.12}
+}
+
+@BOOK{reg67,
+  title = {Focusing of Charged Particles},
+  publisher = {Academic Press},
+  year = {1967},
+  editor = {Albert Septier},
+  volume = { 1},
   owner = {chris},
   timestamp = {2014.02.12}
 }

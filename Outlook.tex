@@ -32,8 +32,50 @@ Rigidity is often a defining parameter of a recoil separator as magnetic and ele
 
 For example, a magnetic dipole in a MEME design like DRAGON is essential for determination of the beam energy, and thus requires precise $\vec{B}$ measurement, usually using a nuclear magnetic resonance probe.  Such probes tend to have certain operable ranges with a minimum and maximum field strength. For a typical recoil separator interested in low energy reactions typical of stellar and nova scenarios, a single probe may be able to span a range of around 0.1-0.6 tesla, enough for a wide variety of available light-mass recoil charge states and momenta. However, for high mass reactions it gets more difficult to equilibrate in very high charge states, even with charge state boosting devices installed after the gas target. This means the rigidity requirements become more stringent, and it would be beneficial to be able to operate with much higher fields. In that case, consideration could be given to being able to switch between two installed NMR probes for operation in low and high field ranges, and to provide the capability of a cooling boost for the power supplies when operating in the high field region.   
 
-In MEME designs the electric field becomes the limit as one goes to higher charge states as was seen in figure \ref{rigidity}. In that case it is the conditioning ability and the power supply capability that limits going to higher field strengths. Although the electric dipoles at the DRAGON facility have only been able to go as high as $\pm230$ kV because of conditioning issues, new designs like the EMMA dipoles will be able to reach as much as $\pm300$ kV over a 12.5 cm gap \cite{dav05} leading to a maximum field gradient of 5 MV/m compared to to DRAGON's 4.6 MV/m, and a maximum rigidity of 25 MV due to the larger bending radius. Consideration should be given in separator design to the advantages/disadvantages of larger radii/rigidity electric devices, and other more logistical requirements such as the available floor space in an experimental area may come into play when doing this, an issue that also affects Wien filters due to the need for internal or external power supplies. 
+In MEME designs the electric field becomes the limit as one goes to higher charge states as was seen in figure \ref{fig:rigidity}. In that case it is the conditioning ability and the power supply capability that limits going to higher field strengths. Although the electric dipoles at the DRAGON facility have only been able to go as high as $\pm230$ kV because of conditioning issues, new designs like the EMMA dipoles will be able to reach as much as $\pm300$ kV over a 12.5 cm gap \cite{dav05} leading to a maximum field gradient of 5 MV/m compared to to DRAGON's 4.6 MV/m, and a maximum rigidity of 25 MV due to the larger bending radius. Consideration should be given in separator design to the advantages/disadvantages of larger radii/rigidity electric devices, and other more logistical requirements such as the available floor space in an experimental area may come into play when doing this, an issue that also affects Wien filters due to the need for internal or external power supplies. 
  
 \subsubsection{Operation}
 
+Operation of a recoil separator includes many aspects such as vacuum cycling, beam tuning and alignment, ion-optical element scaling, diagnostics and data acquisition. These aspects can be of more importance than perhaps realized, since they contribute to the overall length, stability and difficulty of an experiment. 
+
+On the vacuum side, a separator consisting of many sections will require extensive pump down time. It is desirable to split the separator into as many sections as possible however, since particular ones will require access for the maintenance/adjustment of diagnostic devices or other equipment such as foils. Elements such as electric dipoles benefit from staying under vacuum permanently, so appropriate pumps should be chosen that have relatively low wear, such as sputter ion pumps for the long periods of non-use, with additional pumping implemented when operational (e.g. turbomolecular pumps or cryogenic pumps). Although the requirements of the separator vacuum are not as stringent as a UHV system, it is advisable that copper seals are used for joints where there is little expectation of an access requirement, since identifying decade-old decomposing o-rings out of a selection of hundreds is a difficult and time consuming task.
+
+For beam tuning, one has to consider that the facility may be using radioactive or stable beams, and thus may run with intensities ranging anywhere from $10^{6}$ s$^{-1}$ to $10^{13}$ s$^{-1}$, the former being the minimum really possible intensity given typical resonant radiative capture cross sections and typical target densities available, for specific beams and energies, the maximum being the typical kind of current to be expected from a low-energy accelerator system with space-charge constraints. For most of this range, Faraday cup measurements, wire scanners and split-plate centring monitors are sufficient in order to tune a beam of given $A/q$ through the separator. However, attention should be given to the high current end since a beam of $\mu$A current level at $1A$ MeV deposits a power of  one Watt and rising above this level without proper cooling in vacuum can become problematic. Thus Faraday cups should be built with the ability to cool, similar to as in any high-intensity accelerator facility. Faraday cups require extremely sensitive current amplifiers for the low intensity end of this scale. Picoammeter units are in existence which can provide sufficient resolution ($\sim$20 fA) for tuning and normalization at even below the $10^{5}$ s$^{-1}$ level. However such units are exorbitantly expensive to populate an entire recoil separator, and are difficult to use in the often complex environment of an experimental hall. Having one Faraday cup that can be instrumented with this can provide however, an anchor point for other means of measurement to be referenced to. 
+
+A less expensive way to measure low beam intensities is to use a device such as an electron multiplier (channeltron). However these tend to saturate above $10^{6}$ s$^{-1}$, making that difficult $10^{7}$ s$^{-1}$ region stay inaccessible. However recent developments at the DRAGON facility \cite{chr14} have been made to instrument 1 cm $\times$ 1 cm silicon photodiodes (PDs) that can be places at the separator focal points to be used as beam tuning guides. The idea being that a radioactive beam of some $10^{7}$ s$^{-1}$, too low to be reliably tuned with regular Faraday cup systems, can be attenuated at the source (after referencing the current to a high-sensitivity ammeter) to the $10^{6}$ s$^{-1}$ level or lower, and the beam tuned using the PD response at the focal points. PDs from a specific manufacturer have shown a robust linear response to beam intensities of this range, as well as providing energy information, and are likely to become extremely useful diagnostic devices in the separator operation.  
+
+Once beam tuning has been achieved, a reliable scaling algorithm is required to switch to recoil detection mode. It is useful here to have stability monitoring algorithms that can check for drift of field strengths or voltages during long runs. In addition, with extensive switching between charge states a scaling algorithm can cause a tune to degrade due to hysteresis of magnetic elements, therefore care should be taken to retune before any data acquisition period. Beam stability is always an issue during these experiments, particularly when delivered by a charge state bred by a stripper foil, as may be required in an ISOL facility that initially delivers singly-charged ions. Such foils degrade over time and cause shifts in beam energy that will cause the beam position or angle to drift at the target position. One suggestion to monitor this drift is that if a charge-dispersive device is present, such as a magnetic dipole, that the unused beam charge states can be intercepted on a position-sensitive segmented strip of conductor in the dispersive plane of the magnet where sensitivity to small variations in momentum is high. This method decouples from any variation in total beam intensity, such as would be seen by a gas target scattering detector for example.
+
+For data acquisition considerations, much work has been done on systems requiring coincidences between events at the target region and focal plane of spectrometers (in our case prompt $\gamma$-ray detection at the target). For example the Gamma Recoil Electron Alpha Tagging (GREAT) spectrometer design at the recoil separator RITU, Jyv\"{a}skyl\"{a} \cite{pag03} employs a triggerless `total data readout' system reliant on synchronized VME `metronome' modules \cite{laz01}. It was in this spirit that the DRAGON group recently developed a new DAQ system based on separate free-running computers for the prompt $\gamma$-ray detection and for the recoil detection, synchronized using TRIUMF in-house built clock modules, with time-stamping of events and coincidence reconstruction on-board the processors using software \cite{chr14b}. Such systems have the advantage of not having the dead-time of one side locked to the other which can be crucial if using RIB where the rate in the $\gamma$-ray detectors might be extremely high. 
+
 \subsubsection{Detection}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\subsubsection{Simulation}
+
+
+
+
+
+
+
+
+
+
+\section{Acknowledgments}
+The authors would like to thank D.A. Hutcheon for contributions to the manuscript. Thanks also to B. Davids, G. Christian and A.N. Other for useful comments and suggestions. 
+
+

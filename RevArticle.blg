@@ -30,45 +30,47 @@ Warning--empty title in lot08
 Warning--empty title in las09
 Warning--empty title in wre10
 Warning--empty title in cou08
-You've used 97 entries,
+Warning--empty journal in chr14
+Warning--empty title in laz01
+You've used 101 entries,
             1791 wiz_defined-function locations,
-            980 strings with 15123 characters,
-and the built_in function-call counts, 22038 in all, are:
-= -- 1929
-> -- 982
+            995 strings with 15424 characters,
+and the built_in function-call counts, 22722 in all, are:
+= -- 1987
+> -- 1010
 < -- 4
-+ -- 362
-- -- 265
-* -- 1622
-:= -- 3576
-add.period$ -- 264
-call.type$ -- 97
-change.case$ -- 66
++ -- 373
+- -- 272
+* -- 1657
+:= -- 3695
+add.period$ -- 275
+call.type$ -- 101
+change.case$ -- 69
 chr.to.int$ -- 0
-cite$ -- 125
-duplicate$ -- 887
-empty$ -- 2174
-format.name$ -- 265
-if$ -- 4818
+cite$ -- 131
+duplicate$ -- 921
+empty$ -- 2244
+format.name$ -- 272
+if$ -- 4968
 int.to.chr$ -- 0
-int.to.str$ -- 97
-missing$ -- 96
-newline$ -- 461
-num.names$ -- 98
-pop$ -- 153
+int.to.str$ -- 101
+missing$ -- 100
+newline$ -- 480
+num.names$ -- 102
+pop$ -- 162
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 375
+skip$ -- 390
 stack$ -- 0
-substring$ -- 1847
-swap$ -- 117
+substring$ -- 1877
+swap$ -- 120
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 28
-while$ -- 217
-width$ -- 99
-write$ -- 1009
-(There were 28 warnings)
+warning$ -- 30
+while$ -- 223
+width$ -- 104
+write$ -- 1049
+(There were 30 warnings)

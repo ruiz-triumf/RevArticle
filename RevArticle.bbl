@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 
 \bibitem{angu99}
 C.~Angulo et~al.
@@ -519,5 +519,25 @@ Georg P.~A. Berg et~al.
 B.~Davids and C.~N. Davids.
 \newblock {EMMA: A recoil mass spectrometer for ISAC-II at TRIUMF}.
 \newblock {\em Nucl. Instr. Meth. A}, 544:565--576, 2005.
+
+\bibitem{chr14}
+G.~Christian.
+\newblock Private communication.
+\newblock 2014.
+
+\bibitem{pag03}
+R.D. Page et~al.
+\newblock {The GREAT spectrometer}.
+\newblock {\em Nucl. Instr. Meth. B}, 204:634--637, 2003.
+
+\bibitem{laz01}
+I.H. Lazarus et~al.
+\newblock {\em IEEE Trans. Nucl. Sci.}, 48:567, 2001.
+
+\bibitem{chr14b}
+G.~Christian et~al.
+\newblock {Design and commissioning of a timestamp-based data acquisition
+  system for the DRAGON recoil mass spectrometer}.
+\newblock {\em Eur. Phys. J. A}, in preparation, 2014.
 
 \end{thebibliography}

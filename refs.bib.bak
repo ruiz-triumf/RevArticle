@@ -253,6 +253,17 @@
   timestamp = {2014.02.20}
 }
 
+@ARTICLE{chr14b,
+  author = {G. Christian and others},
+  title = {{Design and commissioning of a timestamp-based data acquisition
+	
+	system for the DRAGON recoil mass spectrometer}},
+  journal = {submitted for publication in } # epja,
+  year = {2014},
+  owner = {chris},
+  timestamp = {2014.02.20}
+}
+
 @ARTICLE{coud05,
   author = {M. Couder and C. Angulo and E. Casarejos and P. Demaret and P. Leleux
 	and F. Vanderbist},
@@ -541,6 +552,18 @@
   pages = {035803},
   owner = {chris},
   timestamp = {2012.03.30}
+}
+
+@ARTICLE{hag12b,
+  author = {U. Hager and others},
+  title = {{Direct measurement of the $^{16}$O($\alpha,\gamma$)$^{20}$Ne reaction
+	at $E_{c.m.}=2.43$ MeV and 1.69 MeV}},
+  journal = prc,
+  year = {2012},
+  volume = {86},
+  pages = {055802},
+  owner = {chris},
+  timestamp = {2014.02.20}
 }
 
 @ARTICLE{hahn87,
@@ -1295,5 +1318,25 @@
   volume = { 1},
   owner = {chris},
   timestamp = {2014.02.12}
+}
+
+@ARTICLE{geant4,
+  title = {{GEANT4: a toolkit for the simulation of the passage of particles
+	through matter}},
+  journal = {http://geant4.web.cern.ch/geant4/},
+  owner = {chris},
+  timestamp = {2014.02.20}
+}
+
+@ARTICLE{lise++,
+  title = {{LISE++: Exotic beam production with fragment separators}},
+  journal = {http://lise.nscl.msu.edu/lise.html},
+  owner = {chris},
+  timestamp = {2014.02.20}
+}
+
+@ELECTRONIC{,
+  owner = {chris},
+  timestamp = {2014.02.20}
 }
 

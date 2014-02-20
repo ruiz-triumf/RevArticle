@@ -32,45 +32,51 @@ Warning--empty title in wre10
 Warning--empty title in cou08
 Warning--empty journal in chr14
 Warning--empty title in laz01
-You've used 101 entries,
+Warning--empty author in lise++
+Warning--empty year in lise++
+Warning--empty author in geant3
+Warning--empty year in geant3
+Warning--empty author in geant4
+Warning--empty year in geant4
+You've used 105 entries,
             1791 wiz_defined-function locations,
-            995 strings with 15424 characters,
-and the built_in function-call counts, 22722 in all, are:
-= -- 1987
-> -- 1010
+            1009 strings with 15906 characters,
+and the built_in function-call counts, 23260 in all, are:
+= -- 2029
+> -- 1021
 < -- 4
-+ -- 373
-- -- 272
-* -- 1657
-:= -- 3695
-add.period$ -- 275
-call.type$ -- 101
-change.case$ -- 69
++ -- 379
+- -- 274
+* -- 1693
+:= -- 3768
+add.period$ -- 284
+call.type$ -- 105
+change.case$ -- 73
 chr.to.int$ -- 0
-cite$ -- 131
-duplicate$ -- 921
-empty$ -- 2244
-format.name$ -- 272
-if$ -- 4968
+cite$ -- 141
+duplicate$ -- 954
+empty$ -- 2308
+format.name$ -- 274
+if$ -- 5086
 int.to.chr$ -- 0
-int.to.str$ -- 101
-missing$ -- 100
-newline$ -- 480
-num.names$ -- 102
-pop$ -- 162
+int.to.str$ -- 105
+missing$ -- 104
+newline$ -- 497
+num.names$ -- 103
+pop$ -- 180
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 390
+skip$ -- 405
 stack$ -- 0
-substring$ -- 1877
-swap$ -- 120
+substring$ -- 1895
+swap$ -- 124
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 30
-while$ -- 223
-width$ -- 104
-write$ -- 1049
-(There were 30 warnings)
+warning$ -- 36
+while$ -- 225
+width$ -- 108
+write$ -- 1080
+(There were 36 warnings)

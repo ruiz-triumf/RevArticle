@@ -56,6 +56,7 @@ G.~R. Caughlan and W.~A. Fowler.
 
 \bibitem{Hau52}
 W.~Hauser and H.~Feshbach.
+\newblock {The Inelastic Scattering of Neutrons}.
 \newblock {\em Physical Review}, 87:366, 1952.
 
 \bibitem{rolfs74}
@@ -97,6 +98,7 @@ John~L. Beveridge, Jacob Doornbos, and David~M. Gardner.
 
 \bibitem{Wo71}
 H.~Wollnik.
+\newblock {A "Q-value" for particle spectrometers}.
 \newblock {\em Nucl. Instr. Meth.}, 95:453, 1971.
 
 \bibitem{sch83}
@@ -279,6 +281,8 @@ D.~Sch\"{u}rmann et~al.
 
 \bibitem{schu05b}
 D.~Sch\"{u}rmann et~al.
+\newblock {First direct measurement of the total cross-section of
+  $^{12}$C($\alpha,\gamma$)$^{16}$O}.
 \newblock {\em Eur. Phys. J. A}, 26:301--305, 2005.
 
 \bibitem{dile09}
@@ -289,6 +293,7 @@ A.~DiLeva et~al.
 
 \bibitem{Da92}
 C.~N. Davids et~al.
+\newblock {Startup of the Fragment Mass Analyzer at ATLAS}.
 \newblock {\em Nucl. Instr. Meth. B}, 70:358, 1992.
 
 \bibitem{dav12}
@@ -297,6 +302,8 @@ B.~Davids.
 
 \bibitem{reh97}
 K.~E. Rehm et~al.
+\newblock {Exploring the $^{18}$F($p,\gamma$)$^{19}$Ne gateway to the formation
+  of heavy elements in hot stars}.
 \newblock {\em Phys. Rev. C}, 55:R566--569, 1997.
 
 \bibitem{angu01}
@@ -313,6 +320,8 @@ M.~Couder, C.~Angulo, E.~Casarejos, P.~Demaret, P.~Leleux, and F.~Vanderbist.
 
 \bibitem{smit98}
 M.S. Smith et~al.
+\newblock {Commissioning of the Daresbury recoil seperator for nuclear
+  astrophysics measurements at the Holifield radioactive ion beam facility}.
 \newblock {\em Proc. Of the 2nd Oak Ridge Symp. on Atomic and Nuclear
   Astrophysics, ed. A. Mezzacappa}, pages 511--18, 1998.
 
@@ -435,50 +444,72 @@ L.~Gialanella, F.~Strieder, et~al.
 
 \bibitem{bat01}
 N.~Bateman et~al.
+\newblock {Measurement of the $^{24}$Mg($p,t$)$^{22}$Mg reaction and
+  implications for the $^{21}$Na($p,\gamma$)$^{22}$Mg stellar reaction rate}.
 \newblock {\em Phys. Rev. C}, 63:035803, 2001.
 
 \bibitem{mic02}
 S.~Michimasa et~al.
+\newblock {Measurement of the $^{24}$Mg($p,t$)$^{22}$Mg reaction for the states
+  near the $^{21}$Na + $p$ threshold}.
 \newblock {\em Eur. Phys. J. A}, 14:275, 2002.
 
 \bibitem{cag02}
 J.~A. Caggiano et~al.
+\newblock {Excitation energies in $^{22}$Mg from the
+  $^{25}$Mg($^{3}$He,$^{6}$He)$^{22}$Mg reaction}.
 \newblock {\em Phys. Rev. C}, 66:15804, 2002.
 
 \bibitem{che01}
 A.~A. Chen et~al.
+\newblock {Structure of $^{22}$Mg and its implications for explosive
+  nucleosynthesis}.
 \newblock {\em Phys. Rev. C}, 63:065807, 2001.
 
 \bibitem{rol72}
 C.~E. Rolfs et~al.
+\newblock {A study of the low-lying states in $^{22}$Mg}.
 \newblock {\em Nucl. Phys. A}, 191:209, 1972.
 
 \bibitem{rui05}
 C.~Ruiz et~al.
+\newblock {Multichannel R-matrix analysis of elastic and inelastic resonances
+  in the $^{21}$Na+ p compound system}.
 \newblock {\em Phys. Rev. C}, 71:025802, 2005.
 
 \bibitem{sew05}
 D.~Seweryniak et~al.
+\newblock {Level Structure of $^{22}$Mg: Implications for the
+  $^{21}$Na($p,\gamma$)$^{22}$Mg Astrophysical Reaction Rate and for the
+  $^{22}$Mg Mass}.
 \newblock {\em Phys. Rev. Lett.}, 94:032501, 2005.
 
 \bibitem{jos99}
 J.~Jos\'{e}, A.~Coc, and M.~Hernanz.
+\newblock {Nuclear Uncertainties in the NeNa-MgAl Cycles and Production of
+  $^{22}$Na and $^{26}$Al during Nova Outbursts}.
 \newblock {\em Astrophys. J.}, 520:347, 1999.
 
 \bibitem{har03}
 J.~Hardy et~al.
+\newblock {High Precision Measurement of the Superallowed 0$^{+}\rightarrow
+  0^{+}~\beta$ Decay of $^{22}$Mg}.
 \newblock {\em Phys. Rev. Lett.}, 91:082501, 2003.
 
 \bibitem{smi03}
 D.~M. Smith.
+\newblock {The Reuven Ramaty High Energy Solar Spectroscopic Imager Observation
+  of the 1809 keV Line from Galactic $^{26}$Al}.
 \newblock {\em Astrophys. J. Lett.}, 589:L55, 2003.
 
 \bibitem{kno04}
 J.~Kn\"{o}dlseder.
+\newblock {First results of the INTEGRAL spectrometer SPI}.
 \newblock {\em New Astron. Rev.}, 48:189, 2004.
 
 \bibitem{die95}
 R.~Diehl et~al.
+\newblock {COMPTEL observations of Galactic $^{26}$Al emission}.
 \newblock {\em Astron. Astrophys}, 298:445, 1995.
 
 \bibitem{chip09a}
@@ -491,38 +522,56 @@ K.~A. Chipps, D.~W. Bardayan, J.~C. Blackmon, K.~Y. Chae, U.~Greife,
 
 \bibitem{ili02}
 C.~Iliadis et~al.
+\newblock {The Effects of Thermonuclear Reaction-Rate Variations on Nova
+  Nucleosynthesis: A Sensitivity Study}.
 \newblock {\em Astrophys. J. Suppl.}, 142:105, 2002.
 
 \bibitem{gre91}
 M.~Greenfield et~al.
+\newblock {The $^{24}$Mg($^{3}$He,$t$)$^{24}$Al reaction and L=1 giant
+  resonance systematics using an effective $^{3}$He-$n$ interaction at 27
+  MeV/nucleon}.
 \newblock {\em Nucl. Phys. A}, 524:228, 1991.
 
 \bibitem{kub95}
-S.~K.~S. Kubono and T.~Kajino.
+S.~Kubono, T.~Kajino, and S.~Kato.
+\newblock {Structure of $^{24}$Al for the stellar reaction rate of
+  $^{23}$Mg($p,\gamma$)$^{24}$Al}.
 \newblock {\em Nucl. Phys. A}, 588:521, 1995.
 
 \bibitem{vis07}
 D.~Visser et~al.
+\newblock {Measurement of $^{Mg}$23($p,\gamma$)$^{24}$Al resonance energies}.
 \newblock {\em Phys. Rev. C}, 76:065803, 2007.
 
 \bibitem{zeg08}
 R.~Zegers et~al.
+\newblock {Spectroscopy of $^{24}$Al and extraction of Gamow-Teller strengths
+  with the $^{24}$Mg($^{3}$He,$t$) reaction at 420 MeV}.
 \newblock {\em Phys. Rev. C}, 78:014314, 2008.
 
 \bibitem{lot08}
 G.~Lotay et~al.
+\newblock {First in-beam $\gamma$-ray spectroscopy study of $^{24}$Al and its
+  implications for the astrophysical $^{23}$Mg($p,\gamma$)$^{24}$Al reaction
+  rate in ONe novae}.
 \newblock {\em Phys. Rev. C}, 77:042802(R), 2008.
 
 \bibitem{las09}
 J.~Lassen et~al.
+\newblock {Laser Ion Source Operation at the TRIUMF Radioactive Ion Beam
+  Facility}.
 \newblock {\em AIP Conf. Proc.}, 1104:9, 2009.
 
 \bibitem{wre10}
 C.~Wrede et~al.
+\newblock {Properties of $^{20}$Na, $^{24}$Al, $^{28}$P, $^{32}$Cl, and
+  $^{36}$K for studies of explosive hydrogen burning}.
 \newblock {\em Phys. Rev. C}, 82:035805, 2010.
 
 \bibitem{cou08}
 M.~Couder et~al.
+\newblock {Design of the recoil mass separator St. George}.
 \newblock {\em Nucl. Instr. Meth. A}, 587:34--45, 2008.
 
 \bibitem{ber10}
@@ -549,7 +598,8 @@ R.D. Page et~al.
 \newblock {\em Nucl. Instr. Meth. B}, 204:634--637, 2003.
 
 \bibitem{laz01}
-I.H. Lazarus et~al.
+I.~Lazarus et~al.
+\newblock {The GREAT triggerless total data readout method}.
 \newblock {\em IEEE Trans. Nucl. Sci.}, 48:567, 2001.
 
 \bibitem{chr14b}

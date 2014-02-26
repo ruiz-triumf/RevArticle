@@ -2,36 +2,8 @@ This is BibTeX, Version 0.99c (TeX Live 2009)
 The top-level auxiliary file: RevArticle.aux
 The style file: unsrt.bst
 Database file #1: refs.bib
-Warning--empty title in Hau52
-Warning--empty title in Wo71
-Warning--empty title in schu05b
-Warning--empty title in Da92
-Warning--empty title in reh97
-Warning--empty title in smit98
 Warning--empty journal in Fal14
-Warning--empty title in bat01
-Warning--empty title in mic02
-Warning--empty title in cag02
-Warning--empty title in che01
-Warning--empty title in rol72
-Warning--empty title in rui05
-Warning--empty title in sew05
-Warning--empty title in jos99
-Warning--empty title in har03
-Warning--empty title in smi03
-Warning--empty title in kno04
-Warning--empty title in die95
-Warning--empty title in ili02
-Warning--empty title in gre91
-Warning--empty title in kub95
-Warning--empty title in vis07
-Warning--empty title in zeg08
-Warning--empty title in lot08
-Warning--empty title in las09
-Warning--empty title in wre10
-Warning--empty title in cou08
 Warning--empty journal in chr14
-Warning--empty title in laz01
 Warning--empty author in lise++
 Warning--empty year in lise++
 Warning--empty author in geant3
@@ -40,34 +12,34 @@ Warning--empty author in geant4
 Warning--empty year in geant4
 You've used 107 entries,
             1791 wiz_defined-function locations,
-            1020 strings with 16164 characters,
-and the built_in function-call counts, 23674 in all, are:
-= -- 2069
-> -- 1029
+            1047 strings with 18598 characters,
+and the built_in function-call counts, 23827 in all, are:
+= -- 2125
+> -- 1032
 < -- 4
-+ -- 383
-- -- 276
-* -- 1719
-:= -- 3834
-add.period$ -- 290
++ -- 384
+- -- 277
+* -- 1638
+:= -- 3893
+add.period$ -- 318
 call.type$ -- 107
-change.case$ -- 75
+change.case$ -- 103
 chr.to.int$ -- 0
-cite$ -- 143
+cite$ -- 115
 duplicate$ -- 972
 empty$ -- 2354
-format.name$ -- 276
-if$ -- 5180
+format.name$ -- 277
+if$ -- 5238
 int.to.chr$ -- 0
 int.to.str$ -- 107
 missing$ -- 106
-newline$ -- 507
+newline$ -- 535
 num.names$ -- 105
-pop$ -- 182
+pop$ -- 154
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 411
+skip$ -- 410
 stack$ -- 0
 substring$ -- 1937
 swap$ -- 126
@@ -75,8 +47,8 @@ text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 36
+warning$ -- 8
 while$ -- 229
 width$ -- 110
-write$ -- 1102
-(There were 36 warnings)
+write$ -- 1158
+(There were 8 warnings)

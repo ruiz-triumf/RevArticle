@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  26 FEB 2014 15:09
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  27 FEB 2014 11:22
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -501,6 +501,11 @@ File: Erikson_2010.pdf Graphic file (type pdf)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [43 <./Mg23_tof_IC.pdf> <./Mg23_dE_E.pdf>]
+Overfull \hbox (1.42712pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 Re-coil sep-a-ra-tor for cap-ture Gamma-ray Ex-per-i-ments) [98
+]
+ []
+
 <stgeorge.pdf, id=629, 343.2825pt x 173.59254pt>
 File: stgeorge.pdf Graphic file (type pdf)
  <use stgeorge.pdf>
@@ -636,7 +641,7 @@ al/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/loca
 l/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/
 texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/t
 exlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on RevArticle.pdf (55 pages, 2356406 bytes).
+Output written on RevArticle.pdf (55 pages, 2356525 bytes).
 PDF statistics:
  840 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

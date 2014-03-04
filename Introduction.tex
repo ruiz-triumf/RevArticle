@@ -81,20 +81,20 @@ In inverse kinematics, since the recoiling product nucleus is generally detected
 
 In the inverse kinematics radiative capture reaction, the beam particle with laboratory energy $T'_{1}$ and mass $m_{1}$ is incident on the target particle of mass $m_{2}$, forming an excited compound nucleus with mass $m^{*}_{3}=m_{3}+E_{x}$. From energy conservation, it follows that the kinetic energy in the laboratory frame of the excited recoil is $T'^{*}_{3}=T'_{1}-E$ (the asterisk denoting the excited state), i.e. the laboratory kinetic energy of the beam minus the relative centre-of-mass energy of the beam+target. Thus, since subsequent emission of a gamma ray can only remove energy from the system, the kinetic energy of the recoiling nucleus is {\em always} smaller than the beam energy. If the ratio of beam to target mass is large, the recoil energy can be only a relatively small amount lower than the beam energy, a fact that becomes important for recoil separation techniques to be discussed later. 
 
-The excited recoil nucleus then decays via emission of one or more gamma rays. In this example we will consider only one such decay to the ground state. Before the decay, by conservation of linear momentum, the excited nucleus has momentum  equal to that of the incident beam momentum: $(\vec{p}'_{3})^{*}=((E'_{3})^{*},0,0,(p'_{3})^{*})=\vec{p}'_{1}$, where we use the relativistic 4-momentum formalism, and define the z-axis to be the incident beam particle axis.  
+The excited recoil nucleus then decays via emission of one or more gamma rays. In this example we will consider only one such decay to the ground state. Before the decay, by conservation of linear momentum, the excited nucleus has momentum  equal to that of the incident beam momentum: $(\vec{P}'_{3})^{*}=((E'_{3})^{*},0,0,(p'_{3})^{*})=\vec{P}'_{1}$, where we use the relativistic 4-momentum formalism, and define the z-axis to be the incident beam particle axis.  
 
-The gamma ray is emitted (see fig. \ref{fig:kinematics}) in the C.M. system at an angle $\theta_{\gamma}$ w.r.t the z-axis (unprimed quantities are in the C.M. system). Since the recoil moves in a direction in the centre-of-mass system opposite to the gamma ray, we can combine the x- and y-coordinates and talk instead of the momentum components along the z-axis and perpendicular to the z-axis. Thus the gamma ray will have momentum equal to $\vec{p}_{\gamma}=(E_{\gamma},\vec{p}_{\gamma,\perp},p_{\gamma,z})$,  while the recoil will have momentum  $\vec{p}_{3}=(E_{3},p_{3, \perp},p_{3,z})$. To transform into the laboratory system we use the Lorentz transform equations:  
+The gamma ray is emitted (see fig. \ref{fig:kinematics}) in the C.M. system at an angle $\theta_{\gamma}$ w.r.t the z-axis (unprimed quantities are in the C.M. system). Since the recoil moves in a direction in the centre-of-mass system opposite to the gamma ray, we can combine the x- and y-coordinates and talk instead of the momentum components along the z-axis $(z)$ and perpendicular to the z-axis $(\perp)$. Thus the gamma ray will have momentum equal to $\vec{P}_{\gamma}=(E_\gamma, \vec{p}_{\gamma \left( \perp \right)}, p_{\gamma \left( z \right)})$,  while the recoil will have momentum  $\vec{P}_{3}=(E_{3},\vec{p}_{3 \left( \perp \right)},p_{3 \left( z \right)})$. To transform into the laboratory system we use the Lorentz transform equations\footnote{Note that the transformations are into the laboratory frame, which is moving in the direction of negative $z$ w.r.t. the beam direction from the point of view of an observer in the C.M. frame, hence the {\em inverse Lorentz transform} form of the equations are used.}:  
 
 \begin{equation}
-E'_{i}=\gamma(E_{i}+Vp_{i,z})
+E'_{i}=\gamma(E_{i}+Vp_{i \left( z \right)})
 \end{equation}
 \begin{equation}
-p'_{i,z}=\gamma(p_{i,z}+VE_{i})
+p'_{i \left( z \right)}=\gamma(p_{i \left( z \right)}+VE_{i})
 \end{equation}
 \begin{equation}
-\vec{p}'_{i,\perp}=\vec{p}_{i,\perp}
+\vec{p}'_{i \left( \perp \right)}=\vec{p}_{i \left( \perp \right)}
 \end{equation}
-
+%
 where $V=(p'_{3})^{*}/(E'_{3})^{*}$ is the velocity of the centre-of-mass system and $\gamma=(E'_{3})^{*}/m^{*}_{3}$ is the relativistic factor. 
 
 These can be used to derive an exact expression for recoil kinetic energy:
@@ -103,8 +103,8 @@ These can be used to derive an exact expression for recoil kinetic energy:
 \label{eqn:recoilenergy}
 T'_{3}=\gamma(\sqrt{m_{3}^{2}+E_{\gamma}^{2}}-VE_{\gamma}\cos{\theta_{\gamma}})-m_{3}
 \end{equation}
-
-with the central kinetic energy (at $\theta_{\gamma}=\pi/2$) given by:
+%
+Evaluating this at $\theta_\gamma = \pi / 2$ and expanding the relativistic factor, $\gamma$, we get the {\em central kinetic energy} of the recoil:
 
 \begin{equation}
 T'_{3}=\frac{T'_{1}+Q+m_{2}}{m_{3}+E_{x}}\sqrt{m_{3}^{2}+E_{\gamma}^{2}}-m_{3}
@@ -115,14 +115,14 @@ We can derive a similar expression for the laboratory gamma ray energy:
 \begin{equation}
 E'_{\gamma}=\gamma E_{\gamma}(1+V\cos{\theta_{\gamma}})
 \end{equation}
-
+%
 and for the laboratory gamma ray angle:
 
 \begin{equation}
 \tan{\theta'_{\gamma}}=\gamma^{-1}\frac{\sin{\theta_{\gamma}}}{\cos{\theta_{\gamma}}+V}
 \label{eqn:thetagamma}
 \end{equation}
-
+%
 The latter two equations effectively show the Doppler effect on the gamma ray, resulting in a change in photon wavelength and direction in the laboratory frame. This effect also has the result of pushing flux in the backwards and forwards C.M. hemispheres forwards when transformed into the laboratory frame, resulting in a slight preference for flux in the forward laboratory frame. This has implications when considering to use gamma-ray hit-pattern information to deduce the reaction spatial origin in extended targets, as we shall see later on.  
 
 \begin{figure}
@@ -149,13 +149,13 @@ Returning to the Lorentz transformation expression, we can derive a similar expr
 \begin{equation}
 \tan{\theta'_{3}} = \frac{\sin{\theta_{3}}}{\gamma(V/v_{3}+\cos{\theta_{3}})}
 \end{equation}
-
-where, $v_{3}$ is the recoil velocity in the centre-of-mass frame given to the product nucleus due to the emission of the $\gamma$ ray, and $\theta_{3}$ is the angle of the recoiling nucleus in the centre-of-mass frame with respect to the incident beam particle direction. The maximum recoil angle that can possibly occur is when the energy of the emitted $\gamma$-ray is maximized ($E_{\gamma}=Q+E$), where $E$ is the relative energy of target and projectile in the centre-of-mass\footnote{ $E=\sqrt{2m_{2}(T'_{1}+m_{1})+m_{1}^{2}+m_{2}^{2}}-m_{1}-m_{2}$, and in the non-relativistic approximation $E=\frac{m_{2}}{m_{1}+m_{2}}T'_{1}$ }, and the emission occurs perpendicular to the incident beam direction ($\theta_{3}=\pi/2$) so that:
+%
+Here, $v_{3}$ is the recoil velocity in the centre-of-mass frame given to the product nucleus due to the emission of the $\gamma$ ray, and $\theta_{3}$ is the angle of the recoiling nucleus in the centre-of-mass frame with respect to the incident beam particle direction. The maximum recoil angle that can possibly occur is when the energy of the emitted $\gamma$-ray is maximized ($E_{\gamma}=Q+E$), where $E$ is the relative energy of target and projectile in the centre-of-mass\footnote{ $E=\sqrt{2m_{2}(T'_{1}+m_{1})+m_{1}^{2}+m_{2}^{2}}-m_{1}-m_{2}$, and in the non-relativistic approximation $E=\frac{m_{2}}{m_{1}+m_{2}}T'_{1}$ }, and the emission occurs perpendicular to the incident beam direction ($\theta_{3}=\pi/2$) so that:
 
 \begin{equation}
 \tan{\theta'_{3,max}}=\frac{v_{3}}{\gamma V}
 \end{equation} 
-
+%
 It can be shown that in the non-relativistic limit this can be approximated by:
 
 \begin{equation} \label{eq:6}
@@ -163,7 +163,7 @@ It can be shown that in the non-relativistic limit this can be approximated by:
 \end{equation}
 %In the following discussion we assume a projectile of mass $m_{1}$, momentum $p_{1}$ and kinetic energy $T_{1}=p_{1}^{2}/2m_{1}$ is incident on a stationary target particle of mass $m_{2}$.   
 %The relative energy in the centre-of-mass system is given by:\footnote{The fully relativistic expressions are: $T_{1}=\sqrt{p_{1}^{2}+m_{1}^{2}}-m_{1}$ and $E_\mathrm{c.m.}=\sqrt{2m_{2}(T_{1}+m_{1})+m_{1}^{2}+m_{2}^{2}}-m_{1}-m_{2}$, with all energies in units of MeV and all masses in units of MeV/$c^{2}$.  }
-
+%
 %\begin{equation}
 %E_\mathrm{c.m.}=\frac{m_{2}}{m_{1}+m_{2}}T_{1}
 %\end{equation} 
@@ -186,13 +186,13 @@ One can immediately see from the figure that for a finite angular acceptance rec
 \resizebox{\columnwidth}{!}{
 \includegraphics{26altheta}
 }
-\caption{Hypothetical inverse kinematics distribution of recoil angles emerging from the $^{26}$Al($p,\gamma$)$^{27}$Si reaction at $E_{c.m.}$=188 keV in an extended gas target, using realistic values of beam emittance, energy spread, and straggling (isotropic gamma ray angular distribution in the C.M. system). The solid line shows the case where 100\% of decays are to the ground state; the dashed line shows the case for a series of cascade gamma rays. The dotted line shows the maximum possible recoil angle in the case of perfectly aligned incident beam particles. }
+\caption{Hypothetical inverse kinematics distribution of recoil angles emerging from the $^{26}$Al($p,\gamma$)$^{27}$Si reaction at $E_{c.m.}$=188 keV in an extended gas target, using realistic values of beam emittance, energy spread, and straggling (isotropic gamma ray angular distribution in the C.M. system). The solid histogram shows the case where 100\% of decays are to the ground state; the dashed histogram shows the case for a series of cascade gamma rays. The dotted line shows the maximum possible recoil angle in the case of perfectly aligned incident beam particles. }
 \label{fig:26altheta}       % Give a unique label
 \end{figure}
 
 \subsubsection{$\gamma$-ray angular distribution and effect on recoil angle and energy} 
 
-The angular distribution of the gamma rays in the centre-of-mass system also plays a role in determining the recoil angular (and energy) distribution. Since we are considering the effect on the recoil angular distribution, we are talking here about the cumulative effect of several gamma rays in a cascade. In principle, this depends in a complicated fashion on the spins of the nuclear levels and the multipole mixing ratios of the gamma transitions. For simplicity, we consider the case where the initial transition is to the ground state or to a very low-lying excited state, so that subsequent transitions (if any) have negligible impact of the momentum of the heavy recoil particle. In addition, most of the low energy radiative capture reactions interesting for astrophysics will proceed via low orbital angular momentum transfer into a resonant state. For direct capture the situation can be complicated and is not considered here, but for individual narrow resonances, states of definite $J^{\pi}$ are populated.
+The angular distribution of the gamma rays in the centre-of-mass system also plays a role in determining the recoil angular (and energy) distribution. Since we are considering the effect on the recoil angular distribution, we are talking here about the cumulative effect of several gamma rays in a cascade. In principle, this depends in a complicated fashion on the spins of the nuclear levels and the multipole mixing ratios of the gamma transitions. For simplicity, we consider the case where the initial transition is to the ground state or to a very low-lying excited state, so that subsequent transitions (if any) have negligible impact on the momentum of the heavy recoil particle. In addition, most of the low energy radiative capture reactions interesting for astrophysics will proceed via low orbital angular momentum transfer into a resonant state. For direct capture the situation can be complicated and is not considered here, but for individual narrow resonances, states of definite $J^{\pi}$ are populated.
 
 For s-wave proton capture, the distribution of initial $\gamma$ decays will be isotropic in the centre-of-mass frame because it is clear that when $\ell=0$ the compound nuclei are formed with no preferred axis, the unpolarized initial beam and target spins combining randomly. Thus although each {\em individual} $\gamma$ decay will certainly have some preferred direction with respect to the just-formed spin axis of the excited nucleus (which can in principle be an admixture of multipolarities), the distribution of directions of all decays will be uniform over a sphere in the centre-of-momentum system. In the case of initial s-wave capture into a series of cascade transitions, one can expect subsequent decays to be randomly oriented with respect to the beam axis as well even though the angle between two successive decays from the same nucleus will be correlated. Thus for the purposes of calculating the effect on the final distribution of recoil angles, s-wave captures can to a good approximation be thought of as a series of isotropic decays in the C.M. frame. 
 

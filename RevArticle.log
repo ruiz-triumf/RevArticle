@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  3 MAR 2014 11:41
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  3 MAR 2014 16:27
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -195,17 +195,26 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [5 <./HotCNO_general.pdf>] <radcap.pdf, id=64, 326.21875pt x 244.915pt>
 File: radcap.pdf Graphic file (type pdf)
  <use radcap.pdf>
-[6 <./NeNa-cycle_legend.pdf> <./radcap.pdf>] [7]
-Overfull \hbox (4.0521pt too wide) in paragraph at lines 126--127
+[6 <./NeNa-cycle_legend.pdf> <./radcap.pdf>]
+Overfull \hbox (8.32678pt too wide) in paragraph at lines 86--87
+\OT1/cmr/m/n/10 while the re-coil will have mo-men-tum $[][] = (\OML/cmm/m/it/1
+0 E[]; [][]; p[]\OT1/cmr/m/n/10 )$.
+ []
+
+
+Overfull \hbox (2.41318pt too wide) in paragraph at lines 86--87
+\OT1/cmr/m/n/10 To trans-form into the lab-o-ra-tory sys-tem we use the Lorentz
+
+ []
+
+[7]
+Overfull \hbox (4.0521pt too wide) in paragraph at lines 124--127
 \OT1/cmr/m/n/10 and for-wards C.M. hemi-spheres for-wards when trans-formed
  []
 
 <kinematics.pdf, id=104, 587.19376pt x 505.89pt>
 File: kinematics.pdf Graphic file (type pdf)
- <use kinematics.pdf>
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8 <./kinematics.pdf>]
+ <use kinematics.pdf> [8 <./kinematics.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
@@ -644,7 +653,7 @@ al/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/loca
 l/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/
 texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/t
 exlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on RevArticle.pdf (55 pages, 2356132 bytes).
+Output written on RevArticle.pdf (55 pages, 2357705 bytes).
 PDF statistics:
  840 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  3 MAR 2014 16:37
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  5 MAR 2014 09:50
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -196,6 +196,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: radcap.pdf Graphic file (type pdf)
  <use radcap.pdf>
 [6 <./NeNa-cycle_legend.pdf> <./radcap.pdf>]
+Underfull \vbox (badness 1005) has occurred while \output is active []
+
+
 Overfull \hbox (8.32678pt too wide) in paragraph at lines 86--87
 \OT1/cmr/m/n/10 while the re-coil will have mo-men-tum $[][] = (\OML/cmm/m/it/1
 0 E[]; [][]; p[]\OT1/cmr/m/n/10 )$.
@@ -228,8 +231,12 @@ theta.pdf, page is rotated 90 degrees>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-(./DesignPrinciples.tex [11] [12]
+(./DesignPrinciples.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+[12]
+Underfull \vbox (badness 3758) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -238,26 +245,26 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14]
-[15]
+Underfull \vbox (badness 1005) has occurred while \output is active []
+
+ [15]
+[16]
 Overfull \hbox (12.38539pt too wide) in paragraph at lines 130--131
 []\OT1/cmr/m/n/10 As an ex-am-ple of the mag-ni-tude of such ef-fects, Schlacht
 er
  []
 
-[16]
+[17]
 Overfull \hbox (6.81607pt too wide) in paragraph at lines 153--154
 \OT1/cmr/m/n/10 tar-get num-ber den-sity of ap-prox-i-mately $5 \OMS/cmsy/m/n/1
 0 ^^B \OT1/cmr/m/n/10 10[] []$
  []
 
-[17]
 <Hutcheon03_Fig5_DRAGON-gastargetpumps.pdf, id=242, 822.07124pt x 794.97pt>
 File: Hutcheon03_Fig5_DRAGON-gastargetpumps.pdf Graphic file (type pdf)
 
-<use Hutcheon03_Fig5_DRAGON-gastargetpumps.pdf>
-Underfull \vbox (badness 3302) has occurred while \output is active []
-
- [18 <./Hutcheon03_Fig5_DRAGON-gastargetpumps.pdf>]
+<use Hutcheon03_Fig5_DRAGON-gastargetpumps.pdf> [18 <./Hutcheon03_Fig5_DRAGON-g
+astargetpumps.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -265,24 +272,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 181--182
 
  []
 
-<pumpschematic2.pdf, id=249, 1594.95876pt x 1821.80624pt>
+[19] <pumpschematic2.pdf, id=253, 1594.95876pt x 1821.80624pt>
 File: pumpschematic2.pdf Graphic file (type pdf)
 
 <use pumpschematic2.pdf>) (./AncDetectors.tex
-<Vockenhuber08_Fig3_XSLITM-chamber.pdf, id=250, 649.33589pt x 712.56313pt>
+<Vockenhuber08_Fig3_XSLITM-chamber.pdf, id=254, 649.33589pt x 712.56313pt>
 File: Vockenhuber08_Fig3_XSLITM-chamber.pdf Graphic file (type pdf)
 
 <use Vockenhuber08_Fig3_XSLITM-chamber.pdf>
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [19]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [20 <./pumpschematic2.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21 <./Vockenhuber08_Fig3_XSLITM-chamber.pdf>]
-Underfull \vbox (badness 3396) has occurred while \output is active []
+Underfull \vbox (badness 3758) has occurred while \output is active []
 
 
 <Radeka84_Fig2_MicrostripDetector_PositionInterpolation.pdf, id=277, 557.00394p
@@ -641,7 +645,7 @@ Here is how much of TeX's memory you used:
  4770 multiletter control sequences out of 15000+200000
  12551 words of font info for 44 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 27i,9n,28p,3337b,276s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,9n,28p,3359b,276s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2009/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmbsy10.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmbx10.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/ams
@@ -668,7 +672,7 @@ xlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/tex
 live/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texli
 ve/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texliv
 e/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on RevArticle.pdf (56 pages, 5085405 bytes).
+Output written on RevArticle.pdf (56 pages, 5085720 bytes).
 PDF statistics:
  852 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

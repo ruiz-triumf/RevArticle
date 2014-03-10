@@ -10,45 +10,45 @@ Warning--empty author in geant3
 Warning--empty year in geant3
 Warning--empty author in geant4
 Warning--empty year in geant4
-You've used 107 entries,
+You've used 106 entries,
             1791 wiz_defined-function locations,
-            1047 strings with 18598 characters,
-and the built_in function-call counts, 23827 in all, are:
-= -- 2125
-> -- 1032
+            1044 strings with 18572 characters,
+and the built_in function-call counts, 23652 in all, are:
+= -- 2112
+> -- 1024
 < -- 4
-+ -- 384
-- -- 277
-* -- 1638
-:= -- 3893
-add.period$ -- 318
-call.type$ -- 107
-change.case$ -- 103
++ -- 381
+- -- 275
+* -- 1629
+:= -- 3862
+add.period$ -- 315
+call.type$ -- 106
+change.case$ -- 102
 chr.to.int$ -- 0
-cite$ -- 115
-duplicate$ -- 972
-empty$ -- 2354
-format.name$ -- 277
-if$ -- 5238
+cite$ -- 114
+duplicate$ -- 963
+empty$ -- 2335
+format.name$ -- 275
+if$ -- 5197
 int.to.chr$ -- 0
-int.to.str$ -- 107
-missing$ -- 106
-newline$ -- 535
-num.names$ -- 105
-pop$ -- 154
+int.to.str$ -- 106
+missing$ -- 105
+newline$ -- 530
+num.names$ -- 104
+pop$ -- 153
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 410
+skip$ -- 406
 stack$ -- 0
-substring$ -- 1937
-swap$ -- 126
+substring$ -- 1932
+swap$ -- 125
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 8
-while$ -- 229
-width$ -- 110
-write$ -- 1158
+while$ -- 228
+width$ -- 109
+write$ -- 1147
 (There were 8 warnings)

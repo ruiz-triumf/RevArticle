@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  10 MAR 2014 16:00
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  10 MAR 2014 16:14
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -526,7 +526,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [43]
 Overfull \hbox (1.42712pt too wide) in paragraph at lines 7--8
-\OT1/cmr/m/n/10 Re-coil sep-a-ra-tor for cap-ture Gamma-ray Ex-per-i-ments) [98
+\OT1/cmr/m/n/10 Re-coil sep-a-ra-tor for cap-ture Gamma-ray Ex-per-i-ments) [97
 ]
  []
 
@@ -605,28 +605,28 @@ Underfull \hbox (badness 2173) in paragraph at lines 398--402
  []
 
 [54]
-Underfull \hbox (badness 1132) in paragraph at lines 554--559
+Underfull \hbox (badness 1132) in paragraph at lines 548--553
 []\OT1/cmr/m/n/9 G. Lotay et al.  First in-beam $\OML/cmm/m/it/9 ^^M$\OT1/cmr/m
 /n/9 -ray spec-troscopy
  []
 
 [55]
-Underfull \hbox (badness 1371) in paragraph at lines 606--610
+Underfull \hbox (badness 1371) in paragraph at lines 600--604
 []\OT1/cmr/m/n/9 G. Chris-tian et al.  De-sign and com-mis-sion-ing of
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 606--610
+Underfull \hbox (badness 1810) in paragraph at lines 600--604
 \OT1/cmr/m/n/9 a timestamp-based data ac-qui-si-tion sys-tem for the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 620--623
+Underfull \hbox (badness 10000) in paragraph at lines 614--617
 []\OT1/cmr/m/n/9 GEANT4: a toolkit for the sim-u-la-tion of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 620--623
+Underfull \hbox (badness 10000) in paragraph at lines 614--617
 \OT1/cmr/m/n/9 the pas-sage of par-ti-cles through mat-ter.
  []
 
@@ -634,10 +634,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 620--623
 
 ] (./RevArticle.aux) ) 
 Here is how much of TeX's memory you used:
- 1517 strings out of 493848
- 19579 string characters out of 3149207
- 78917 words of memory out of 3000000
- 4770 multiletter control sequences out of 15000+200000
+ 1516 strings out of 493848
+ 19572 string characters out of 3149207
+ 78912 words of memory out of 3000000
+ 4769 multiletter control sequences out of 15000+200000
  12551 words of font info for 44 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  27i,9n,28p,3359b,276s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -667,7 +667,7 @@ xlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/tex
 live/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texli
 ve/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texliv
 e/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on RevArticle.pdf (56 pages, 5086676 bytes).
+Output written on RevArticle.pdf (56 pages, 5086543 bytes).
 PDF statistics:
  852 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

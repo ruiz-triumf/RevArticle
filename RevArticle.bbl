@@ -4,7 +4,7 @@
 C.~Angulo et~al.
 \newblock A compilation of charged particle induced thermonuclear reaction
   rates.
-\newblock {\em Nucl. Phys. A}, 656:3--181, 1999.
+\newblock {\em Nucl. Phys. A}, 656:3--182, 1999.
 
 \bibitem{scha98}
 H.~Schatz et~al.
@@ -62,7 +62,7 @@ W.~Hauser and H.~Feshbach.
 \bibitem{rolfs74}
 C.~Rolfs and R.~E. Azuma.
 \newblock Interference effects in
-  $^{12}\mathrm{C}$(p,$\gamma$)$^{13}\mathrm{N}$ and direct capture to bound
+  $^{12}\mathrm{C}$(p,$\gamma$)$^{13}\mathrm{N}$ and direct capture to unbound
   states.
 \newblock {\em Nucl. Phys. A}, 227:291--308, 1974.
 
@@ -186,7 +186,7 @@ K.~Wisshak, F.~K\"{a}ppeler, and G.~Schatz.
 
 \bibitem{kemm88}
 J.~A. Kemmer.
-\newblock Silicon detectors for nuclear reactions.
+\newblock Silicon detectors for nuclear radiation.
 \newblock {\em Sensors and Actuators}, 15:169--184, 1988.
 
 \bibitem{rade84}
@@ -352,7 +352,7 @@ S.~Engel, D.~A. Hutcheon, et~al.
 \bibitem{ball11}
 G.~C. Ball, L.~Buchmann, B.~Davids, R.~Kanungo, C.~Ruiz, and C.~E. Svensson.
 \newblock Physics with reaccelerated radioactive beams at {TRIUMF-ISAC}.
-\newblock {\em J. Phys. B: Nucl. Part. Phys}, 38:024003, 2011.
+\newblock {\em J. Phys. G: Nucl. Part. Phys}, 38:024003, 2011.
 
 \bibitem{lax02}
 R.~E. Laxdal et~al.
@@ -520,12 +520,6 @@ K.~A. Chipps, D.~W. Bardayan, J.~C. Blackmon, K.~Y. Chae, U.~Greife,
   $^{17}\mathrm{F}$($p$,$\gamma$)$^{18}\mathrm{Ne}$ Cross Section}.
 \newblock {\em Phys. Rev. Lett.}, 102:152502, Apr 2009.
 
-\bibitem{ili02}
-C.~Iliadis et~al.
-\newblock {The Effects of Thermonuclear Reaction-Rate Variations on Nova
-  Nucleosynthesis: A Sensitivity Study}.
-\newblock {\em Astrophys. J. Suppl.}, 142:105, 2002.
-
 \bibitem{gre91}
 M.~Greenfield et~al.
 \newblock {The $^{24}$Mg($^{3}$He,$t$)$^{24}$Al reaction and L=1 giant
@@ -572,7 +566,7 @@ C.~Wrede et~al.
 \bibitem{cou08}
 M.~Couder et~al.
 \newblock {Design of the recoil mass separator St. George}.
-\newblock {\em Nucl. Instr. Meth. A}, 587:34--45, 2008.
+\newblock {\em Nucl. Instr. Meth. A}, 587:35--45, 2008.
 
 \bibitem{ber10}
 Georg P.~A. Berg et~al.
